@@ -1,0 +1,30 @@
+title: AI仕事術ラボ
+description: 事務・ビジネスの「今日の仕事」をAIで短くする実践ハウツー。コピペで使えるプロンプト付きで配信中。
+author: イイヅカ ミナト
+lang: ja
+timezone: Asia/Tokyo
+
+url: "https://setaro99.github.io"
+baseurl: "/ai-shigoto-lab"
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+minima:
+  date_format: "%Y年%m月%d日"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
