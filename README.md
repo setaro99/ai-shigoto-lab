@@ -27,10 +27,15 @@
 
 | 記事テーマ | 紹介する本 | Amazonリンク |
 |---|---|---|
-| メール全般・議事録・報告・部下対応・会議 | 『AI議事録・メール術』 | `https://www.amazon.co.jp/dp/B0H92BMX67` |
-| Excel・関数・VBA・パワークエリ・データ整形 | 『ExcelをAIに書かせる本』 | `https://www.amazon.co.jp/dp/B0H93XVJP1` |
-| 事務全般・資料作成・マニュアル・引き継ぎ | 『残業ゼロのAI仕事術』 | `https://www.amazon.co.jp/dp/B0H7MLFPFM` |
-| 営業・商談・提案書・顧客フォロー | 『営業のためのAI仕事術』 | ※審査中。発売までは上記から近いものを選ぶ |
+| メール全般・議事録・報告・部下対応・会議・断り/催促メール | 『AI議事録・メール術』 | `https://www.amazon.co.jp/dp/B0H92BMX67` |
+| Excel・関数・VBA・パワークエリ・データ整形・集計 | 『ExcelをAIに書かせる本』 | `https://www.amazon.co.jp/dp/B0H93XVJP1` |
+| 事務全般・資料作成・マニュアル・引き継ぎ・業務改善 | 『残業ゼロのAI仕事術』 | `https://www.amazon.co.jp/dp/B0H7MLFPFM` |
+| 営業・商談・提案書・顧客フォロー・価格交渉 | 『営業のためのAI仕事術』 | `https://www.amazon.co.jp/dp/B0H532X5Q3` |
+| 経理・総務・経費精算・請求書・稟議書・規程・年末調整・労務 | 『経理・総務のAI活用大全』 | `https://www.amazon.co.jp/dp/B0HBN9MMKL` |
+| 個人事業主・フリーランス・見積書・契約・請求・SNS発信・確定申告 | 『個人事業主のためのAI事務所化計画』 | `https://www.amazon.co.jp/dp/B0HBMXRCXQ` |
+| シニア・50代60代・AI入門・暮らし・家族・趣味・スマホ活用 | 『50代からのやさしい生成AI入門』 | `https://www.amazon.co.jp/dp/B0HBN8FY76` |
+
+**全7冊とも ¥499・Kindle Unlimited会員は¥0。** 記事テーマに最も近い1冊を1段落目に、2段落目で「本の一覧」（`{{ '/books/' | relative_url }}`）へ。
 
 **書き方の例**（Excelの記事の場合）:
 
