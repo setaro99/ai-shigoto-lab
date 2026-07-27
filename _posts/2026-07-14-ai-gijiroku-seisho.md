@@ -78,9 +78,9 @@ AIが整えた議事録は読みやすい形になっていますが、社内外
 
 ## あわせて読みたい
 
-- [会議のアジェンダをAIで作る｜時間配分つきテンプレ]({% post_url 2026-07-19-ai-kaigi-agenda %})
-- [角の立たない断りメールの書き方｜AIプロンプト付き]({% post_url 2026-07-15-ai-kotowari-mail %})
-- [AIでお詫びメールを書く｜コピペで使える例文とプロンプト]({% post_url 2026-07-14-ai-owabi-mail %})
+- [会議のアジェンダをAIで作る｜時間配分つきテンプレ]({{ site.baseurl }}{% post_url 2026-07-19-ai-kaigi-agenda %})
+- [角の立たない断りメールの書き方｜AIプロンプト付き]({{ site.baseurl }}{% post_url 2026-07-15-ai-kotowari-mail %})
+- [AIでお詫びメールを書く｜コピペで使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-14-ai-owabi-mail %})
 
 ---
 
