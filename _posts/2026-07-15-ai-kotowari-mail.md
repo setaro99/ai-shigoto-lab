@@ -74,9 +74,9 @@ AIが作った文章は自然に読めても、そのまま送るには不十分
 
 ## あわせて読みたい
 
-- [AIでお詫びメールを書く｜コピペで使える例文とプロンプト]({% post_url 2026-07-14-ai-owabi-mail %})
-- [催促メールをAIで書く｜角の立たない例文とプロンプト]({% post_url 2026-07-24-ai-saisoku-mail %})
-- [議事録をAIで清書する方法｜走り書きメモから10分で]({% post_url 2026-07-14-ai-gijiroku-seisho %})
+- [AIでお詫びメールを書く｜コピペで使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-14-ai-owabi-mail %})
+- [催促メールをAIで書く｜角の立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-24-ai-saisoku-mail %})
+- [議事録をAIで清書する方法｜走り書きメモから10分で]({{ site.baseurl }}{% post_url 2026-07-14-ai-gijiroku-seisho %})
 
 ---
 

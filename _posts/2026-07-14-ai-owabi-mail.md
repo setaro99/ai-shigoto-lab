@@ -53,9 +53,9 @@ AIの文章はそのまま使えることが多いですが、社外に出す前
 
 ## あわせて読みたい
 
-- [角の立たない断りメールの書き方｜AIプロンプト付き]({% post_url 2026-07-15-ai-kotowari-mail %})
-- [催促メールをAIで書く｜角の立たない例文とプロンプト]({% post_url 2026-07-24-ai-saisoku-mail %})
-- [英語メールをAIで読む・返す｜翻訳より速い方法]({% post_url 2026-07-18-ai-eigo-mail %})
+- [角の立たない断りメールの書き方｜AIプロンプト付き]({{ site.baseurl }}{% post_url 2026-07-15-ai-kotowari-mail %})
+- [催促メールをAIで書く｜角の立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-24-ai-saisoku-mail %})
+- [英語メールをAIで読む・返す｜翻訳より速い方法]({{ site.baseurl }}{% post_url 2026-07-18-ai-eigo-mail %})
 
 ---
 
