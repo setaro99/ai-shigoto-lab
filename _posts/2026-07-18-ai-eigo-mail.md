@@ -65,6 +65,7 @@ AIの英訳は自然で読みやすいことが多い一方、そのまま送る
 - [AIでお詫びメールを書く｜コピペで使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-14-ai-owabi-mail %})
 - [角の立たない断りメールの書き方｜AIプロンプト付き]({{ site.baseurl }}{% post_url 2026-07-15-ai-kotowari-mail %})
 - [催促メールをAIで書く｜角の立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-24-ai-saisoku-mail %})
+- [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 
 ---
 

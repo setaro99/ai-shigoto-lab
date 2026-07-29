@@ -64,6 +64,7 @@ AIが作った返信文はそのまま使えることが多いですが、顧客
 - [AIでお詫びメールを書く｜コピペで使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-14-ai-owabi-mail %})
 - [角の立たない断りメールの書き方｜AIプロンプト付き]({{ site.baseurl }}{% post_url 2026-07-15-ai-kotowari-mail %})
 - [値上げ案内メールをAIで書く｜角が立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-28-ai-neage-annai-mail %})
+- [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 
 ---
 

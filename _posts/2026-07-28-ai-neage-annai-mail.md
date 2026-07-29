@@ -75,6 +75,7 @@ AIが作った文面はそのまま使えることが多いですが、社外に
 - [催促メールをAIで書く｜角の立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-24-ai-saisoku-mail %})
 - [角の立たない断りメールの書き方｜AIプロンプト付き]({{ site.baseurl }}{% post_url 2026-07-15-ai-kotowari-mail %})
 - [クレーム対応メールをAIで書く｜顧客対応の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-27-ai-claim-taiou-mail %})
+- [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 
 ---
 
