@@ -67,6 +67,7 @@ AIが作った文章はそのまま使えることが多いですが、社外・
 - [AIでお詫びメールを書く｜コピペで使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-14-ai-owabi-mail %})
 - [角の立たない断りメールの書き方｜AIプロンプト付き]({{ site.baseurl }}{% post_url 2026-07-15-ai-kotowari-mail %})
 - [英語メールをAIで読む・返す｜翻訳より速い方法]({{ site.baseurl }}{% post_url 2026-07-18-ai-eigo-mail %})
+- [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 
 ---
 
