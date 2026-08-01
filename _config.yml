@@ -22,6 +22,13 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  # デフォルトOGP画像。jekyll-seo-tagはsite直下のimageキーを見ないため、
+  # 全ページ(投稿・固定ページ)にdefaultsでimageを注入する。個別記事のfront matterで
+  # image: を指定すればそちらが優先される。baseurl込みの絶対URLに自動変換される。
+  - scope:
+      path: ""
+    values:
+      image: /assets/ogp-default.png
 
 exclude:
   - Gemfile
