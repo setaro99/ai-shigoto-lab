@@ -34,8 +34,9 @@
 | 経理・総務・経費精算・請求書・稟議書・規程・年末調整・労務 | 『経理・総務のAI活用大全』 | `https://www.amazon.co.jp/dp/B0HBN9MMKL` |
 | 個人事業主・フリーランス・見積書・契約・請求・SNS発信・確定申告 | 『個人事業主のためのAI事務所化計画』 | `https://www.amazon.co.jp/dp/B0HBMXRCXQ` |
 | シニア・50代60代・AI入門・暮らし・家族・趣味・スマホ活用 | 『50代からのやさしい生成AI入門』 | `https://www.amazon.co.jp/dp/B0HBN8FY76` |
+| 保育士・幼稚園教諭・教員・連絡帳・おたより・指導案・保護者対応・所見 | 『保育士・教員のためのAI時短術』 | `https://www.amazon.co.jp/dp/B0HC3S1PR1` |
 
-**全7冊とも ¥499・Kindle Unlimited会員は¥0。** 記事テーマに最も近い1冊を1段落目に、2段落目で「本の一覧」（`{{ '/books/' | relative_url }}`）へ。
+**全8冊とも ¥499・Kindle Unlimited会員は¥0。** 記事テーマに最も近い1冊を1段落目に、2段落目で「本の一覧」（`{{ '/books/' | relative_url }}`）へ。
 
 **書き方の例**（Excelの記事の場合）:
 
