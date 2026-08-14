@@ -35,8 +35,12 @@
 | 個人事業主・フリーランス・見積書・契約・請求・SNS発信・確定申告 | 『個人事業主のためのAI事務所化計画』 | `https://www.amazon.co.jp/dp/B0HBMXRCXQ` |
 | シニア・50代60代・AI入門・暮らし・家族・趣味・スマホ活用 | 『50代からのやさしい生成AI入門』 | `https://www.amazon.co.jp/dp/B0HBN8FY76` |
 | 保育士・幼稚園教諭・教員・連絡帳・おたより・指導案・保護者対応・所見 | 『保育士・教員のためのAI時短術』 | `https://www.amazon.co.jp/dp/B0HC3S1PR1` |
+| 副業・複業・在宅ワーク・クラウドソーシング・スキル販売・確定申告の記録 | 『AI×副業の始め方』 | `https://www.amazon.co.jp/dp/B0HDRF4Z5C` |
+| プロンプトの書き方・AIへの指示のコツ・要約/比較/アイデア出しの汎用テクニック | 『プロンプトの型図鑑』 | `https://www.amazon.co.jp/dp/B0HDR1NXCN` |
+| 医療事務・クリニック受付・患者対応文書・院内お知らせ・レセプト事務 | 『医療事務・クリニック受付のためのAI仕事術』 | `https://www.amazon.co.jp/dp/B0HDQY651T` |
+| 士業事務所・税理士/社労士/行政書士・顧問先対応・提出書類・事務所運営 | 『士業事務所のためのAI事務効率化』 | `https://www.amazon.co.jp/dp/B0HDR1Q65Y` |
 
-**全8冊とも ¥499・Kindle Unlimited会員は¥0。** 記事テーマに最も近い1冊を1段落目に、2段落目で「本の一覧」（`{{ '/books/' | relative_url }}`）へ。
+**全12冊とも ¥499・Kindle Unlimited会員は¥0。** 記事テーマに最も近い1冊を1段落目に、2段落目で「本の一覧」（`{{ '/books/' | relative_url }}`）へ。
 
 **書き方の例**（Excelの記事の場合）:
 
