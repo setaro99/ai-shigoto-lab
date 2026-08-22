@@ -39,4 +39,6 @@ description: "お詫び・断り・催促・クレーム対応・値上げ案内
 
 このページで紹介した場面のほかにも、部下へのフィードバックや会議の議事録など、書く時間を圧縮するプロンプトを28本まとめた本があります。**[『AI議事録・メール術』](https://www.amazon.co.jp/dp/B0H92BMX67)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H92BMX67">Amazonで見る →</a>
+
 事務職向けの『残業ゼロのAI仕事術』など他の巻もあります → **[本の一覧]({{ '/books/' | relative_url }})**

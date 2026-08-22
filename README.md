@@ -51,12 +51,15 @@
 
 この記事のような「日本語で頼むだけ」のExcelレシピを、28本まとめた本があります。複数条件の集計、#N/Aの原因特定、VBAマクロ、パワークエリまで——**[『ExcelをAIに書かせる本』](https://www.amazon.co.jp/dp/B0H93XVJP1)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H93XVJP1">Amazonで見る →</a>
+
 事務職向けの『残業ゼロのAI仕事術』、管理職向けの『AI議事録・メール術』もあります → **[本の一覧]({{ '/books/' | relative_url }})**
 ```
 
 ルール:
 - 1段落目は「この記事の続き・体系版」として自然に繋ぐ。誇大表現や煽りは書かない
 - **「¥499・Kindle Unlimited会員は¥0」を必ず添える**（KU読み放題はKENP収益になるため訴求価値が高い）
+- **1段落目の直後に `<a class="book-cta" href="Amazonリンク">Amazonで見る →</a>` を単独の段落として挿入する**（2026-08-22追加＝B40。テキストリンクだけよりクリック率を上げるためのボタン装飾。`assets/main.scss`で定義済み。hrefは1段落目と同じ本のAmazonリンクにする）
 - 2段落目の本の一覧リンクは必ず `{{ '/books/' | relative_url }}` を使う（baseurl対応のため）
 - 新刊が出たら `books.md` と上の表を更新する
 

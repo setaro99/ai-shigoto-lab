@@ -22,7 +22,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 メール、資料作成、データ整理、報告書——事務の定型業務をAIで短くする一冊。「AIをどこから使えばいいかわからない」人の最初の1冊にどうぞ。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0H7MLFPFM)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H7MLFPFM">Amazonで見る →</a>
 
 ---
 
@@ -31,7 +31,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 会議の議事録、部下へのフィードバック、上への報告メール。管理職の「書く時間」を圧縮します。走り書きメモから議事録を10分で作る型、角の立たない伝え方のプロンプトを収録。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0H92BMX67)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H92BMX67">Amazonで見る →</a>
 
 ---
 
@@ -40,7 +40,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 関数名を覚えなくていい。やりたいことを日本語で言えば、AIが数式を組み立てます。COUNTIFS・SUMIFSの複数条件集計、#N/Aの原因特定、VBAマクロ、パワークエリまで。Excel中級者向け。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0H93XVJP1)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H93XVJP1">Amazonで見る →</a>
 
 ---
 
@@ -49,7 +49,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 商談前のリサーチと想定問答、提案書の骨子、価格交渉の切り返し、失注後のフォロー。営業の準備と後片付けを短くします。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0H532X5Q3)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H532X5Q3">Amazonで見る →</a>
 
 ---
 
@@ -58,7 +58,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 経費精算の案内文、請求書のお詫び、稟議書のたたき台、規程の言い換え、入退社・年末調整のFAQ。機密情報が多い部署だからこそ、安全な使い方（給与・マイナンバー・契約金額を渡さない置き換え術）から解説します。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0HBN9MMKL)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HBN9MMKL">Amazonで見る →</a>
 
 ---
 
@@ -67,7 +67,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 会社員なら営業部・経理部・広報部がやることを、あなたは一人で。見積・提案・請求の文面、契約書の下調べ、SNS投稿文、複数案件の進行管理まで。AIを「一人事務所の新人アシスタント」として使い倒す一冊。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0HBMXRCXQ)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HBMXRCXQ">Amazonで見る →</a>
 
 ---
 
@@ -76,7 +76,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 専門用語はほとんどなし。献立の相談、孫への手紙、旅行の計画、スマホの操作、怪しいメールの見分け方まで。「難しそう・怖そう」を、やさしい語り口とコピペ手順でほどいていきます。AIがまったく初めての方へ。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0HBN8FY76)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HBN8FY76">Amazonで見る →</a>
 
 ---
 
@@ -85,7 +85,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 25人分の連絡帳の返信、毎月のおたより、週案・月案のたたき台、保護者への案内文、通知表の所見。子どもと家庭の情報を扱う現場だからこそ、個人情報を渡さない「置き換え」の方法から解説します。「書く仕事」を減らして、子どもと向き合う時間を取り戻すための一冊。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0HC3S1PR1)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HC3S1PR1">Amazonで見る →</a>
 
 ---
 
@@ -94,7 +94,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 「副業に興味はあるけど何から始めればいいかわからない」「アイデア出しの段階で止まっている」——そんな会社員のための一冊。強みの棚卸しから、副業アイデア出し、提案文・商品説明文づくり、収支記録の整理、続けるための振り返りまで、最初の一歩をAIと一緒に踏み出すレシピ30本。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0HDRF4Z5C)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HDRF4Z5C">Amazonで見る →</a>
 
 ---
 
@@ -103,7 +103,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 「ChatGPTを開いても何を打てばいいかわからない」「頼んでみたけど思っていたのと違う答えが返ってきた」——そんな迷いに答える一冊。特定の職種向けではなく、要約・比較・アイデア出し・リスクの洗い出しなど、誰にでも起きる場面に絞った「AIへの頼み方の型」を30個収録。型を覚えれば、自分の場面に応用できるようになります。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0HDR1NXCN)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HDR1NXCN">Amazonで見る →</a>
 
 ---
 
@@ -112,7 +112,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 休診・予約変更のお知らせ文、クレーム対応の初期対応トーク、新人スタッフ向けマニュアル——医療事務・クリニック受付の「書く仕事」を時短する一冊。AIに任せるのは文書作成・事務整理の範囲のみで、医学的な判断は扱いません。患者情報を絶対に入力しないためのルールも第1章で徹底解説しています。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0HDQY651T)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HDQY651T">Amazonで見る →</a>
 
 ---
 
@@ -121,7 +121,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 顧問先へのお知らせ・督促メール、電話でのクレーム対応の初動、提出書類の体裁チェック、新人スタッフへの引き継ぎ書、事務所ニュースレターの文面——士業事務所の「書く仕事」を時短する一冊。AIに任せるのは文書作成・事務整理の範囲のみで、税務・労務・法律の専門的判断は扱いません。顧問先の機密情報を絶対に入力しないためのルールも第1章で徹底解説しています。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0HDR1Q65Y)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HDR1Q65Y">Amazonで見る →</a>
 
 ---
 
@@ -130,7 +130,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 「上司にメールを送りたいけど、この書き出しで合っているのか自信がない」「電話が鳴ると、出るのが怖い」「ミスの報告、どう切り出せばいいのか胃が痛い」——そんな「聞くほどでもないけど自信がない」場面を、レシピ28個で埋める一冊。ビジネスメールの基本形、電話応対の台本、報連相のタイミング、冠婚葬祭の言葉づかいまで。AIを「24時間いつでも相談に乗ってくれる先輩」として使えば、遠慮なく何度でも聞き返せます。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0HF6TSVFV)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HF6TSVFV">Amazonで見る →</a>
 
 ---
 
@@ -139,7 +139,7 @@ description: "Kindleシリーズ「AI仕事術ラボ」（著: イイヅカ ミ�
 
 「今日のおすすめ、SNSに投稿したいけど言葉が出てこない」「厳しいレビューへの返信を考えるだけで胃が痛い」——そんな個人店の「言葉づくりの悩み」を解決する一冊。SNS投稿文、POPのキャッチコピー、予約対応の返信、口コミへの返信、新人スタッフ向け接客マニュアルまで。お客様の個人情報を入力しない使い方と、誇大表現を避ける書き方も最初に解説しています。
 
-**→ [Amazonで見る](https://www.amazon.co.jp/dp/B0HFP5F1Q8)**
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HFP5F1Q8">Amazonで見る →</a>
 
 ---
 
