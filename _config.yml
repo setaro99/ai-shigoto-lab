@@ -13,6 +13,20 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# --- 検索エンジンへのサイト登録用（2026-08-22 準備） ---
+# このサイトは github.io のサブディレクトリ配下（/ai-shigoto-lab）にあり外部リンクも1本も無いため、
+# Google Search Console に登録しないとクローラーにほぼ発見されない。
+# なお robots.txt はドメイン直下（setaro99.github.io/robots.txt）に置かないと無視される仕様で、
+# そこは別リポジトリの管轄のためこのリポジトリからは設置できない。所有権確認は「HTMLタグ方式」を使う。
+#
+# 使い方: Search Console が表示する
+#   <meta name="google-site-verification" content="XXXXXXXX" />
+# の content の値だけを下の行のコメントを外して貼れば、jekyll-seo-tag が全ページに出力する。
+#
+# google_site_verification: ここに値を貼る
+# webmaster_verifications:
+#   bing: ここに値を貼る
+
 minima:
   date_format: "%Y年%m月%d日"
 
