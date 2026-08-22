@@ -1,0 +1,29 @@
+---
+---
+
+@import "minima";
+
+// 書籍への導線CTA（B40・2026-08-22グロースエージェント追加）
+// 誇大な装飾はせず、テキストリンクより視認性を上げるだけの控えめなボタン。
+.book-cta {
+  display: inline-block;
+  margin: 0.5em 0;
+  padding: 0.6em 1.4em;
+  background-color: #24292e;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.book-cta:hover,
+.book-cta:focus {
+  background-color: #3a4148;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.book-cta:visited {
+  color: #ffffff;
+}
