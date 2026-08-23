@@ -64,6 +64,7 @@ Excelの関数は、関数名や書式を覚えていなくても、「何をし
 
 - [VBAマクロをAIに書かせる｜未経験でも業務自動化]({{ site.baseurl }}{% post_url 2026-07-20-ai-vba-macro %})
 - [アンケート自由記述をAIで要約｜集計から傾向分析まで]({{ site.baseurl }}{% post_url 2026-07-25-ai-anketo-jiyu-kijutsu %})
+- [AI×Excel活用 完全まとめ｜関数・VBA・ピボット・エラー値まで]({{ '/excel-guide/' | relative_url }})
 
 ---
 
