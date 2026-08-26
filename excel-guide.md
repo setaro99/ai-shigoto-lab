@@ -29,6 +29,10 @@ description: "関数・VBAマクロ・ピボットテーブル・エラー値・
 
 - [VBAマクロをAIに書かせる｜未経験でも業務自動化]({{ site.baseurl }}{% post_url 2026-07-20-ai-vba-macro %}) — VBA未経験でも、やりたい処理を日本語で頼むだけでマクロが手に入る方法
 
+## グラフ作成・可視化
+
+- [Excelのグラフ作成をAIに相談｜データに合う型の選び方]({{ site.baseurl }}{% post_url 2026-08-26-ai-excel-graph %}) — 伝えたい内容から逆算して、グラフの種類と操作手順を提案してもらう聞き方
+
 ---
 
 このページで紹介した場面のほかにも、COUNTIFS・SUMIFSの複数条件集計からパワークエリまで、Excelの「日本語で頼む」実践レシピを28本まとめた本があります。**[『ExcelをAIに書かせる本』](https://www.amazon.co.jp/dp/B0H93XVJP1)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
