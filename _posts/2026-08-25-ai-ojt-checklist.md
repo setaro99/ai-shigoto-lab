@@ -60,6 +60,7 @@ OJTチェックリストが作りにくいのは、教える内容が頭にな�
 - [AIで作る業務マニュアル｜質問に答えるだけで完成]({{ site.baseurl }}{% post_url 2026-07-16-ai-gyomu-manual %})
 - [引き継ぎ書をAIで10分｜抜け漏れを防ぐコツ]({{ site.baseurl }}{% post_url 2026-07-21-ai-hikitsugisho %})
 - [電話応対マニュアルをAIで作る｜新人向け想定問答とプロンプト]({{ site.baseurl }}{% post_url 2026-08-17-ai-denwa-taiou-manual %})
+- [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
 
 ---
 

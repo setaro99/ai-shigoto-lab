@@ -92,6 +92,7 @@ AIの案内文はほぼそのまま使える完成度ですが、社内に一斉
 - [異動・転勤の挨拶メールをAIで書く｜社内・取引先向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-05-ai-ido-tenkin-aisatsu-mail %})
 - [日程調整メールをAIで書く｜候補日提示から返信まで]({{ site.baseurl }}{% post_url 2026-07-30-ai-nittei-chosei-mail %})
 - [社内向け依頼メール（協力依頼・確認依頼）をAIで書く｜催促にならない言い回しとプロンプト]({{ site.baseurl }}{% post_url 2026-08-06-ai-shanai-irai-mail %})
+- [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
 
 ---
 
