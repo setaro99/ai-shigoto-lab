@@ -29,6 +29,7 @@ description: "お詫び・断り・催促・クレーム対応・値上げ案内
 - [クレーム対応メールをAIで書く｜顧客対応の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-27-ai-claim-taiou-mail %}) — 顧客の不満に冷静かつ誠実に返信する文面
 - [退職の挨拶メールをAIで書く｜社内・取引先への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-29-ai-taishoku-aisatsu-mail %}) — 社内向け・取引先向けを書き分ける退職挨拶
 - [異動・転勤の挨拶メールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-05-ai-ido-tenkin-aisatsu-mail %}) — 退職メールと混同されない「感謝・報告・橋渡し」の型
+- [育休・産休前の挨拶文をAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-28-ai-ikukyu-sankyu-aisatsu %}) — 謝りすぎず、引き継ぎの安心感を伝える挨拶文の型
 - [見積書の添え状メールをAIで書く｜フリーランス向け例文]({{ site.baseurl }}{% post_url 2026-08-07-ai-mitsumorisho-soufu-mail %}) — 金額の話をぶっきらぼうにせず送る添え状の型
 
 ## 英語メール
