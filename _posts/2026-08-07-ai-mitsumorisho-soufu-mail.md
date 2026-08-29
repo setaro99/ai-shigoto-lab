@@ -73,4 +73,6 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 
 この記事のような、個人事業主・フリーランスが日々書く事務文章のプロンプトをまとめた本があります。見積書の添え状のほか、請求書送付、契約前の確認事項、SNS発信文まで——**[『個人事業主のためのAI事務所化計画』](https://www.amazon.co.jp/dp/B0HBMXRCXQ)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HBMXRCXQ">Amazonで見る →</a>
+
 会社員向けの『AI議事録・メール術』、Excel特化の『ExcelをAIに書かせる本』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

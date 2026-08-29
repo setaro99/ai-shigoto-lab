@@ -77,4 +77,6 @@ AIが作ったプレスリリースはそのまま配信できる完成度に見
 
 プレスリリースのような「事実を渡して、伝わる構成に整える」プロンプトを中心に、業務改善のアイデアをまとめた本があります。**[『残業ゼロのAI仕事術』](https://www.amazon.co.jp/dp/B0H7MLFPFM)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H7MLFPFM">Amazonで見る →</a>
+
 会議やメールでの言葉選びに悩む人向けの『AI議事録・メール術』、個人事業主・フリーランス向けの『個人事業主のためのAI事務所化計画』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

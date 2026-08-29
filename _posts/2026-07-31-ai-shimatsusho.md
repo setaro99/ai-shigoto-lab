@@ -83,4 +83,6 @@ AIが作った文面はそのまま提出できる完成度に見えても、社
 
 この記事のような「言葉選びに気を遣う社内文書」を含め、事務作業をAIで短くするプロンプトを28本まとめた本があります。**[『残業ゼロのAI仕事術』](https://www.amazon.co.jp/dp/B0H7MLFPFM)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H7MLFPFM">Amazonで見る →</a>
+
 お詫び・催促メール特化の『AI議事録・メール術』、経理・総務向けの『経理・総務のAI活用大全』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

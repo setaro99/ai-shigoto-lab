@@ -85,4 +85,6 @@ AIが作った報告書は形として整っていますが、提出前に次の
 
 この記事のような「箇条書きから提出用の文章に整える」プロンプトを中心に、業務改善のアイデアをまとめた本があります。**[『残業ゼロのAI仕事術』](https://www.amazon.co.jp/dp/B0H7MLFPFM)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H7MLFPFM">Amazonで見る →</a>
+
 メールの言葉選びに悩む人向けの『AI議事録・メール術』、Excel特化の『ExcelをAIに書かせる本』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

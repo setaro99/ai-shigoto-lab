@@ -105,4 +105,6 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 
 異動の挨拶のほかにも、お詫び、断り、催促、お礼、退職の挨拶——「言葉選びに悩む場面」のプロンプトを28本まとめた本があります。**[『AI議事録・メール術』](https://www.amazon.co.jp/dp/B0H92BMX67)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H92BMX67">Amazonで見る →</a>
+
 事務職向けの『残業ゼロのAI仕事術』、引き継ぎ関連にも役立つ『経理・総務のAI活用大全』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

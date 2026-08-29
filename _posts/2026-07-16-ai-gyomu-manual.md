@@ -75,4 +75,6 @@ AIがまとめた内容は読みやすくても、そのまま社内公開する
 
 この記事のような「質問に答えるだけで資料が完成する」進め方を含め、事務作業をAIで短くするプロンプトを28本まとめた本があります。**[『残業ゼロのAI仕事術』](https://www.amazon.co.jp/dp/B0H7MLFPFM)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H7MLFPFM">Amazonで見る →</a>
+
 メール・議事録特化の『AI議事録・メール術』、Excel特化の『ExcelをAIに書かせる本』もあります → **[本の一覧]({{ '/books/' | relative_url }})**
