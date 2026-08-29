@@ -62,4 +62,6 @@ AIが教えてくれた設定通りに作れば失敗は少なくなりますが
 
 この記事のような「日本語で頼むだけ」のExcelレシピを、28本まとめた本があります。複数条件の集計、#N/Aの原因特定、VBAマクロ、パワークエリまで——**[『ExcelをAIに書かせる本』](https://www.amazon.co.jp/dp/B0H93XVJP1)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H93XVJP1">Amazonで見る →</a>
+
 事務職向けの『残業ゼロのAI仕事術』、管理職向けの『AI議事録・メール術』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

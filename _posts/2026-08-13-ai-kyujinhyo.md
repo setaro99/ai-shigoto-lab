@@ -75,4 +75,6 @@ AIが作った求人票はそのまま公開できる完成度ですが、公開
 
 求人票のような「事実を渡して、伝わる文章に整える」プロンプトを中心に、業務改善のアイデアをまとめた本があります。**[『残業ゼロのAI仕事術』](https://www.amazon.co.jp/dp/B0H7MLFPFM)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H7MLFPFM">Amazonで見る →</a>
+
 面接や評価での言葉選びに悩む人向けの『AI議事録・メール術』、経理・総務の実務に特化した『経理・総務のAI活用大全』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

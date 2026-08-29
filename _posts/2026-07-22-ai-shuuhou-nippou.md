@@ -78,4 +78,6 @@ AIが整えた週報・日報は、そのまま提出する前に必ず次の点
 
 この記事のような「日本語で頼むだけ」の時短レシピを、28本まとめた本があります。週報・日報だけでなく、資料作成やマニュアル、引き継ぎまで——**[『残業ゼロのAI仕事術』](https://www.amazon.co.jp/dp/B0H7MLFPFM)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H7MLFPFM">Amazonで見る →</a>
+
 管理職向けの『AI議事録・メール術』、Excel中級者向けの『ExcelをAIに書かせる本』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

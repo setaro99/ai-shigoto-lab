@@ -77,4 +77,6 @@ AIが作った文面は格式が整っていて読みやすいですが、実際
 
 表彰状・感謝状のほかにも、稟議書、始末書、社内アナウンス文など「格式や言葉選びに迷う総務・事務の場面」のプロンプトを収録した本があります。**[『経理・総務のAI活用大全』](https://www.amazon.co.jp/dp/B0HBN9MMKL)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HBN9MMKL">Amazonで見る →</a>
+
 事務職向けの『残業ゼロのAI仕事術』、部下対応やメール文面に強い『AI議事録・メール術』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

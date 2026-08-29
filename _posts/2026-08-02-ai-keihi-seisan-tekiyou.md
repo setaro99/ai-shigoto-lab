@@ -67,4 +67,6 @@ AIが作った摘要文は、そのまま貼って終わりにせず、次の3�
 
 摘要欄のほかにも、請求書・稟議書・年末調整の案内文・労務関連の社内文書まで、経理・総務でAIに任せられる作業をまとめた本があります。**[『経理・総務のAI活用大全』](https://www.amazon.co.jp/dp/B0HBN9MMKL)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HBN9MMKL">Amazonで見る →</a>
+
 事務職向けの『残業ゼロのAI仕事術』、メール・議事録特化の『AI議事録・メール術』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

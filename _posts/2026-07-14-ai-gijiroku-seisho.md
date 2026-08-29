@@ -86,4 +86,6 @@ AIが整えた議事録は読みやすい形になっていますが、社内外
 
 議事録のほかにも、部下へのフィードバック、上への報告メール、会議のアジェンダ——管理職の「書く時間」を短くするレシピを28本まとめた本があります。**[『AI議事録・メール術』](https://www.amazon.co.jp/dp/B0H92BMX67)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H92BMX67">Amazonで見る →</a>
+
 Excel特化の『ExcelをAIに書かせる本』、事務職向けの『残業ゼロのAI仕事術』もあります → **[本の一覧]({{ '/books/' | relative_url }})**
