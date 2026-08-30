@@ -29,17 +29,17 @@
 |---|---|---|
 | メール全般・議事録・報告・部下対応・会議・断り/催促メール | 『AI議事録・メール術』 | `https://www.amazon.co.jp/dp/B0H92BMX67` |
 | Excel・関数・VBA・パワークエリ・データ整形・集計 | 『ExcelをAIに書かせる本』 | `https://www.amazon.co.jp/dp/B0H93XVJP1` |
-| 事務全般・資料作成・マニュアル・引き継ぎ・業務改善 | 『残業ゼロのAI仕事術』 | `https://www.amazon.co.jp/dp/B0H7MLFPFM` |
 | 営業・商談・提案書・顧客フォロー・価格交渉 | 『営業のためのAI仕事術』 | `https://www.amazon.co.jp/dp/B0H532X5Q3` |
 | 経理・総務・経費精算・請求書・稟議書・規程・年末調整・労務 | 『経理・総務のAI活用大全』 | `https://www.amazon.co.jp/dp/B0HBN9MMKL` |
 | 個人事業主・フリーランス・見積書・契約・請求・SNS発信・確定申告 | 『個人事業主のためのAI事務所化計画』 | `https://www.amazon.co.jp/dp/B0HBMXRCXQ` |
 | シニア・50代60代・AI入門・暮らし・家族・趣味・スマホ活用 | 『50代からのやさしい生成AI入門』 | `https://www.amazon.co.jp/dp/B0HBN8FY76` |
 | 保育士・幼稚園教諭・教員・連絡帳・おたより・指導案・保護者対応・所見 | 『保育士・教員のためのAI時短術』 | `https://www.amazon.co.jp/dp/B0HC3S1PR1` |
 | 副業・複業・在宅ワーク・クラウドソーシング・スキル販売・確定申告の記録 | 『AI×副業の始め方』 | `https://www.amazon.co.jp/dp/B0HDRF4Z5C` |
-| プロンプトの書き方・AIへの指示のコツ・要約/比較/アイデア出しの汎用テクニック | 『プロンプトの型図鑑』 | `https://www.amazon.co.jp/dp/B0HDR1NXCN` |
+| プロンプトの書き方・AIへの指示のコツ・要約/比較/アイデア出し・事務全般・資料作成・マニュアル・引き継ぎ | 『プロンプトの型図鑑』 | `https://www.amazon.co.jp/dp/B0HDR1NXCN` |
 | 医療事務・クリニック受付・患者対応文書・院内お知らせ・レセプト事務 | 『医療事務・クリニック受付のためのAI仕事術』 | `https://www.amazon.co.jp/dp/B0HDQY651T` |
 | 士業事務所・税理士/社労士/行政書士・顧問先対応・提出書類・事務所運営 | 『士業事務所のためのAI事務効率化』 | `https://www.amazon.co.jp/dp/B0HDR1Q65Y` |
 | 新社会人・新卒・入社1〜3年目・ビジネスマナー・電話応対・報連相・名刺交換 | 『新社会人のためのAIビジネスマナー相談室』 | `https://www.amazon.co.jp/dp/B0HF6TSVFV` |
+| 転職・職務経歴書・志望動機・面接対策・自己PR・キャリアの棚卸し | 『転職活動のためのAI活用術』 | `https://www.amazon.co.jp/dp/B0HG4TG1PS` |
 | 店舗運営・個人店・小売・飲食・POP/チラシ・SNS投稿・口コミ返信・接客マニュアル | 『店舗スタッフ・個人店オーナーのためのAI集客・接客術』 | `https://www.amazon.co.jp/dp/B0HFP5F1Q8` |
 
 **全14冊とも ¥499・Kindle Unlimited会員は¥0。** 記事テーマに最も近い1冊を1段落目に、2段落目で「本の一覧」（`{{ '/books/' | relative_url }}`）へ。
@@ -53,7 +53,7 @@
 
 <a class="book-cta" href="https://www.amazon.co.jp/dp/B0H93XVJP1">Amazonで見る →</a>
 
-事務職向けの『残業ゼロのAI仕事術』、管理職向けの『AI議事録・メール術』もあります → **[本の一覧]({{ '/books/' | relative_url }})**
+職種を問わず使える『プロンプトの型図鑑』、管理職向けの『AI議事録・メール術』もあります → **[本の一覧]({{ '/books/' | relative_url }})**
 ```
 
 ルール:
