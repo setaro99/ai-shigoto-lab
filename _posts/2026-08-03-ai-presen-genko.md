@@ -73,6 +73,7 @@ AIが作った原稿はよく整っていますが、話す前に次の3点は�
 - [会議のアジェンダをAIで作る｜時間配分つきテンプレ]({{ site.baseurl }}{% post_url 2026-07-19-ai-kaigi-agenda %})
 - [企画書のたたき台をAIで作る｜構成から一気に]({{ site.baseurl }}{% post_url 2026-07-17-ai-kikakusho-tataki %})
 - [AIで作る業務マニュアル｜質問に答えるだけで完成]({{ site.baseurl }}{% post_url 2026-07-16-ai-gyomu-manual %})
+- [朝礼スピーチをAIで作る｜1分・3分で使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-04-ai-chorei-speech %})
 
 ---
 
