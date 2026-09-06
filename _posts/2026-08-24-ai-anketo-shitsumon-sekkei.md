@@ -82,8 +82,8 @@ AIが作る設問は形として整っていますが、配信前に次の3点�
 
 ---
 
-この記事のような、資料作成や社内調整に時間がかかる作業をAIで短縮するレシピを28本まとめた本があります。日報・週報、引き継ぎ書、業務マニュアル作成まで——**[『残業ゼロのAI仕事術』](https://www.amazon.co.jp/dp/B0H7MLFPFM)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
+この記事のような、設問の意図を整理する作業も含め、AIへの頼み方の「型」を30個まとめた本があります。要約・比較・アイデア出しまで——**[『プロンプトの型図鑑』](https://www.amazon.co.jp/dp/B0HDR1NXCN)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
-<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H7MLFPFM">Amazonで見る →</a>
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HDR1NXCN">Amazonで見る →</a>
 
 メール・議事録特化の『AI議事録・メール術』、Excel特化の『ExcelをAIに書かせる本』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

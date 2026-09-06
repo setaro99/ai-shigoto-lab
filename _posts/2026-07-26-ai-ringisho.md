@@ -75,8 +75,8 @@ AIが作った稟議書はそのまま提出できる完成度になっている
 
 ---
 
-この記事のような「社内向けの資料作成に時間がかかる作業」をAIで短縮するレシピを28本まとめた本があります。日報・週報、引き継ぎ書、業務マニュアル作成まで——**[『残業ゼロのAI仕事術』](https://www.amazon.co.jp/dp/B0H7MLFPFM)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
+稟議書のような、決裁者に判断材料を過不足なく伝える書類をAIで短縮する実務レシピを28本まとめた本があります。経費精算の案内文、規程の言い換え、入退社・年末調整のFAQまで——**[『経理・総務のAI活用大全』](https://www.amazon.co.jp/dp/B0HBN9MMKL)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
-<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H7MLFPFM">Amazonで見る →</a>
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HBN9MMKL">Amazonで見る →</a>
 
 メール・議事録特化の『AI議事録・メール術』、Excel特化の『ExcelをAIに書かせる本』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

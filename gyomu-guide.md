@@ -39,8 +39,8 @@ description: "週報・引き継ぎ書・社内アナウンス・送別会案内
 
 ---
 
-このページで紹介した場面のほかにも、資料作成やマニュアル、稟議書まで、事務作業をAIで短くするプロンプトを28本まとめた本があります。**[『残業ゼロのAI仕事術』](https://www.amazon.co.jp/dp/B0H7MLFPFM)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
+このページで紹介した場面のほかにも、資料作成やマニュアル、要約・比較・アイデア出しまで、AIへの頼み方の「型」を30個まとめた本があります。**[『プロンプトの型図鑑』](https://www.amazon.co.jp/dp/B0HDR1NXCN)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。
 
-<a class="book-cta" href="https://www.amazon.co.jp/dp/B0H7MLFPFM">Amazonで見る →</a>
+<a class="book-cta" href="https://www.amazon.co.jp/dp/B0HDR1NXCN">Amazonで見る →</a>
 
 Excel特化の『ExcelをAIに書かせる本』など他の巻もあります → **[本の一覧]({{ '/books/' | relative_url }})**
