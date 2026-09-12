@@ -88,4 +88,4 @@ AIが整えた議事録は読みやすい形になっていますが、社内外
 
 <a class="book-cta" href="https://www.amazon.co.jp/dp/B0H92BMX67">Amazonで見る →</a>
 
-Excel特化の『ExcelをAIに書かせる本』、事務職向けの『残業ゼロのAI仕事術』もあります → **[本の一覧]({{ '/books/' | relative_url }})**
+Excel特化の『ExcelをAIに書かせる本』、職種を問わず使える『プロンプトの型図鑑』もあります → **[本の一覧]({{ '/books/' | relative_url }})**

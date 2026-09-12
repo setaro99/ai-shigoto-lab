@@ -90,4 +90,4 @@ VBAは、もう「勉強してから使うもの」ではなく「頼んで使�
 
 <a class="book-cta" href="https://www.amazon.co.jp/dp/B0H93XVJP1">Amazonで見る →</a>
 
-事務職向けの『残業ゼロのAI仕事術』、管理職向けの『AI議事録・メール術』もあります → **[本の一覧]({{ '/books/' | relative_url }})**
+職種を問わず使える『プロンプトの型図鑑』、管理職向けの『AI議事録・メール術』もあります → **[本の一覧]({{ '/books/' | relative_url }})**
