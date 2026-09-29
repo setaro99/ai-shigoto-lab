@@ -20,6 +20,7 @@ description: "お詫び・断り・催促・クレーム対応・値上げ案内
 - [催促メールをAIで書く｜角の立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-24-ai-saisoku-mail %}) — 返信・入金が来ないときに角を立てず催促する文面
 - [値上げ案内メールをAIで書く｜角が立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-28-ai-neage-annai-mail %}) — 値上げを伝えつつ信頼を損なわない案内文
 - [不採用通知メールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-15-ai-fusaiyou-tsuuchi-mail %}) — 結果への触れ方を簡潔にしつつ、感謝が伝わる不採用連絡
+- [値下げ要求への返信メールをAIで書く｜価格交渉のプロンプト]({{ site.baseurl }}{% post_url 2026-09-08-ai-nesage-yokyu-mail %}) — 要求を受け止めつつ代替案を示して関係を保つ返信の型
 - [早退・欠勤・遅刻メールをAIで書く｜プロンプト付き]({{ site.baseurl }}{% post_url 2026-08-19-ai-chikoku-kekkin-mail %}) — 急な連絡でも要点が伝わり、周囲への配慮も添えられる一文
 
 ## 顧客対応・節目のメール
@@ -30,6 +31,8 @@ description: "お詫び・断り・催促・クレーム対応・値上げ案内
 - [退職の挨拶メールをAIで書く｜社内・取引先への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-29-ai-taishoku-aisatsu-mail %}) — 社内向け・取引先向けを書き分ける退職挨拶
 - [異動・転勤の挨拶メールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-05-ai-ido-tenkin-aisatsu-mail %}) — 退職メールと混同されない「感謝・報告・橋渡し」の型
 - [育休・産休前の挨拶文をAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-28-ai-ikukyu-sankyu-aisatsu %}) — 謝りすぎず、引き継ぎの安心感を伝える挨拶文の型
+- [お悔やみメールをAIで書く｜訃報を受けた際の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-09-ai-okuyami-mail %}) — 忌み言葉や宗教依存の表現を避けて気持ちを伝える文面
+- [内定通知メールをAIで書く｜条件・期限の伝え方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-28-ai-naitei-tsuchi-mail %}) — 条件・回答期限を誤解なく伝える内定連絡の型
 - [見積書の添え状メールをAIで書く｜フリーランス向け例文]({{ site.baseurl }}{% post_url 2026-08-07-ai-mitsumorisho-soufu-mail %}) — 金額の話をぶっきらぼうにせず送る添え状の型
 - [顧客アンケートの依頼メールをAIで書く｜回答率を上げる一言]({{ site.baseurl }}{% post_url 2026-08-31-ai-anketo-irai-mail %}) — 「なぜあなたに」「どれくらいの時間で」を先回りして示す依頼の型
 
@@ -44,6 +47,7 @@ description: "お詫び・断り・催促・クレーム対応・値上げ案内
 - [社内依頼メールをAIで書く｜催促にならない言い回し]({{ site.baseurl }}{% post_url 2026-08-06-ai-shanai-irai-mail %}) — 「上から目線」にも「遠慮しすぎ」にもならない依頼の型
 - [展示会後のフォローアップメールをAIで書く｜商談につなげる文面]({{ site.baseurl }}{% post_url 2026-08-30-ai-tenjikai-follow-mail %}) — 「即日お礼→数日後の提案→最終フォロー」の3段階で送るタイミングを逃さない型
 - [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %}) — 候補日の提示から確定連絡まで、返信しやすい依頼文の型
+- [請求書送付メールをAIで書く｜添え状の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-29-ai-seikyusho-soufu-mail %}) — 金額・期日を漏れなく伝える請求書の添え状
 
 ---
 
