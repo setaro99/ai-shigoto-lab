@@ -67,6 +67,7 @@ AIの文章はそのまま使えることが多いですが、応募者に送る
 - [面接評価コメントをAIで書く｜合否判断に使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-11-ai-mensetsu-hyoka-comment %})
 - [角の立たない断りメールの書き方｜AIプロンプト付き]({{ site.baseurl }}{% post_url 2026-07-15-ai-kotowari-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [内定通知メールをAIで書く｜条件・期限の伝え方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-28-ai-naitei-tsuchi-mail %})
 
 ---
 

@@ -70,6 +70,7 @@ AIが作った求人票はそのまま公開できる完成度ですが、公開
 - [面接評価コメントをAIで書く｜合否判断に使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-11-ai-mensetsu-hyoka-comment %})
 - [人事評価コメントをAIで書く｜項目別の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-23-ai-jinji-hyoka-comment %})
 - [1on1のフィードバックメモをAIで整理｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-09-ai-1on1-feedback-memo %})
+- [内定通知メールをAIで書く｜条件・期限の伝え方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-28-ai-naitei-tsuchi-mail %})
 
 ---
 

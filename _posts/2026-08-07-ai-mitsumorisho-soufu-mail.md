@@ -68,6 +68,7 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 - [お礼メールをAIで書く｜取引先・上司への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-04-ai-orei-mail %})
 - [催促メールをAIで書く｜角の立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-24-ai-saisoku-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [請求書送付メールをAIで書く｜添え状の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-29-ai-seikyusho-soufu-mail %})
 
 ---
 

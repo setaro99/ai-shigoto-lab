@@ -73,6 +73,7 @@ Excelのエラー値は、名前だけを検索しても「よくある原因の
 - [VBAマクロをAIに書かせる｜未経験でも業務自動化]({{ site.baseurl }}{% post_url 2026-07-20-ai-vba-macro %})
 - [Excelピボットテーブルの作り方をAIに聞く｜クロス集計]({{ site.baseurl }}{% post_url 2026-08-08-ai-pivot-table %})
 - [AI×Excel活用 完全まとめ｜関数・VBA・ピボット・エラー値まで]({{ '/excel-guide/' | relative_url }})
+- [Excelの表記ゆれをAIで統一｜全角半角のばらつき解消]({{ site.baseurl }}{% post_url 2026-08-16-ai-excel-hyokiyure %})
 
 ---
 

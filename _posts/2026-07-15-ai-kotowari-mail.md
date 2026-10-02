@@ -78,6 +78,7 @@ AIが作った文章は自然に読めても、そのまま送るには不十分
 - [催促メールをAIで書く｜角の立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-24-ai-saisoku-mail %})
 - [議事録をAIで清書する方法｜走り書きメモから10分で]({{ site.baseurl }}{% post_url 2026-07-14-ai-gijiroku-seisho %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [値下げ要求への返信メールをAIで書く｜価格交渉のプロンプト]({{ site.baseurl }}{% post_url 2026-09-08-ai-nesage-yokyu-mail %})
 
 ---
 

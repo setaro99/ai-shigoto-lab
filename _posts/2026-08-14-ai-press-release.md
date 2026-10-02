@@ -72,6 +72,7 @@ AIが作ったプレスリリースはそのまま配信できる完成度に見
 - [企画書のたたき台をAIで作る｜構成から一気に]({{ site.baseurl }}{% post_url 2026-07-17-ai-kikakusho-tataki %})
 - [社内アナウンス文（システムメンテナンス・オフィス移転等）をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %})
 - [求人票をAIで書く｜応募が集まる文章とプロンプト]({{ site.baseurl }}{% post_url 2026-08-13-ai-kyujinhyo %})
+- [社内報のインタビュー記事をAIでまとめる｜取材メモから読み物に]({{ site.baseurl }}{% post_url 2026-09-01-ai-shanaiho-interview %})
 
 ---
 

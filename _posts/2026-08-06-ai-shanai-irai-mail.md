@@ -70,6 +70,7 @@ AIが作った文章はそのまま使えることが多いですが、社内で
 - [お礼メールをAIで書く｜取引先・上司への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-04-ai-orei-mail %})
 - [角の立たない断りメールの書き方｜AIプロンプト付き]({{ site.baseurl }}{% post_url 2026-07-15-ai-kotowari-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [Slack・Teamsの文面をAIで整える｜メールより気軽に]({{ site.baseurl }}{% post_url 2026-08-21-ai-shanai-chat-message %})
 
 ---
 
