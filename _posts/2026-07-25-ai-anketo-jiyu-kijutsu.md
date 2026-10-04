@@ -66,6 +66,7 @@ AIが出した分類は見やすく整理されていますが、社内共有や
 - [Excelの関数をAIに作らせる｜「日本語で頼むだけ」入門]({{ site.baseurl }}{% post_url 2026-07-14-ai-excel-kansu %})
 - [VBAマクロをAIに書かせる｜未経験でも業務自動化]({{ site.baseurl }}{% post_url 2026-07-20-ai-vba-macro %})
 - [人事評価コメントをAIで書く｜項目別の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-23-ai-jinji-hyoka-comment %})
+- [社内アンケートの質問文をAIで作る｜設問設計のコツ]({{ site.baseurl }}{% post_url 2026-08-24-ai-anketo-shitsumon-sekkei %})
 
 ---
 

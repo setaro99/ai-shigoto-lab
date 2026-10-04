@@ -74,6 +74,7 @@ AIが作ったコメントは読みやすく整っていますが、そのまま
 - [週報・日報をAIで書く｜箇条書きから5分で提出用に]({{ site.baseurl }}{% post_url 2026-07-22-ai-shuuhou-nippou %})
 - [会議のアジェンダをAIで作る｜時間配分つきテンプレ]({{ site.baseurl }}{% post_url 2026-07-19-ai-kaigi-agenda %})
 - [引き継ぎ書をAIで10分｜抜け漏れを防ぐコツ]({{ site.baseurl }}{% post_url 2026-07-21-ai-hikitsugisho %})
+- [自己評価シートをAIで書く｜人事考課の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-05-ai-jiko-hyoka-sheet %})
 
 ---
 

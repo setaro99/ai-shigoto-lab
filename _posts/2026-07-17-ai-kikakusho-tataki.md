@@ -69,6 +69,7 @@ AIが作った構成と文章は読みやすく整っていますが、そのま
 - [AIで作る業務マニュアル｜質問に答えるだけで完成]({{ site.baseurl }}{% post_url 2026-07-16-ai-gyomu-manual %})
 - [稟議書をAIで書く｜承認されやすい構成とプロンプト]({{ site.baseurl }}{% post_url 2026-07-26-ai-ringisho %})
 - [週報・日報をAIで書く｜箇条書きから5分で提出用に]({{ site.baseurl }}{% post_url 2026-07-22-ai-shuuhou-nippou %})
+- [プレゼン原稿をAIで作る｜スライドの箇条書きを話し言葉に]({{ site.baseurl }}{% post_url 2026-08-03-ai-presen-genko %})
 
 ---
 

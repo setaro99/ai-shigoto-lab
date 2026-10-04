@@ -78,6 +78,7 @@ AIが作った文章はそのまま使えることが多いですが、社内に
 - [週報・日報をAIで書く｜箇条書きから5分で提出用に]({{ site.baseurl }}{% post_url 2026-07-22-ai-shuuhou-nippou %})
 - [会議のアジェンダをAIで作る｜時間配分つきテンプレ]({{ site.baseurl }}{% post_url 2026-07-19-ai-kaigi-agenda %})
 - [朝礼スピーチをAIで作る｜1分・3分で使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-04-ai-chorei-speech %})
+- [送別会・歓迎会の案内文をAIで書く｜幹事向けプロンプト]({{ site.baseurl }}{% post_url 2026-08-20-ai-soubetsukai-annai %})
 - [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
 
 ---
