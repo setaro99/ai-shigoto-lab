@@ -86,6 +86,7 @@ AIが作ったお知らせ文は整っていますが、ホームページや掲
 - [住民向け講座・説明会の案内文をAIで書く｜伝え方のコツ]({{ site.baseurl }}{% post_url 2026-09-23-ai-koza-setsumeikai-annai %})
 - [防災訓練・避難訓練の案内文をAIで書く｜社内周知のポイント]({{ site.baseurl }}{% post_url 2026-09-20-ai-bousai-kunren-annai %})
 - [社内アナウンス文（システムメンテナンス・オフィス移転等）をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %})
+- [士業事務所の相談予約案内文をAIで書く｜必要書類・当日の流れ]({{ site.baseurl }}{% post_url 2026-09-17-ai-shigyo-soudan-yoyaku-annai %})
 
 ---
 

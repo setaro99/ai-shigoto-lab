@@ -80,6 +80,8 @@ AIが作った文章はそのまま使えることが多いですが、社内に
 - [朝礼スピーチをAIで作る｜1分・3分で使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-04-ai-chorei-speech %})
 - [送別会・歓迎会の案内文をAIで書く｜幹事向けプロンプト]({{ site.baseurl }}{% post_url 2026-08-20-ai-soubetsukai-annai %})
 - [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
+- [年末年始休業のお知らせをAIで書く｜取引先向け例文と型]({{ site.baseurl }}{% post_url 2026-10-03-ai-nenmatsu-nenshi-kyugyo-annai %})
+- [社内報のインタビュー記事をAIでまとめる｜取材メモから読み物に]({{ site.baseurl }}{% post_url 2026-09-01-ai-shanaiho-interview %})
 
 ---
 

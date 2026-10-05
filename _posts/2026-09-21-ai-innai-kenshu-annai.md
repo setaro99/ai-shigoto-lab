@@ -89,6 +89,7 @@ AIが作った案内文は読みやすく整っていますが、そのまま各
 - [クリニック受付の案内文をAIで書く｜待ち時間・持ち物の伝え方]({{ site.baseurl }}{% post_url 2026-09-16-ai-clinic-uketsuke-annai %})
 - [新人研修のOJTチェックリストをAIで作る｜教える側の時短]({{ site.baseurl }}{% post_url 2026-08-25-ai-ojt-checklist %})
 - [病棟会議・委員会資料をAIで議事録要約｜記録整理のコツ]({{ site.baseurl }}{% post_url 2026-09-22-ai-byoto-kaigi-giji-yoyaku %})
+- [現場のヒヤリハット報告書をAIで書く｜再発防止までの書き方]({{ site.baseurl }}{% post_url 2026-09-15-ai-hiyari-hatto-hokokusho %})
 
 ---
 

@@ -59,6 +59,7 @@ AIの文章はそのまま使えることが多いですが、社外に出す前
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [訂正メールをAIで書く｜誤記・添付ミスの例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-02-ai-teisei-mail %})
 - [始末書をAIで書く｜反省文にならない書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-07-31-ai-shimatsusho %})
+- [お悔やみメールをAIで書く｜訃報を受けた際の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-09-ai-okuyami-mail %})
 
 ---
 
