@@ -82,6 +82,7 @@ AIが作った案内文は整っていますが、社内に一斉配信する前
 - [就業規則改定の社内周知文をAIで書く｜総務向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-02-ai-shugyo-kisoku-shuchi %})
 - [表彰状・感謝状をAIで書く｜文例とプロンプト]({{ site.baseurl }}{% post_url 2026-08-18-ai-hyoshojo-kanshajo %})
 - [現場のヒヤリハット報告書をAIで書く｜再発防止までの書き方]({{ site.baseurl }}{% post_url 2026-09-15-ai-hiyari-hatto-hokokusho %})
+- [院内研修の案内文をAIで書く｜看護部向け周知のポイント]({{ site.baseurl }}{% post_url 2026-09-21-ai-innai-kenshu-annai %})
 
 ---
 

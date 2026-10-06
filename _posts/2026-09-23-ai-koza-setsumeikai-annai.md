@@ -88,6 +88,7 @@ AIが作った案内文は整っていますが、広報誌やホームページ
 - [防災訓練・避難訓練の案内文をAIで書く｜社内周知のポイント]({{ site.baseurl }}{% post_url 2026-09-20-ai-bousai-kunren-annai %})
 - [士業事務所の相談予約案内文をAIで書く｜必要書類・当日の流れの伝え方]({{ site.baseurl }}{% post_url 2026-09-17-ai-shigyo-soudan-yoyaku-annai %})
 - [窓口受付時間の変更案内文をAIで書く｜住民向け周知術]({{ site.baseurl }}{% post_url 2026-09-25-ai-uketsuke-jikan-henkou-annai %})
+- [パブリックコメントの募集案内文をAIで書く｜基本構成のコツ]({{ site.baseurl }}{% post_url 2026-09-24-ai-public-comment-boshu-annai %})
 
 ---
 

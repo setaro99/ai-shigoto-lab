@@ -82,6 +82,7 @@ AIが作ったアジェンダはそのまま配れることが多いですが、
 - [議事録をAIで清書する方法｜走り書きメモから10分で]({{ site.baseurl }}{% post_url 2026-07-14-ai-gijiroku-seisho %})
 - [引き継ぎ書をAIで10分｜抜け漏れを防ぐコツ]({{ site.baseurl }}{% post_url 2026-07-21-ai-hikitsugisho %})
 - [週報・日報をAIで書く｜箇条書きから5分で提出用に]({{ site.baseurl }}{% post_url 2026-07-22-ai-shuuhou-nippou %})
+- [病棟会議・委員会資料をAIで議事録要約｜記録整理のコツ]({{ site.baseurl }}{% post_url 2026-09-22-ai-byoto-kaigi-giji-yoyaku %})
 
 ---
 

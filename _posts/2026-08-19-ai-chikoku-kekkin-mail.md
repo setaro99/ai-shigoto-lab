@@ -74,6 +74,7 @@ AIが作った文面はすぐに使える完成度ですが、急いでいると
 - [社内向け依頼メール（協力依頼・確認依頼）をAIで書く｜催促にならない言い回しとプロンプト]({{ site.baseurl }}{% post_url 2026-08-06-ai-shanai-irai-mail %})
 - [有給休暇の申請理由をAIで書く｜角が立たない一言とプロンプト]({{ site.baseurl }}{% post_url 2026-08-29-ai-yukyu-shinsei-riyuu %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %})
 
 ---
 

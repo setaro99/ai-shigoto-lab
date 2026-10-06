@@ -96,6 +96,7 @@ AIが作る返信文はそのまま使えることが多いですが、公開前
 - [POP・チラシの売り文句をAIで書く｜個人店・小売向けプロンプト]({{ site.baseurl }}{% post_url 2026-08-22-ai-pop-chirashi %})
 - [クレーム対応メールをAIで書く｜顧客対応の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-27-ai-claim-taiou-mail %})
 - [電話応対マニュアルをAIで作る｜新人向け想定問答とプロンプト]({{ site.baseurl }}{% post_url 2026-08-17-ai-denwa-taiou-manual %})
+- [ニュースレターの文面をAIで書く｜個人店向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-19-ai-newsletter-sakusei %})
 
 ---
 

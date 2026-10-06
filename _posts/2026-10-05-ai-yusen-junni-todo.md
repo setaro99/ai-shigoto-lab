@@ -119,6 +119,7 @@ AIが出す順番は、あくまで「判断の叩き台」です。上司の指
 - [引き継ぎ書をAIで10分｜抜け漏れを防ぐコツ]({{ site.baseurl }}{% post_url 2026-07-21-ai-hikitsugisho %})
 - [社内依頼メールをAIで書く｜催促にならない言い回し]({{ site.baseurl }}{% post_url 2026-08-06-ai-shanai-irai-mail %})
 - [催促メールをAIで書く｜角の立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-24-ai-saisoku-mail %})
+- [あいまいな指示をAIで整理｜上司への聞き返し方]({{ site.baseurl }}{% post_url 2026-10-06-ai-aimai-shiji-kikikaeshi %})
 
 ---
 
