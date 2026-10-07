@@ -128,6 +128,7 @@ AIには、この6点を守らせたうえで、**ミスの内容と影響の大
 - [納期遅延のお知らせメールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-30-ai-nouki-chien-mail %})
 - [クレーム対応メールをAIで書く｜顧客対応の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-27-ai-claim-taiou-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [ビジネスメールの敬語をAIでチェック｜二重敬語の直し方]({{ site.baseurl }}{% post_url 2026-10-04-ai-keigo-check %})
 
 ---
 

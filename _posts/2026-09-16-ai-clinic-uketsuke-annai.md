@@ -79,6 +79,7 @@ AIが作った案内文は読みやすく整っていますが、そのまま貼
 - [電話応対マニュアルをAIで作る｜新人向け想定問答とプロンプト]({{ site.baseurl }}{% post_url 2026-08-17-ai-denwa-taiou-manual %})
 - [社内アナウンス文(システムメンテナンス・オフィス移転等)をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %})
 - [クレーム対応メールをAIで書く｜顧客対応の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-27-ai-claim-taiou-mail %})
+- [年末年始休業のお知らせをAIで書く｜取引先向け例文と型]({{ site.baseurl }}{% post_url 2026-10-03-ai-nenmatsu-nenshi-kyugyo-annai %})
 
 ---
 

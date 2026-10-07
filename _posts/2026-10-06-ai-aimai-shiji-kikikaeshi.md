@@ -135,6 +135,7 @@ AIが整理してくれるのは「何が決まっていないか」まで。**�
 - [仕事の優先順位をAIで整理｜やることが多すぎる朝の対処法]({{ site.baseurl }}{% post_url 2026-10-05-ai-yusen-junni-todo %})
 - [社内依頼メールをAIで書く｜催促にならない言い回し]({{ site.baseurl }}{% post_url 2026-08-06-ai-shanai-irai-mail %})
 - [訂正メールをAIで書く｜誤記・添付ミスの例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-02-ai-teisei-mail %})
+- [月次報告のコメントをAIで書く｜数字の増減を説明する型]({{ site.baseurl }}{% post_url 2026-10-07-ai-getsuji-hokoku-comment %})
 
 ---
 
