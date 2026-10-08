@@ -79,6 +79,7 @@ AIが作る設問は形として整っていますが、配信前に次の3点�
 - [アンケート自由記述をAIで要約｜集計から傾向分析まで]({{ site.baseurl }}{% post_url 2026-07-25-ai-anketo-jiyu-kijutsu %})
 - [社内アナウンス文（システムメンテナンス・オフィス移転等）をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %})
 - [1on1のフィードバックメモをAIで整理｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-09-ai-1on1-feedback-memo %})
+- [顧客アンケートの依頼メールをAIで書く｜回答率を上げる一言]({{ site.baseurl }}{% post_url 2026-08-31-ai-anketo-irai-mail %})
 
 ---
 

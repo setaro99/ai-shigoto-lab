@@ -94,6 +94,7 @@ AIが作った下書きは、そのまま送らず次の点を必ず目視で確
 - [経費精算の摘要欄をAIで書く｜差し戻されない書き方]({{ site.baseurl }}{% post_url 2026-08-02-ai-keihi-seisan-tekiyou %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [ビジネスメールの敬語をAIでチェック｜二重敬語の直し方]({{ site.baseurl }}{% post_url 2026-10-04-ai-keigo-check %})
+- [納期遅延のお知らせメールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-30-ai-nouki-chien-mail %})
 
 ---
 

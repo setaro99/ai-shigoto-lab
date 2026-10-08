@@ -68,6 +68,7 @@ AIの文面はそのまま使えることが多いですが、送信前に次の
 - [お礼メールをAIで書く｜取引先・上司への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-04-ai-orei-mail %}) — 「感謝→具体的な1点→今後への一言」で後回しにしないお礼メール
 - [見積書の添え状メールをAIで書く｜フリーランス向け例文]({{ site.baseurl }}{% post_url 2026-08-07-ai-mitsumorisho-soufu-mail %}) — 金額の話をぶっきらぼうにせず送る添え状の型
 - [社内依頼メールをAIで書く｜催促にならない言い回し]({{ site.baseurl }}{% post_url 2026-08-06-ai-shanai-irai-mail %}) — 「上から目線」にも「遠慮しすぎ」にもならない依頼の型
+- [アポイント依頼メールをAIで書く｜初めての相手に送る例文]({{ site.baseurl }}{% post_url 2026-10-08-ai-apo-irai-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 
 ---

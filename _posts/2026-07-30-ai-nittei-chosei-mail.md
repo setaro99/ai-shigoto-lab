@@ -90,6 +90,7 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %})
 - [顧客アンケートの依頼メールをAIで書く｜回答率を上げる一言]({{ site.baseurl }}{% post_url 2026-08-31-ai-anketo-irai-mail %})
+- [アポイント依頼メールをAIで書く｜初めての相手に送る例文]({{ site.baseurl }}{% post_url 2026-10-08-ai-apo-irai-mail %})
 
 ---
 

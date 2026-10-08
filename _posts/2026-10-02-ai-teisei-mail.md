@@ -129,6 +129,7 @@ AIには、この6点を守らせたうえで、**ミスの内容と影響の大
 - [クレーム対応メールをAIで書く｜顧客対応の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-27-ai-claim-taiou-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [ビジネスメールの敬語をAIでチェック｜二重敬語の直し方]({{ site.baseurl }}{% post_url 2026-10-04-ai-keigo-check %})
+- [長いメールのやり取りをAIで要約｜経緯を3分で把握]({{ site.baseurl }}{% post_url 2026-10-01-ai-mail-thread-youyaku %})
 
 ---
 

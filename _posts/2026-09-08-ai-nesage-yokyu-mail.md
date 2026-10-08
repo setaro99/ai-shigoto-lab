@@ -68,6 +68,7 @@ AIの返信文はそのまま送れそうに見えても、社外に出す前に
 - [値上げ案内メールをAIで書く｜角が立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-28-ai-neage-annai-mail %})
 - [見積書の添え状メールをAIで書く｜フリーランス向け例文]({{ site.baseurl }}{% post_url 2026-08-07-ai-mitsumorisho-soufu-mail %})
 - [展示会後のフォローアップメールをAIで書く｜商談につなげる文面]({{ site.baseurl }}{% post_url 2026-08-30-ai-tenjikai-follow-mail %})
+- [アポイント依頼メールをAIで書く｜初めての相手に送る例文]({{ site.baseurl }}{% post_url 2026-10-08-ai-apo-irai-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 
 ---
