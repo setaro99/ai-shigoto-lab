@@ -78,6 +78,7 @@ AIが作った文面はそのまま提出できる完成度に見えても、社
 - [AIでお詫びメールを書く｜コピペで使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-14-ai-owabi-mail %})
 - [クレーム対応メールをAIで書く｜顧客対応の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-27-ai-claim-taiou-mail %})
 - [稟議書をAIで書く｜承認されやすい構成とプロンプト]({{ site.baseurl }}{% post_url 2026-07-26-ai-ringisho %})
+- [ミスの報告をAIで整える｜上司への第一報の書き方]({{ site.baseurl }}{% post_url 2026-10-10-ai-mistake-houkoku-mail %})
 
 ---
 

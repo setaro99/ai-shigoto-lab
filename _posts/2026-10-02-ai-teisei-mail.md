@@ -130,6 +130,8 @@ AIには、この6点を守らせたうえで、**ミスの内容と影響の大
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [ビジネスメールの敬語をAIでチェック｜二重敬語の直し方]({{ site.baseurl }}{% post_url 2026-10-04-ai-keigo-check %})
 - [長いメールのやり取りをAIで要約｜経緯を3分で把握]({{ site.baseurl }}{% post_url 2026-10-01-ai-mail-thread-youyaku %})
+- [提出前の資料チェックをAIで｜誤字・数字ミスの見つけ方]({{ site.baseurl }}{% post_url 2026-10-09-ai-shiryo-misu-check %})
+- [ミスの報告をAIで整える｜上司への第一報の書き方]({{ site.baseurl }}{% post_url 2026-10-10-ai-mistake-houkoku-mail %})
 
 ---
 

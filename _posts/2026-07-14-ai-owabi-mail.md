@@ -60,6 +60,8 @@ AIの文章はそのまま使えることが多いですが、社外に出す前
 - [訂正メールをAIで書く｜誤記・添付ミスの例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-02-ai-teisei-mail %})
 - [始末書をAIで書く｜反省文にならない書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-07-31-ai-shimatsusho %})
 - [お悔やみメールをAIで書く｜訃報を受けた際の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-09-ai-okuyami-mail %})
+- [ミスの報告をAIで整える｜上司への第一報の書き方]({{ site.baseurl }}{% post_url 2026-10-10-ai-mistake-houkoku-mail %})
+- [提出前の資料チェックをAIで｜誤字・数字ミスの見つけ方]({{ site.baseurl }}{% post_url 2026-10-09-ai-shiryo-misu-check %})
 
 ---
 

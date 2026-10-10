@@ -71,6 +71,7 @@ AIが作る文面は自然なことが多いですが、送信ボタンを押す
 - [社内アナウンス文（システムメンテナンス・オフィス移転等）をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %})
 - [社内向け依頼メール（協力依頼・確認依頼）をAIで書く｜催促にならない言い回しとプロンプト]({{ site.baseurl }}{% post_url 2026-08-06-ai-shanai-irai-mail %})
 - [1on1のフィードバックメモをAIで整理｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-09-ai-1on1-feedback-memo %})
+- [ミスの報告をAIで整える｜上司への第一報の書き方]({{ site.baseurl }}{% post_url 2026-10-10-ai-mistake-houkoku-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 
 ---

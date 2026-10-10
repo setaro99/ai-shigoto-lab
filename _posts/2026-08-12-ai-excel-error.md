@@ -74,6 +74,7 @@ Excelのエラー値は、名前だけを検索しても「よくある原因の
 - [Excelピボットテーブルの作り方をAIに聞く｜クロス集計]({{ site.baseurl }}{% post_url 2026-08-08-ai-pivot-table %})
 - [AI×Excel活用 完全まとめ｜関数・VBA・ピボット・エラー値まで]({{ '/excel-guide/' | relative_url }})
 - [Excelの表記ゆれをAIで統一｜全角半角のばらつき解消]({{ site.baseurl }}{% post_url 2026-08-16-ai-excel-hyokiyure %})
+- [提出前の資料チェックをAIで｜誤字・数字ミスの見つけ方]({{ site.baseurl }}{% post_url 2026-10-09-ai-shiryo-misu-check %})
 
 ---
 
