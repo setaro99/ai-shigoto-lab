@@ -76,6 +76,7 @@ AIが出したグループ分けや統一候補はかなり精度が高いこと
 - [Excelピボットテーブルの作り方をAIに聞く｜クロス集計]({{ site.baseurl }}{% post_url 2026-08-08-ai-pivot-table %})
 - [VBAマクロをAIに書かせる｜未経験でも業務自動化]({{ site.baseurl }}{% post_url 2026-07-20-ai-vba-macro %})
 - [Excelのグラフ作成をAIに相談｜データに合う型の選び方]({{ site.baseurl }}{% post_url 2026-08-26-ai-excel-graph %})
+- [Excelで2つの表を突合する｜差分・重複をAIで見つける]({{ site.baseurl }}{% post_url 2026-10-12-ai-excel-totsugo %})
 - [AI×Excel活用 完全まとめ｜関数・VBA・ピボット・エラー値まで]({{ '/excel-guide/' | relative_url }})
 
 ---
