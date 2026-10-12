@@ -24,6 +24,7 @@ description: "関数・VBAマクロ・ピボットテーブル・エラー値・
 
 - [Excelのエラー値をAIに聞く｜原因究明と直し方]({{ site.baseurl }}{% post_url 2026-08-12-ai-excel-error %}) — #N/Aや#REF!など、エラーの種類ごとの聞き方のコツ
 - [Excelの表記ゆれをAIで統一｜全角半角のばらつき解消]({{ site.baseurl }}{% post_url 2026-08-16-ai-excel-hyokiyure %}) — 関数を組まずに表記ゆれの候補と置換ルールを洗い出す方法
+- [Excelで2つの表を突合する｜差分・重複をAIで見つける]({{ site.baseurl }}{% post_url 2026-10-12-ai-excel-totsugo %}) — 照合キーと欲しい結果を決めて、入金漏れや金額違い、重複を探す数式を作る方法
 
 ## 自動化（VBA）
 
