@@ -74,6 +74,7 @@ AIが整えた週報・日報は、そのまま提出する前に必ず次の点
 - [企画書のたたき台をAIで作る｜構成から一気に]({{ site.baseurl }}{% post_url 2026-07-17-ai-kikakusho-tataki %})
 - [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
 - [月次報告のコメントをAIで書く｜数字の増減を説明する型]({{ site.baseurl }}{% post_url 2026-10-07-ai-getsuji-hokoku-comment %})
+- [AI×報告書 完全まとめ｜週報・月次・出張・ミスの報告まで]({{ '/houkoku-guide/' | relative_url }})
 
 ---
 

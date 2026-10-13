@@ -87,6 +87,7 @@ AIが作った報告書は読みやすい形に整っていますが、そのま
 - [始末書をAIで書く｜反省文にならない書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-07-31-ai-shimatsusho %})
 - [経費精算の摘要欄をAIで書く｜差し戻されない書き方]({{ site.baseurl }}{% post_url 2026-08-02-ai-keihi-seisan-tekiyou %})
 - [新人研修のOJTチェックリストをAIで作る｜教える側の時短]({{ site.baseurl }}{% post_url 2026-08-25-ai-ojt-checklist %})
+- [AI×報告書 完全まとめ｜週報・月次・出張・ミスの報告まで]({{ '/houkoku-guide/' | relative_url }})
 
 ---
 

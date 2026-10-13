@@ -110,6 +110,7 @@ AIは数字を勝手に正しくはしてくれませんが、「何を書けば
 - [出張報告書をAIで書く｜提出までの時短プロンプト]({{ site.baseurl }}{% post_url 2026-08-01-ai-shutcho-hokokusho %})
 - [Excelのグラフ作成をAIに相談｜データに合う型の選び方]({{ site.baseurl }}{% post_url 2026-08-26-ai-excel-graph %})
 - [あいまいな指示をAIで整理｜上司への聞き返し方]({{ site.baseurl }}{% post_url 2026-10-06-ai-aimai-shiji-kikikaeshi %})
+- [AI×報告書 完全まとめ｜週報・月次・出張・ミスの報告まで]({{ '/houkoku-guide/' | relative_url }})
 
 ---
 
