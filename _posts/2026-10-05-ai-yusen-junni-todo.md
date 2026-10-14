@@ -121,6 +121,7 @@ AIが出す順番は、あくまで「判断の叩き台」です。上司の指
 - [催促メールをAIで書く｜角の立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-24-ai-saisoku-mail %})
 - [あいまいな指示をAIで整理｜上司への聞き返し方]({{ site.baseurl }}{% post_url 2026-10-06-ai-aimai-shiji-kikikaeshi %})
 - [月次報告のコメントをAIで書く｜数字の増減を説明する型]({{ site.baseurl }}{% post_url 2026-10-07-ai-getsuji-hokoku-comment %})
+- [電話の伝言メモをAIで整える｜取り次ぎ漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-13-ai-denwa-dengon-memo %})
 
 ---
 

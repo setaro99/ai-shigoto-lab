@@ -84,6 +84,7 @@ AIが作った台本は自然な言い回しになっていることが多いで
 - [引き継ぎ書をAIで10分｜抜け漏れを防ぐコツ]({{ site.baseurl }}{% post_url 2026-07-21-ai-hikitsugisho %})
 - [社内アナウンス文をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %})
 - [1on1のフィードバックメモをAIで整理｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-09-ai-1on1-feedback-memo %})
+- [電話の伝言メモをAIで整える｜取り次ぎ漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-13-ai-denwa-dengon-memo %})
 
 ---
 

@@ -67,6 +67,7 @@ Excelの関数は、関数名や書式を覚えていなくても、「何をし
 - [Excelの表記ゆれをAIで統一｜全角半角のばらつき解消]({{ site.baseurl }}{% post_url 2026-08-16-ai-excel-hyokiyure %})
 - [Excelで2つの表を突合する｜差分・重複をAIで見つける]({{ site.baseurl }}{% post_url 2026-10-12-ai-excel-totsugo %})
 - [AI×Excel活用 完全まとめ｜関数・VBA・ピボット・エラー値まで]({{ '/excel-guide/' | relative_url }})
+- [CSVの文字化け・先頭の0消えをAIで直す｜Excelの開き方]({{ site.baseurl }}{% post_url 2026-10-14-ai-excel-csv-mojibake %})
 
 ---
 

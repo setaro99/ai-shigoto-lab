@@ -115,6 +115,7 @@ AIに「出張中でメールは1日1回確認できる前提で」と条件を�
 - [引き継ぎ書をAIで10分｜抜け漏れを防ぐコツ]({{ site.baseurl }}{% post_url 2026-07-21-ai-hikitsugisho %})
 - [育休・産休前の引き継ぎ挨拶文をAIで書く｜社内向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-28-ai-ikukyu-sankyu-aisatsu %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [電話の伝言メモをAIで整える｜取り次ぎ漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-13-ai-denwa-dengon-memo %})
 
 ---
 

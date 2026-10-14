@@ -100,6 +100,7 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 - [AIでお詫びメールを書く｜コピペで使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-14-ai-owabi-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [送別会・歓迎会の案内文をAIで書く｜幹事向けプロンプト]({{ site.baseurl }}{% post_url 2026-08-20-ai-soubetsukai-annai %})
+- [異動・転勤の挨拶メールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-05-ai-ido-tenkin-aisatsu-mail %})
 
 ---
 
