@@ -82,6 +82,7 @@ AIが整えた議事録は読みやすい形になっていますが、社内外
 - [角の立たない断りメールの書き方｜AIプロンプト付き]({{ site.baseurl }}{% post_url 2026-07-15-ai-kotowari-mail %})
 - [AIでお詫びメールを書く｜コピペで使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-14-ai-owabi-mail %})
 - [長いメールのやり取りをAIで要約｜経緯を3分で把握]({{ site.baseurl }}{% post_url 2026-10-01-ai-mail-thread-youyaku %})
+- [会議メモからToDoをAIで抽出｜担当・期限つきの一覧に]({{ site.baseurl }}{% post_url 2026-10-16-ai-kaigi-todo-chushutsu %})
 
 ---
 

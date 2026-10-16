@@ -107,6 +107,7 @@ CSVの文字化けや先頭の0消えは、ファイルの不具合ではなく*
 - [Excelの表記ゆれをAIで統一｜全角半角のばらつき解消]({{ site.baseurl }}{% post_url 2026-08-16-ai-excel-hyokiyure %})
 - [Excelのエラー値をAIに聞く｜原因究明と直し方]({{ site.baseurl }}{% post_url 2026-08-12-ai-excel-error %})
 - [Excelの関数をAIに作らせる｜「日本語で頼むだけ」入門]({{ site.baseurl }}{% post_url 2026-07-14-ai-excel-kansu %})
+- [Excelの条件付き書式をAIに頼む｜期限切れの行を自動で色付け]({{ site.baseurl }}{% post_url 2026-10-15-ai-excel-jouken-tsuki-shoshiki %})
 
 ---
 
