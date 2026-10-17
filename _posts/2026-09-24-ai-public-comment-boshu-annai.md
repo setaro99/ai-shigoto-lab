@@ -85,6 +85,7 @@ AIが作った案内文は整っていますが、公式サイトや広報誌に
 - [プレスリリースをAIで書く｜刺さる書き出しとプロンプト]({{ site.baseurl }}{% post_url 2026-08-14-ai-press-release %})
 - [就業規則改定の社内周知文をAIで書く｜総務向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-02-ai-shugyo-kisoku-shuchi %})
 - [社内アナウンス文（システムメンテナンス・オフィス移転等）をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %})
+- [AI×広報・周知文 完全まとめ｜プレスリリース・社内報・住民向け案内まで]({{ '/koho-guide/' | relative_url }}) — 広報・周知の記事を読み手別にまとめたページ
 
 ---
 

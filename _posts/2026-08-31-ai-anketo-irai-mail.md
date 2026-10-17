@@ -75,6 +75,7 @@ AIの文面はそのまま使えることが多いですが、配信前に次の
 - [展示会後のフォローアップメールをAIで書く｜商談につなげる文面]({{ site.baseurl }}{% post_url 2026-08-30-ai-tenjikai-follow-mail %}) — 見込み客との接点を段階的に作るフォローアップの型
 - [アンケート自由記述をAIで要約｜集計から傾向分析まで]({{ site.baseurl }}{% post_url 2026-07-25-ai-anketo-jiyu-kijutsu %}) — 集まった回答を読む手間をなくし、傾向をつかむ方法
 - [社内アンケートの質問文をAIで作る｜設問設計のコツ]({{ site.baseurl }}{% post_url 2026-08-24-ai-anketo-shitsumon-sekkei %}) — 集計しやすい設問を先に固めておくための考え方
+- [メールの件名をAIで改善｜開封されやすい書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-10-17-ai-mail-kenmei %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 
 ---

@@ -116,6 +116,7 @@ AIの下書きは、そのまま送らずに次の点を確認してください
 - [日程調整メールをAIで書く｜候補日提示から返信まで]({{ site.baseurl }}{% post_url 2026-07-30-ai-nittei-chosei-mail %})
 - [角の立たない断りメールの書き方｜AIプロンプト付き]({{ site.baseurl }}{% post_url 2026-07-15-ai-kotowari-mail %})
 - [ビジネスメールの敬語をAIでチェック｜二重敬語の直し方]({{ site.baseurl }}{% post_url 2026-10-04-ai-keigo-check %})
+- [メールの件名をAIで改善｜開封されやすい書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-10-17-ai-mail-kenmei %})
 
 ---
 
