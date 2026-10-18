@@ -25,6 +25,9 @@ description: "関数・VBAマクロ・ピボットテーブル・エラー値・
 - [Excelのエラー値をAIに聞く｜原因究明と直し方]({{ site.baseurl }}{% post_url 2026-08-12-ai-excel-error %}) — #N/Aや#REF!など、エラーの種類ごとの聞き方のコツ
 - [Excelの表記ゆれをAIで統一｜全角半角のばらつき解消]({{ site.baseurl }}{% post_url 2026-08-16-ai-excel-hyokiyure %}) — 関数を組まずに表記ゆれの候補と置換ルールを洗い出す方法
 - [Excelで2つの表を突合する｜差分・重複をAIで見つける]({{ site.baseurl }}{% post_url 2026-10-12-ai-excel-totsugo %}) — 照合キーと欲しい結果を決めて、入金漏れや金額違い、重複を探す数式を作る方法
+- [CSVの文字化け・先頭の0消えをAIで直す｜Excelの開き方]({{ site.baseurl }}{% post_url 2026-10-14-ai-excel-csv-mojibake %}) — CSVを開いたときの文字化けの直し方を、状況を伝えてAIに手順を作ってもらう
+- [Excelの条件付き書式をAIに頼む｜期限切れの行を自動で色付け]({{ site.baseurl }}{% post_url 2026-10-15-ai-excel-jouken-tsuki-shoshiki %}) — 期限切れなど、色を付けたい条件を日本語で伝えて書式の設定手順を作ってもらう
+- [Excelのドロップダウンリストの作り方｜AIに頼んで入力ミスを防ぐ]({{ site.baseurl }}{% post_url 2026-10-18-ai-excel-dropdown-list %}) — 選択肢の置き場所や連動リストを伝えて、入力ミスを防ぐ設定手順と数式を作ってもらう
 
 ## 自動化（VBA）
 

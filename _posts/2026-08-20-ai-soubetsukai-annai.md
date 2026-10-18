@@ -93,6 +93,7 @@ AIの案内文はほぼそのまま使える完成度ですが、社内に一斉
 - [日程調整メールをAIで書く｜候補日提示から返信まで]({{ site.baseurl }}{% post_url 2026-07-30-ai-nittei-chosei-mail %})
 - [社内向け依頼メール（協力依頼・確認依頼）をAIで書く｜催促にならない言い回しとプロンプト]({{ site.baseurl }}{% post_url 2026-08-06-ai-shanai-irai-mail %})
 - [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
+- [Slack・Teamsの文面をAIで整える｜メールより気軽に]({{ site.baseurl }}{% post_url 2026-08-21-ai-shanai-chat-message %})
 
 ---
 

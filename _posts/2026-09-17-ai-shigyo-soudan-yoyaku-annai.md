@@ -87,6 +87,7 @@ AIが作った案内文はきれいに整っていますが、そのまま送ら
 - [クリニック受付の案内文をAIで書く｜待ち時間・持ち物の伝え方]({{ site.baseurl }}{% post_url 2026-09-16-ai-clinic-uketsuke-annai %})
 - [稟議書をAIで書く｜承認されやすい構成とプロンプト]({{ site.baseurl }}{% post_url 2026-07-26-ai-ringisho %})
 - [見積書送付メールの添え状をAIで書く｜個人事業主・フリーランス向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-07-ai-mitsumorisho-soufu-mail %})
+- [窓口受付時間の変更案内文をAIで書く｜住民向け周知術]({{ site.baseurl }}{% post_url 2026-09-25-ai-uketsuke-jikan-henkou-annai %})
 
 ---
 

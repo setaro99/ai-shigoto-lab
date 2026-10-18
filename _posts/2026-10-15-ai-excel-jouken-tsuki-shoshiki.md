@@ -122,6 +122,7 @@ Excelの条件付き書式を設定しましたが、意図どおりに色が付
 - [Excelで2つの表を突合する｜差分・重複をAIで見つける]({{ site.baseurl }}{% post_url 2026-10-12-ai-excel-totsugo %})
 - [Excelのエラー値をAIに聞く｜原因究明と直し方]({{ site.baseurl }}{% post_url 2026-08-12-ai-excel-error %})
 - [Excelの関数をAIに作らせる｜「日本語で頼むだけ」入門]({{ site.baseurl }}{% post_url 2026-07-14-ai-excel-kansu %})
+- [Excelのドロップダウンリストの作り方｜AIに頼んで入力ミスを防ぐ]({{ site.baseurl }}{% post_url 2026-10-18-ai-excel-dropdown-list %})
 
 ---
 

@@ -63,6 +63,7 @@ AIが提案する型と手順は的確なことが多いですが、資料に貼
 - [Excelのエラー値をAIに聞く｜原因究明と直し方]({{ site.baseurl }}{% post_url 2026-08-12-ai-excel-error %})
 - [AI×Excel活用 完全まとめ｜関数・VBA・ピボット・エラー値まで]({{ '/excel-guide/' | relative_url }})
 - [Excelの条件付き書式をAIに頼む｜期限切れの行を自動で色付け]({{ site.baseurl }}{% post_url 2026-10-15-ai-excel-jouken-tsuki-shoshiki %})
+- [Excelのドロップダウンリストの作り方｜AIに頼んで入力ミスを防ぐ]({{ site.baseurl }}{% post_url 2026-10-18-ai-excel-dropdown-list %})
 
 ---
 

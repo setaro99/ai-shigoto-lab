@@ -73,6 +73,7 @@ AIが作る文面は自然なことが多いですが、送信ボタンを押す
 - [1on1のフィードバックメモをAIで整理｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-09-ai-1on1-feedback-memo %})
 - [ミスの報告をAIで整える｜上司への第一報の書き方]({{ site.baseurl }}{% post_url 2026-10-10-ai-mistake-houkoku-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [送別会・歓迎会の案内文をAIで書く｜幹事向けプロンプト]({{ site.baseurl }}{% post_url 2026-08-20-ai-soubetsukai-annai %})
 
 ---
 
