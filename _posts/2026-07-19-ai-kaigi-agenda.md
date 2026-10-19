@@ -84,6 +84,7 @@ AIが作ったアジェンダはそのまま配れることが多いですが、
 - [週報・日報をAIで書く｜箇条書きから5分で提出用に]({{ site.baseurl }}{% post_url 2026-07-22-ai-shuuhou-nippou %})
 - [病棟会議・委員会資料をAIで議事録要約｜記録整理のコツ]({{ site.baseurl }}{% post_url 2026-09-22-ai-byoto-kaigi-giji-yoyaku %})
 - [会議メモからToDoをAIで抽出｜担当・期限つきの一覧に]({{ site.baseurl }}{% post_url 2026-10-16-ai-kaigi-todo-chushutsu %})
+- [会議のリマインドメールをAIで書く｜出欠確認つき例文]({{ site.baseurl }}{% post_url 2026-10-19-ai-kaigi-reminder-mail %})
 
 ---
 

@@ -70,6 +70,7 @@ AIがまとめた内容は読みやすくても、そのまま社内公開する
 - [企画書のたたき台をAIで作る｜構成から一気に]({{ site.baseurl }}{% post_url 2026-07-17-ai-kikakusho-tataki %})
 - [引き継ぎ書をAIで10分｜抜け漏れを防ぐコツ]({{ site.baseurl }}{% post_url 2026-07-21-ai-hikitsugisho %})
 - [週報・日報をAIで書く｜箇条書きから5分で提出用に]({{ site.baseurl }}{% post_url 2026-07-22-ai-shuuhou-nippou %})
+- [問い合わせ対応のFAQをAIで作る｜よくある質問と回答のまとめ方]({{ site.baseurl }}{% post_url 2026-09-11-ai-faq-sakusei %})
 
 ---
 

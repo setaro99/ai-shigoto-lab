@@ -116,6 +116,7 @@ description: "会議の直前に「忘れていました」と言われないた
 - [会議メモからToDoをAIで抽出｜担当・期限つきの一覧に]({{ site.baseurl }}{% post_url 2026-10-16-ai-kaigi-todo-chushutsu %})
 - [日程調整メールをAIで書く｜候補日提示から返信まで]({{ site.baseurl }}{% post_url 2026-07-30-ai-nittei-chosei-mail %})
 - [メールの件名をAIで改善｜開封されやすい書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-10-17-ai-mail-kenmei %})
+- [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %})
 
 ---
 
