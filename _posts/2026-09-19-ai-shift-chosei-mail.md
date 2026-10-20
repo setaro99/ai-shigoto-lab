@@ -91,6 +91,7 @@ AIが作った依頼文はそのまま使えることが多いですが、送信
 - [日程調整メールをAIで書く｜候補日提示から返信まで]({{ site.baseurl }}{% post_url 2026-07-30-ai-nittei-chosei-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [不在時の自動返信メールをAIで作る｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-11-ai-fuzai-jido-henshin %})
+- [介護記録・申し送りをAIで整える｜事実と所見を分ける型]({{ site.baseurl }}{% post_url 2026-10-20-ai-kaigo-kiroku-moushiokuri %})
 
 ---
 

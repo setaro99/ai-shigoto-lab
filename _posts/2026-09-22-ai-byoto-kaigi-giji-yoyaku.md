@@ -84,6 +84,7 @@ AIが整理した議事録は形として読みやすくなりますが、配布
 - [議事録をAIで清書する方法｜走り書きメモから10分で]({{ site.baseurl }}{% post_url 2026-07-14-ai-gijiroku-seisho %})
 - [クリニック受付の案内文をAIで書く｜待ち時間・持ち物の伝え方]({{ site.baseurl }}{% post_url 2026-09-16-ai-clinic-uketsuke-annai %})
 - [会議のアジェンダをAIで作る｜時間配分つきテンプレ]({{ site.baseurl }}{% post_url 2026-07-19-ai-kaigi-agenda %})
+- [介護記録・申し送りをAIで整える｜事実と所見を分ける型]({{ site.baseurl }}{% post_url 2026-10-20-ai-kaigo-kiroku-moushiokuri %})
 
 ---
 
