@@ -65,6 +65,7 @@ AIが作った文面はそのまま使えることが多いですが、送信・
 - [POP・チラシの売り文句をAIで書く｜個人店・小売向けプロンプト]({{ site.baseurl }}{% post_url 2026-08-22-ai-pop-chirashi %})
 - [口コミ返信文をAIで書く｜飲食店・美容室向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-23-ai-kuchikomi-henshin %})
 - [顧客アンケートの依頼文をAIで書く｜回答率を上げる一言とプロンプト]({{ site.baseurl }}{% post_url 2026-08-31-ai-anketo-irai-mail %})
+- [物件紹介文をAIで書く｜誇張にならない書き方と型]({{ site.baseurl }}{% post_url 2026-10-21-ai-bukken-shokaibun %})
 
 ---
 
