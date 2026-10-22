@@ -92,6 +92,7 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 - [顧客アンケートの依頼メールをAIで書く｜回答率を上げる一言]({{ site.baseurl }}{% post_url 2026-08-31-ai-anketo-irai-mail %})
 - [アポイント依頼メールをAIで書く｜初めての相手に送る例文]({{ site.baseurl }}{% post_url 2026-10-08-ai-apo-irai-mail %})
 - [会議のリマインドメールをAIで書く｜出欠確認つき例文]({{ site.baseurl }}{% post_url 2026-10-19-ai-kaigi-reminder-mail %})
+- [内見後のお礼・フォローメールをAIで書く｜不動産営業向け]({{ site.baseurl }}{% post_url 2026-10-22-ai-naiken-follow-mail %})
 
 ---
 

@@ -117,6 +117,7 @@ AIの下書きは、そのまま送らずに次の点を確認してください
 - [角の立たない断りメールの書き方｜AIプロンプト付き]({{ site.baseurl }}{% post_url 2026-07-15-ai-kotowari-mail %})
 - [ビジネスメールの敬語をAIでチェック｜二重敬語の直し方]({{ site.baseurl }}{% post_url 2026-10-04-ai-keigo-check %})
 - [メールの件名をAIで改善｜開封されやすい書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-10-17-ai-mail-kenmei %})
+- [内見後のお礼・フォローメールをAIで書く｜不動産営業向け]({{ site.baseurl }}{% post_url 2026-10-22-ai-naiken-follow-mail %})
 
 ---
 

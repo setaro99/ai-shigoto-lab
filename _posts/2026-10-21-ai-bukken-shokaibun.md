@@ -91,6 +91,7 @@ AIの文章は下書きです。公開前に、必ず人の目で次を確認し
 - [求人票をAIで書く｜応募が集まる文章とプロンプト]({{ site.baseurl }}{% post_url 2026-08-13-ai-kyujinhyo %})
 - [提出前の資料チェックをAIで｜誤字・数字ミスの見つけ方]({{ site.baseurl }}{% post_url 2026-10-09-ai-shiryo-misu-check %})
 - [プレスリリースをAIで書く｜刺さる書き出しとプロンプト]({{ site.baseurl }}{% post_url 2026-08-14-ai-press-release %})
+- [内見後のお礼・フォローメールをAIで書く｜不動産営業向け]({{ site.baseurl }}{% post_url 2026-10-22-ai-naiken-follow-mail %})
 
 ---
 
