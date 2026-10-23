@@ -62,6 +62,7 @@ OJTチェックリストが作りにくいのは、教える内容が頭にな�
 - [電話応対マニュアルをAIで作る｜新人向け想定問答とプロンプト]({{ site.baseurl }}{% post_url 2026-08-17-ai-denwa-taiou-manual %})
 - [朝礼スピーチをAIで作る｜1分・3分で使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-04-ai-chorei-speech %})
 - [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
+- [院内研修の案内文をAIで書く｜看護部向け周知のポイント]({{ site.baseurl }}{% post_url 2026-09-21-ai-innai-kenshu-annai %})
 
 ---
 

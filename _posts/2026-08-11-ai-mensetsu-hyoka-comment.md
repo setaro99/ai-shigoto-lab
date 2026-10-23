@@ -76,6 +76,7 @@ AIが作ったコメントは読みやすく整っていますが、採用会議
 - [不採用通知メールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-15-ai-fusaiyou-tsuuchi-mail %})
 - [志望動機をAIで書く｜通過率が上がる例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-27-ai-shibo-doki %})
 - [面接での質問リストをAIで作る｜人事担当向け構成とプロンプト]({{ site.baseurl }}{% post_url 2026-08-27-ai-mensetsu-shitsumon-list %})
+- [職務経歴書をAIで書く｜通過率が上がる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
 
 ---
 

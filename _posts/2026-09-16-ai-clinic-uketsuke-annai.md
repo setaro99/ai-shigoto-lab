@@ -80,6 +80,7 @@ AIが作った案内文は読みやすく整っていますが、そのまま貼
 - [社内アナウンス文(システムメンテナンス・オフィス移転等)をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %})
 - [クレーム対応メールをAIで書く｜顧客対応の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-27-ai-claim-taiou-mail %})
 - [年末年始休業のお知らせをAIで書く｜取引先向け例文と型]({{ site.baseurl }}{% post_url 2026-10-03-ai-nenmatsu-nenshi-kyugyo-annai %})
+- [院内研修の案内文をAIで書く｜看護部向け周知のポイント]({{ site.baseurl }}{% post_url 2026-09-21-ai-innai-kenshu-annai %})
 
 ---
 

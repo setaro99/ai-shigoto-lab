@@ -98,6 +98,7 @@ AIが作った文面は自然なことが多いですが、送信前に次の3�
 - [引き継ぎ書をAIで10分｜抜け漏れを防ぐコツ]({{ site.baseurl }}{% post_url 2026-07-21-ai-hikitsugisho %})
 - [退職の挨拶メールをAIで書く｜社内・取引先への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-29-ai-taishoku-aisatsu-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [有給休暇の申請理由をAIで書く｜角が立たない一言とプロンプト]({{ site.baseurl }}{% post_url 2026-08-29-ai-yukyu-shinsei-riyuu %})
 
 ---
 

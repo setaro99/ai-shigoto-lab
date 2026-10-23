@@ -80,6 +80,7 @@ AIが作る設問は形として整っていますが、配信前に次の3点�
 - [社内アナウンス文（システムメンテナンス・オフィス移転等）をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %})
 - [1on1のフィードバックメモをAIで整理｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-09-ai-1on1-feedback-memo %})
 - [顧客アンケートの依頼メールをAIで書く｜回答率を上げる一言]({{ site.baseurl }}{% post_url 2026-08-31-ai-anketo-irai-mail %})
+- [美容室のカウンセリングシートをAIで作る｜聞き漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-23-ai-salon-counseling-sheet %})
 
 ---
 

@@ -76,6 +76,7 @@ POPやチラシの言葉が出てこないのは、センスがないからで�
 - [見積書送付メールの添え状をAIで書く｜個人事業主・フリーランス向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-07-ai-mitsumorisho-soufu-mail %})
 - [ニュースレターの文面をAIで書く｜個人店向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-19-ai-newsletter-sakusei %})
 - [物件紹介文をAIで書く｜誇張にならない書き方と型]({{ site.baseurl }}{% post_url 2026-10-21-ai-bukken-shokaibun %})
+- [美容室のカウンセリングシートをAIで作る｜聞き漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-23-ai-salon-counseling-sheet %})
 
 ---
 
