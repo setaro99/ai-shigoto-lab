@@ -67,6 +67,8 @@ AIが作った文面はそのまま使えることが多いですが、送信・
 - [顧客アンケートの依頼文をAIで書く｜回答率を上げる一言とプロンプト]({{ site.baseurl }}{% post_url 2026-08-31-ai-anketo-irai-mail %})
 - [物件紹介文をAIで書く｜誇張にならない書き方と型]({{ site.baseurl }}{% post_url 2026-10-21-ai-bukken-shokaibun %})
 - [美容室のカウンセリングシートをAIで作る｜聞き漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-23-ai-salon-counseling-sheet %})
+- [薬局だよりをAIで書く｜院内掲示のお知らせ文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-24-ai-yakkyoku-dayori %})
+- [社内報のインタビュー記事をAIでまとめる｜取材メモから読み物に]({{ site.baseurl }}{% post_url 2026-09-01-ai-shanaiho-interview %})
 
 ---
 

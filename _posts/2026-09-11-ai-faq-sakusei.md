@@ -85,6 +85,7 @@ FAQページは、質問をゼロから考える作業ではなく、すでに�
 - [AIで作る業務マニュアル｜質問に答えるだけで完成]({{ site.baseurl }}{% post_url 2026-07-16-ai-gyomu-manual %})
 - [アンケート自由記述をAIで要約｜集計から傾向分析まで]({{ site.baseurl }}{% post_url 2026-07-25-ai-anketo-jiyu-kijutsu %})
 - [士業事務所の相談予約案内文をAIで書く｜必要書類・当日の流れ]({{ site.baseurl }}{% post_url 2026-09-17-ai-shigyo-soudan-yoyaku-annai %})
+- [薬局だよりをAIで書く｜院内掲示のお知らせ文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-24-ai-yakkyoku-dayori %})
 
 ---
 

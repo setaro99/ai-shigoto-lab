@@ -93,6 +93,8 @@ AIが作った案内文は読みやすく整っていますが、そのまま各
 - [住民向け講座・説明会の案内文をAIで書く｜伝え方のコツ]({{ site.baseurl }}{% post_url 2026-09-23-ai-koza-setsumeikai-annai %})
 - [ニュースレターの文面をAIで書く｜個人店向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-19-ai-newsletter-sakusei %})
 - [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %})
+- [薬局だよりをAIで書く｜院内掲示のお知らせ文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-24-ai-yakkyoku-dayori %})
+- [社内アンケートの質問文をAIで作る｜設問設計のコツ]({{ site.baseurl }}{% post_url 2026-08-24-ai-anketo-shitsumon-sekkei %})
 
 ---
 

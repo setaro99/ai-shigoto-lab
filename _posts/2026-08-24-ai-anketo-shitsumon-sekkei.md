@@ -81,6 +81,7 @@ AIが作る設問は形として整っていますが、配信前に次の3点�
 - [1on1のフィードバックメモをAIで整理｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-09-ai-1on1-feedback-memo %})
 - [顧客アンケートの依頼メールをAIで書く｜回答率を上げる一言]({{ site.baseurl }}{% post_url 2026-08-31-ai-anketo-irai-mail %})
 - [美容室のカウンセリングシートをAIで作る｜聞き漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-23-ai-salon-counseling-sheet %})
+- [社内報のインタビュー記事をAIでまとめる｜取材メモから読み物に]({{ site.baseurl }}{% post_url 2026-09-01-ai-shanaiho-interview %})
 
 ---
 
