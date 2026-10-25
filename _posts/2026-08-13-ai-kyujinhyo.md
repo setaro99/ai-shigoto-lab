@@ -74,6 +74,7 @@ AIが作った求人票はそのまま公開できる完成度ですが、公開
 - [不採用通知メールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-15-ai-fusaiyou-tsuuchi-mail %})
 - [物件紹介文をAIで書く｜誇張にならない書き方と型]({{ site.baseurl }}{% post_url 2026-10-21-ai-bukken-shokaibun %})
 - [職務経歴書をAIで書く｜通過率が上がる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
+- [面接日程調整メールをAIで書く｜候補者への連絡]({{ site.baseurl }}{% post_url 2026-10-25-ai-mensetsu-nittei-chosei-mail %})
 
 ---
 
