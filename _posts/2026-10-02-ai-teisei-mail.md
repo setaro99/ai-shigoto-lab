@@ -133,6 +133,7 @@ AIには、この6点を守らせたうえで、**ミスの内容と影響の大
 - [提出前の資料チェックをAIで｜誤字・数字ミスの見つけ方]({{ site.baseurl }}{% post_url 2026-10-09-ai-shiryo-misu-check %})
 - [ミスの報告をAIで整える｜上司への第一報の書き方]({{ site.baseurl }}{% post_url 2026-10-10-ai-mistake-houkoku-mail %})
 - [メールの件名をAIで改善｜開封されやすい書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-10-17-ai-mail-kenmei %})
+- [障害報告書をAIで書く｜非エンジニアにも伝わる構成]({{ site.baseurl }}{% post_url 2026-10-26-ai-shougai-hokokusho %})
 
 ---
 

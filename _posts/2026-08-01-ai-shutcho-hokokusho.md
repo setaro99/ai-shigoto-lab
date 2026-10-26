@@ -83,6 +83,7 @@ AIが作った報告書は形として整っていますが、提出前に次の
 - [月次報告のコメントをAIで書く｜数字の増減を説明する型]({{ site.baseurl }}{% post_url 2026-10-07-ai-getsuji-hokoku-comment %})
 - [AI×報告書 完全まとめ｜週報・月次・出張・ミスの報告まで]({{ '/houkoku-guide/' | relative_url }})
 - [経費精算の摘要欄をAIで書く｜差し戻されない書き方]({{ site.baseurl }}{% post_url 2026-08-02-ai-keihi-seisan-tekiyou %})
+- [障害報告書をAIで書く｜非エンジニアにも伝わる構成]({{ site.baseurl }}{% post_url 2026-10-26-ai-shougai-hokokusho %})
 
 ---
 

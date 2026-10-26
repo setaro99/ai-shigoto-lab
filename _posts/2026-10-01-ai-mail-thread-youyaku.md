@@ -133,6 +133,7 @@ AIの要約は便利ですが、そのまま信じて動くのは危険です。
 - [週報・日報をAIで書く｜箇条書きから5分で提出用に]({{ site.baseurl }}{% post_url 2026-07-22-ai-shuuhou-nippou %})
 - [議事録をAIで清書する方法｜走り書きメモから10分で]({{ site.baseurl }}{% post_url 2026-07-14-ai-gijiroku-seisho %})
 - [Slack・Teamsの文面をAIで整える｜メールより気軽に]({{ site.baseurl }}{% post_url 2026-08-21-ai-shanai-chat-message %})
+- [あいまいな指示をAIで整理｜上司への聞き返し方]({{ site.baseurl }}{% post_url 2026-10-06-ai-aimai-shiji-kikikaeshi %})
 - [AI×事務作業 完全まとめ]({{ '/gyomu-guide/' | relative_url }})
 
 ---
