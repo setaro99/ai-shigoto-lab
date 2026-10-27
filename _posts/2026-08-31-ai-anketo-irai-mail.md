@@ -78,6 +78,7 @@ AIの文面はそのまま使えることが多いですが、配信前に次の
 - [メールの件名をAIで改善｜開封されやすい書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-10-17-ai-mail-kenmei %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [美容室のカウンセリングシートをAIで作る｜聞き漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-23-ai-salon-counseling-sheet %})
+- [社内アンケートの質問文をAIで作る｜設問設計のコツ]({{ site.baseurl }}{% post_url 2026-08-24-ai-anketo-shitsumon-sekkei %})
 
 ---
 

@@ -99,6 +99,7 @@ AIが作った文面は自然なことが多いですが、送信前に次の3�
 - [退職の挨拶メールをAIで書く｜社内・取引先への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-29-ai-taishoku-aisatsu-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [有給休暇の申請理由をAIで書く｜角が立たない一言とプロンプト]({{ site.baseurl }}{% post_url 2026-08-29-ai-yukyu-shinsei-riyuu %})
+- [共働きの献立と買い物リストをAIで作る｜1週間分を10分で]({{ site.baseurl }}{% post_url 2026-10-27-ai-kondate-kaimono-list %})
 
 ---
 

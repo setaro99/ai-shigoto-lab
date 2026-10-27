@@ -84,6 +84,7 @@ AIが整えた引き継ぎ書は読みやすくても、提出する前に次の
 - [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
 - [長いメールのやり取りをAIで要約｜経緯を3分で把握]({{ site.baseurl }}{% post_url 2026-10-01-ai-mail-thread-youyaku %})
 - [電話の伝言メモをAIで整える｜取り次ぎ漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-13-ai-denwa-dengon-memo %})
+- [共働きの献立と買い物リストをAIで作る｜1週間分を10分で]({{ site.baseurl }}{% post_url 2026-10-27-ai-kondate-kaimono-list %})
 
 ---
 

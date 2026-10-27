@@ -114,6 +114,7 @@ AIの出力は、そのまま送らず、次の点を確認してください。
 - [会議のアジェンダをAIで作る｜時間配分つきテンプレ]({{ site.baseurl }}{% post_url 2026-07-19-ai-kaigi-agenda %})
 - [仕事の優先順位をAIで整理｜やることが多すぎる朝の対処法]({{ site.baseurl }}{% post_url 2026-10-05-ai-yusen-junni-todo %})
 - [病棟会議・委員会資料をAIで議事録要約｜記録整理のコツ]({{ site.baseurl }}{% post_url 2026-09-22-ai-byoto-kaigi-giji-yoyaku %})
+- [共働きの献立と買い物リストをAIで作る｜1週間分を10分で]({{ site.baseurl }}{% post_url 2026-10-27-ai-kondate-kaimono-list %})
 
 ---
 

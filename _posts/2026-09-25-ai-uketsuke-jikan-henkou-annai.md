@@ -89,6 +89,7 @@ AIが作ったお知らせ文は整っていますが、ホームページや掲
 - [士業事務所の相談予約案内文をAIで書く｜必要書類・当日の流れ]({{ site.baseurl }}{% post_url 2026-09-17-ai-shigyo-soudan-yoyaku-annai %})
 - [年末年始休業のお知らせをAIで書く｜取引先向け例文と型]({{ site.baseurl }}{% post_url 2026-10-03-ai-nenmatsu-nenshi-kyugyo-annai %})
 - [AI×広報・周知文 完全まとめ｜プレスリリース・社内報・住民向け案内まで]({{ '/koho-guide/' | relative_url }}) — 広報・周知の記事を読み手別にまとめたページ
+- [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %})
 
 ---
 
