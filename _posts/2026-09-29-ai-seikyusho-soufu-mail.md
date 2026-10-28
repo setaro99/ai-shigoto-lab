@@ -96,6 +96,7 @@ AIが作った下書きは、そのまま送らず次の点を必ず目視で確
 - [ビジネスメールの敬語をAIでチェック｜二重敬語の直し方]({{ site.baseurl }}{% post_url 2026-10-04-ai-keigo-check %})
 - [納期遅延のお知らせメールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-30-ai-nouki-chien-mail %})
 - [Excelで2つの表を突合する｜差分・重複をAIで見つける]({{ site.baseurl }}{% post_url 2026-10-12-ai-excel-totsugo %})
+- [副業の収支記録をAIで整える｜レシート・入金メモの仕分け]({{ site.baseurl }}{% post_url 2026-10-28-ai-fukugyou-shuushi-kiroku %})
 
 ---
 
