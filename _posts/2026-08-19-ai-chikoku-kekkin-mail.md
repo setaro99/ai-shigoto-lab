@@ -77,6 +77,7 @@ AIが作った文面はすぐに使える完成度ですが、急いでいると
 - [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %})
 - [不在時の自動返信メールをAIで作る｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-11-ai-fuzai-jido-henshin %})
 - [異動・転勤の挨拶メールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-05-ai-ido-tenkin-aisatsu-mail %})
+- [保育園の連絡帳をAIで書く｜その日の様子を伝える一言の型]({{ site.baseurl }}{% post_url 2026-10-29-ai-hoikuen-renrakucho %})
 
 ---
 

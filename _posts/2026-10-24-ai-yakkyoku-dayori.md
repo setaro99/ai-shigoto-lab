@@ -95,6 +95,7 @@ AIに入力する際は、**患者さんの氏名や処方内容など、個人�
 - [クリニック受付の案内文をAIで書く｜待ち時間・持ち物の伝え方]({{ site.baseurl }}{% post_url 2026-09-16-ai-clinic-uketsuke-annai %})
 - [問い合わせ対応のFAQをAIで作る｜よくある質問と回答のまとめ方]({{ site.baseurl }}{% post_url 2026-09-11-ai-faq-sakusei %})
 - [社内アナウンス文をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %})
+- [保育園の連絡帳をAIで書く｜その日の様子を伝える一言の型]({{ site.baseurl }}{% post_url 2026-10-29-ai-hoikuen-renrakucho %})
 
 ---
 
