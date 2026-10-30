@@ -112,6 +112,7 @@ AIの献立は便利ですが、そのまま鵜呑みにせず、次の点を確
 - [会議メモからToDoをAIで抽出｜担当・期限つきの一覧に]({{ site.baseurl }}{% post_url 2026-10-16-ai-kaigi-todo-chushutsu %})
 - [仕事の優先順位をAIで整理｜やることが多すぎる朝の対処法]({{ site.baseurl }}{% post_url 2026-10-05-ai-yusen-junni-todo %})
 - [あいまいな指示をAIで整理｜上司への聞き返し方]({{ site.baseurl }}{% post_url 2026-10-06-ai-aimai-shiji-kikikaeshi %})
+- [スマホのAIに最初に聞く質問｜50代からの使い始め方]({{ site.baseurl }}{% post_url 2026-10-30-ai-senior-smartphone-first-question %})
 
 ## まとめ
 

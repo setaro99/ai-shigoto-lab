@@ -99,6 +99,7 @@ ChatGPT・Copilot・Gemini・Claudeのどれでも使えます。【 】の部�
 
 - [経費精算の摘要欄をAIで書く｜差し戻されない書き方]({{ site.baseurl }}{% post_url 2026-08-02-ai-keihi-seisan-tekiyou %})
 - [CSVの文字化け・先頭の0消えをAIで直す｜Excelの開き方]({{ site.baseurl }}{% post_url 2026-10-14-ai-excel-csv-mojibake %})
+- [スマホのAIに最初に聞く質問｜50代からの使い始め方]({{ site.baseurl }}{% post_url 2026-10-30-ai-senior-smartphone-first-question %})
 
 ## まとめ
 

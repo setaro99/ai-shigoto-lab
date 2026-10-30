@@ -115,6 +115,7 @@ ChatGPT・Copilot・Gemini・Claudeのどれでも使えます。【 】の部�
 
 - [電話の伝言メモをAIで整える｜取り次ぎ漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-13-ai-denwa-dengon-memo %})
 - [ニュースレターの文面をAIで書く｜個人店向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-19-ai-newsletter-sakusei %})
+- [スマホのAIに最初に聞く質問｜50代からの使い始め方]({{ site.baseurl }}{% post_url 2026-10-30-ai-senior-smartphone-first-question %})
 
 ## まとめ
 
