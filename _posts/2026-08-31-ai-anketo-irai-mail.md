@@ -79,6 +79,7 @@ AIの文面はそのまま使えることが多いですが、配信前に次の
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [美容室のカウンセリングシートをAIで作る｜聞き漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-23-ai-salon-counseling-sheet %})
 - [社内アンケートの質問文をAIで作る｜設問設計のコツ]({{ site.baseurl }}{% post_url 2026-08-24-ai-anketo-shitsumon-sekkei %})
+- [塾の保護者連絡・三者面談の準備をAIで｜伝え方の型]({{ site.baseurl }}{% post_url 2026-11-01-ai-juku-hogosha-mendan %})
 
 ---
 

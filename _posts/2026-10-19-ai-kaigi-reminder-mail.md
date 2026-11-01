@@ -118,6 +118,7 @@ description: "会議の直前に「忘れていました」と言われないた
 - [メールの件名をAIで改善｜開封されやすい書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-10-17-ai-mail-kenmei %})
 - [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %})
 - [訂正メールをAIで書く｜誤記・添付ミスの例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-02-ai-teisei-mail %})
+- [塾の保護者連絡・三者面談の準備をAIで｜伝え方の型]({{ site.baseurl }}{% post_url 2026-11-01-ai-juku-hogosha-mendan %})
 
 ---
 
