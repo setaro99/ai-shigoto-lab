@@ -128,6 +128,7 @@ Excelの一覧の中で、同じ値が重複している行に印を付けたい
 - [AI×Excel活用 完全まとめ]({{ '/excel-guide/' | relative_url }})
 - [CSVの文字化け・先頭の0消えをAIで直す｜Excelの開き方]({{ site.baseurl }}{% post_url 2026-10-14-ai-excel-csv-mojibake %})
 - [Excelのドロップダウンリストの作り方｜AIに頼んで入力ミスを防ぐ]({{ site.baseurl }}{% post_url 2026-10-18-ai-excel-dropdown-list %})
+- [Excelの日付・曜日・営業日計算をAIに頼む｜期限管理]({{ site.baseurl }}{% post_url 2026-11-02-ai-excel-hizuke-keisan %})
 
 ---
 

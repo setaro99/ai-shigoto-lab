@@ -123,6 +123,7 @@ Excelの条件付き書式を設定しましたが、意図どおりに色が付
 - [Excelのエラー値をAIに聞く｜原因究明と直し方]({{ site.baseurl }}{% post_url 2026-08-12-ai-excel-error %})
 - [Excelの関数をAIに作らせる｜「日本語で頼むだけ」入門]({{ site.baseurl }}{% post_url 2026-07-14-ai-excel-kansu %})
 - [Excelのドロップダウンリストの作り方｜AIに頼んで入力ミスを防ぐ]({{ site.baseurl }}{% post_url 2026-10-18-ai-excel-dropdown-list %})
+- [Excelの日付・曜日・営業日計算をAIに頼む｜期限管理]({{ site.baseurl }}{% post_url 2026-11-02-ai-excel-hizuke-keisan %})
 
 ---
 

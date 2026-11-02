@@ -117,6 +117,7 @@ AIが整えた文面でも、送る前に人の目で次を確認してくださ
 - [訂正メールをAIで書く｜誤記・添付ミスの例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-02-ai-teisei-mail %})
 - [ミスの報告をAIで整える｜上司への第一報の書き方]({{ site.baseurl }}{% post_url 2026-10-10-ai-mistake-houkoku-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [Excelの日付・曜日・営業日計算をAIに頼む｜期限管理]({{ site.baseurl }}{% post_url 2026-11-02-ai-excel-hizuke-keisan %})
 
 ---
 
