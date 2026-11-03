@@ -118,6 +118,7 @@ AIが整えた文面でも、送る前に人の目で次を確認してくださ
 - [ミスの報告をAIで整える｜上司への第一報の書き方]({{ site.baseurl }}{% post_url 2026-10-10-ai-mistake-houkoku-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [Excelの日付・曜日・営業日計算をAIに頼む｜期限管理]({{ site.baseurl }}{% post_url 2026-11-02-ai-excel-hizuke-keisan %})
+- [見積依頼メールをAIで書く｜相見積もりで失礼にならない例文]({{ site.baseurl }}{% post_url 2026-11-03-ai-mitsumori-irai-mail %}) — 納期を巡るやり取りを減らす、依頼時の条件の揃え方
 
 ---
 
