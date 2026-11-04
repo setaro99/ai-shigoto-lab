@@ -97,6 +97,7 @@ AIの整理は便利ですが、そのまま渡す前に必ず次の点を見て
 - [電話応対マニュアルをAIで作る｜新人向け想定問答とプロンプト]({{ site.baseurl }}{% post_url 2026-08-17-ai-denwa-taiou-manual %})
 - [不在時の自動返信メールをAIで作る｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-11-ai-fuzai-jido-henshin %})
 - [仕事の優先順位をAIで整理｜やることが多すぎる朝の対処法]({{ site.baseurl }}{% post_url 2026-10-05-ai-yusen-junni-todo %})
+- [ドライバーへの配送指示をAIで整える｜伝達ミスを防ぐ型]({{ site.baseurl }}{% post_url 2026-11-04-ai-driver-haiso-shiji %})
 
 ---
 

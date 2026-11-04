@@ -90,6 +90,7 @@ AIが作った報告書は読みやすい形に整っていますが、そのま
 - [AI×報告書 完全まとめ｜週報・月次・出張・ミスの報告まで]({{ '/houkoku-guide/' | relative_url }})
 - [介護記録・申し送りをAIで整える｜事実と所見を分ける型]({{ site.baseurl }}{% post_url 2026-10-20-ai-kaigo-kiroku-moushiokuri %})
 - [障害報告書をAIで書く｜非エンジニアにも伝わる構成]({{ site.baseurl }}{% post_url 2026-10-26-ai-shougai-hokokusho %})
+- [ドライバーへの配送指示をAIで整える｜伝達ミスを防ぐ型]({{ site.baseurl }}{% post_url 2026-11-04-ai-driver-haiso-shiji %})
 
 ---
 
