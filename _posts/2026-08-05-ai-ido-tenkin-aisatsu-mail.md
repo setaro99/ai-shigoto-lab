@@ -103,6 +103,7 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 - [お悔やみメールをAIで書く｜訃報を受けた際の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-09-ai-okuyami-mail %})
 - [不在時の自動返信メールをAIで作る｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-11-ai-fuzai-jido-henshin %})
 - [送別会・歓迎会の案内文をAIで書く｜幹事向けプロンプト]({{ site.baseurl }}{% post_url 2026-08-20-ai-soubetsukai-annai %})
+- [お祝いメールをAIで書く｜昇進・開業の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-05-ai-oiwai-mail %})
 
 ---
 

@@ -72,6 +72,7 @@ AIが作った文面は格式が整っていて読みやすいですが、実際
 - [人事評価コメントをAIで書く｜項目別の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-23-ai-jinji-hyoka-comment %})
 - [退職の挨拶メールをAIで書く｜社内・取引先への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-29-ai-taishoku-aisatsu-mail %})
 - [お礼メールをAIで書く｜取引先・上司への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-04-ai-orei-mail %})
+- [お祝いメールをAIで書く｜昇進・開業の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-05-ai-oiwai-mail %})
 
 ---
 
