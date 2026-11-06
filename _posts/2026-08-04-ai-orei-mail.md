@@ -87,6 +87,7 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [内見後のお礼・フォローメールをAIで書く｜不動産営業向け]({{ site.baseurl }}{% post_url 2026-10-22-ai-naiken-follow-mail %})
 - [お祝いメールをAIで書く｜昇進・開業の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-05-ai-oiwai-mail %})
+- [名刺交換後の挨拶メールをAIで書く｜当日中に送る例文]({{ site.baseurl }}{% post_url 2026-11-06-ai-meishi-koukan-aisatsu-mail %})
 
 ---
 
