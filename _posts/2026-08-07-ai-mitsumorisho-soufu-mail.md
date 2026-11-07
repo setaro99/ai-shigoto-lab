@@ -71,6 +71,7 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 - [請求書送付メールをAIで書く｜添え状の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-29-ai-seikyusho-soufu-mail %})
 - [副業の収支記録をAIで整える｜レシート・入金メモの仕分け]({{ site.baseurl }}{% post_url 2026-10-28-ai-fukugyou-shuushi-kiroku %})
 - [見積依頼メールをAIで書く｜相見積もりで失礼にならない例文]({{ site.baseurl }}{% post_url 2026-11-03-ai-mitsumori-irai-mail %}) — 見積を「受け取る側」の依頼メールはこちら
+- [議事録の送付メールをAIで書く｜決定事項が伝わる例文]({{ site.baseurl }}{% post_url 2026-11-07-ai-gijiroku-soufu-mail %})
 
 ---
 
