@@ -77,6 +77,7 @@ AIが作った文面はそのまま使えることが多いですが、社外に
 - [クレーム対応メールをAIで書く｜顧客対応の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-27-ai-claim-taiou-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [値下げ要求への返信メールをAIで書く｜価格交渉のプロンプト]({{ site.baseurl }}{% post_url 2026-09-08-ai-nesage-yokyu-mail %})
+- [年末の挨拶メールをAIで書く｜取引先向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-08-ai-nenmatsu-aisatsu-mail %})
 
 ---
 

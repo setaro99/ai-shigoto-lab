@@ -98,6 +98,7 @@ AIが作った下書きは、そのまま送らず次の点を必ず目視で確
 - [Excelで2つの表を突合する｜差分・重複をAIで見つける]({{ site.baseurl }}{% post_url 2026-10-12-ai-excel-totsugo %})
 - [副業の収支記録をAIで整える｜レシート・入金メモの仕分け]({{ site.baseurl }}{% post_url 2026-10-28-ai-fukugyou-shuushi-kiroku %})
 - [見積依頼メールをAIで書く｜相見積もりで失礼にならない例文]({{ site.baseurl }}{% post_url 2026-11-03-ai-mitsumori-irai-mail %}) — 発注前の見積依頼で材料を揃える方法
+- [年末の挨拶メールをAIで書く｜取引先向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-08-ai-nenmatsu-aisatsu-mail %})
 
 ---
 
