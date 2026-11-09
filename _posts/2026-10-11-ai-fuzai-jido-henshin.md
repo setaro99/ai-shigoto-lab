@@ -117,6 +117,7 @@ AIに「出張中でメールは1日1回確認できる前提で」と条件を�
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [電話の伝言メモをAIで整える｜取り次ぎ漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-13-ai-denwa-dengon-memo %})
 - [有給休暇の申請理由をAIで書く｜角が立たない一言とプロンプト]({{ site.baseurl }}{% post_url 2026-08-29-ai-yukyu-shinsei-riyuu %})
+- [返信が遅れたメールをAIで書く｜お詫びと返信を一度に]({{ site.baseurl }}{% post_url 2026-11-09-ai-henshin-okure-mail %})
 
 ---
 

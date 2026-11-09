@@ -63,6 +63,7 @@ AIの文章はそのまま使えることが多いですが、社外に出す前
 - [ミスの報告をAIで整える｜上司への第一報の書き方]({{ site.baseurl }}{% post_url 2026-10-10-ai-mistake-houkoku-mail %})
 - [提出前の資料チェックをAIで｜誤字・数字ミスの見つけ方]({{ site.baseurl }}{% post_url 2026-10-09-ai-shiryo-misu-check %})
 - [早退・欠勤・遅刻メールをAIで書く｜プロンプト付き]({{ site.baseurl }}{% post_url 2026-08-19-ai-chikoku-kekkin-mail %})
+- [返信が遅れたメールをAIで書く｜お詫びと返信を一度に]({{ site.baseurl }}{% post_url 2026-11-09-ai-henshin-okure-mail %})
 
 ---
 

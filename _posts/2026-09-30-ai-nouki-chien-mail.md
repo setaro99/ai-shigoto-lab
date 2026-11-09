@@ -120,6 +120,7 @@ AIが整えた文面でも、送る前に人の目で次を確認してくださ
 - [Excelの日付・曜日・営業日計算をAIに頼む｜期限管理]({{ site.baseurl }}{% post_url 2026-11-02-ai-excel-hizuke-keisan %})
 - [見積依頼メールをAIで書く｜相見積もりで失礼にならない例文]({{ site.baseurl }}{% post_url 2026-11-03-ai-mitsumori-irai-mail %}) — 納期を巡るやり取りを減らす、依頼時の条件の揃え方
 - [ドライバーへの配送指示をAIで整える｜伝達ミスを防ぐ型]({{ site.baseurl }}{% post_url 2026-11-04-ai-driver-haiso-shiji %})
+- [返信が遅れたメールをAIで書く｜お詫びと返信を一度に]({{ site.baseurl }}{% post_url 2026-11-09-ai-henshin-okure-mail %})
 
 ---
 

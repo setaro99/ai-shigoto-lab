@@ -49,6 +49,7 @@ description: "お詫び・断り・催促・クレーム対応・値上げ案内
 - [展示会後のフォローアップメールをAIで書く｜商談につなげる文面]({{ site.baseurl }}{% post_url 2026-08-30-ai-tenjikai-follow-mail %}) — 「即日お礼→数日後の提案→最終フォロー」の3段階で送るタイミングを逃さない型
 - [名刺交換後の挨拶メールをAIで書く｜当日中に送る例文]({{ site.baseurl }}{% post_url 2026-11-06-ai-meishi-koukan-aisatsu-mail %}) — 当日中に送る、相手が思い出せる一言を添えた初対面の挨拶の型
 - [年末の挨拶メールをAIで書く｜取引先向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-08-ai-nenmatsu-aisatsu-mail %}) — 1年のお礼に「その相手ならでは」の一文を添える年末挨拶の型
+- [返信が遅れたメールをAIで書く｜お詫びと返信を一度に]({{ site.baseurl }}{% post_url 2026-11-09-ai-henshin-okure-mail %}) — 遅れ具合でお詫びの量を決め、返事を埋もれさせない一通の型
 - [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %}) — 候補日の提示から確定連絡まで、返信しやすい依頼文の型
 - [請求書送付メールをAIで書く｜添え状の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-29-ai-seikyusho-soufu-mail %}) — 金額・期日を漏れなく伝える請求書の添え状
 - [納期遅延のお知らせメールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-30-ai-nouki-chien-mail %}) — 遅れを伝えつつ信頼を保つ遅延連絡の型
