@@ -78,6 +78,7 @@ Excelのエラー値は、名前だけを検索しても「よくある原因の
 - [Excelで2つの表を突合する｜差分・重複をAIで見つける]({{ site.baseurl }}{% post_url 2026-10-12-ai-excel-totsugo %})
 - [CSVの文字化け・先頭の0消えをAIで直す｜Excelの開き方]({{ site.baseurl }}{% post_url 2026-10-14-ai-excel-csv-mojibake %})
 - [Excelの日付・曜日・営業日計算をAIに頼む｜期限管理]({{ site.baseurl }}{% post_url 2026-11-02-ai-excel-hizuke-keisan %})
+- [前任者のExcel関数をAIに解説させる｜読めない数式の読み方]({{ site.baseurl }}{% post_url 2026-11-10-ai-excel-kansu-kaisetsu %})
 
 ---
 

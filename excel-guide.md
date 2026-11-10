@@ -29,6 +29,7 @@ description: "関数・VBAマクロ・ピボットテーブル・エラー値・
 - [Excelの条件付き書式をAIに頼む｜期限切れの行を自動で色付け]({{ site.baseurl }}{% post_url 2026-10-15-ai-excel-jouken-tsuki-shoshiki %}) — 期限切れなど、色を付けたい条件を日本語で伝えて書式の設定手順を作ってもらう
 - [Excelのドロップダウンリストの作り方｜AIに頼んで入力ミスを防ぐ]({{ site.baseurl }}{% post_url 2026-10-18-ai-excel-dropdown-list %}) — 選択肢の置き場所や連動リストを伝えて、入力ミスを防ぐ設定手順と数式を作ってもらう
 - [Excelの日付・曜日・営業日計算をAIに頼む｜期限管理]({{ site.baseurl }}{% post_url 2026-11-02-ai-excel-hizuke-keisan %}) — 起点・数え方・表示の3点を伝えて、営業日や勤続年数、和暦表示の数式を作ってもらう
+- [前任者のExcel関数をAIに解説させる｜読めない数式の読み方]({{ site.baseurl }}{% post_url 2026-11-10-ai-excel-kansu-kaisetsu %}) — 引き継いだ長い数式を貼って、1行ずつ日本語で解説してもらい、検算で確かめる方法
 
 ## 自動化（VBA）
 
