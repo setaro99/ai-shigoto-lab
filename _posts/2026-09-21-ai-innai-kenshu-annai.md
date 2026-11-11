@@ -96,6 +96,7 @@ AIが作った案内文は読みやすく整っていますが、そのまま各
 - [薬局だよりをAIで書く｜院内掲示のお知らせ文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-24-ai-yakkyoku-dayori %})
 - [社内アンケートの質問文をAIで作る｜設問設計のコツ]({{ site.baseurl }}{% post_url 2026-08-24-ai-anketo-shitsumon-sekkei %})
 - [資格試験の勉強計画をAIで作る｜社会人の学習スケジュール]({{ site.baseurl }}{% post_url 2026-10-31-ai-shikaku-benkyou-keikaku %})
+- [研修報告書をAIで書く｜感想文で終わらない書き方と型]({{ site.baseurl }}{% post_url 2026-11-11-ai-kenshu-hokokusho %})
 
 ---
 

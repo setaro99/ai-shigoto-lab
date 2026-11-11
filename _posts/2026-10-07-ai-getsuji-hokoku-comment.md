@@ -108,6 +108,7 @@ AIは数字を勝手に正しくはしてくれませんが、「何を書けば
 
 - [週報・日報をAIで書く｜箇条書きから5分で提出用に]({{ site.baseurl }}{% post_url 2026-07-22-ai-shuuhou-nippou %})
 - [出張報告書をAIで書く｜提出までの時短プロンプト]({{ site.baseurl }}{% post_url 2026-08-01-ai-shutcho-hokokusho %})
+- [研修報告書をAIで書く｜感想文で終わらない書き方と型]({{ site.baseurl }}{% post_url 2026-11-11-ai-kenshu-hokokusho %})
 - [Excelのグラフ作成をAIに相談｜データに合う型の選び方]({{ site.baseurl }}{% post_url 2026-08-26-ai-excel-graph %})
 - [あいまいな指示をAIで整理｜上司への聞き返し方]({{ site.baseurl }}{% post_url 2026-10-06-ai-aimai-shiji-kikikaeshi %})
 - [障害報告書をAIで書く｜非エンジニアにも伝わる構成]({{ site.baseurl }}{% post_url 2026-10-26-ai-shougai-hokokusho %})
