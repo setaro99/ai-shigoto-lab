@@ -17,6 +17,7 @@ description: "週報・日報、月次報告、出張報告書、ヒヤリハッ
 ## 出来事のあとにまとめる報告書
 
 - [出張報告書をAIで書く｜提出までの時短プロンプト]({{ site.baseurl }}{% post_url 2026-08-01-ai-shutcho-hokokusho %}) — 事実と所感を分けて渡すコツ
+- [研修報告書をAIで書く｜感想文で終わらない書き方と型]({{ site.baseurl }}{% post_url 2026-11-11-ai-kenshu-hokokusho %}) — 受講メモを「聞いた事実」と「自分の考え」に分けて渡す
 - [現場のヒヤリハット報告書をAIで書く｜再発防止までの書き方]({{ site.baseurl }}{% post_url 2026-09-15-ai-hiyari-hatto-hokokusho %}) — 事実・原因・対策の3つに分け、個人を責めない書き方にする
 
 ## 急ぎで伝える報告
