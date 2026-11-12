@@ -86,6 +86,7 @@ AIが作った文章は整っていますが、提出する前に必ず次の3�
 - [面接での質問リストをAIで作る｜人事担当向け構成とプロンプト]({{ site.baseurl }}{% post_url 2026-08-27-ai-mensetsu-shitsumon-list %})
 - [面接評価コメントをAIで書く｜合否判断に使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-11-ai-mensetsu-hyoka-comment %})
 - [内定通知メールをAIで書く｜条件・期限の伝え方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-28-ai-naitei-tsuchi-mail %})
+- [転職面接の想定問答をAIで練習｜答えが浅くなる原因と回答づくりのプロンプト]({{ site.baseurl }}{% post_url 2026-11-11-ai-tenshoku-mensetsu-taiou %})
 
 ---
 

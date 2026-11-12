@@ -73,6 +73,7 @@ AIが作った文章はそのまま使えることが多いですが、社外・
 - [会議のリマインドメールをAIで書く｜出欠確認つき例文]({{ site.baseurl }}{% post_url 2026-10-19-ai-kaigi-reminder-mail %})
 - [請求書送付メールをAIで書く｜添え状の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-29-ai-seikyusho-soufu-mail %})
 - [返信が遅れたメールをAIで書く｜お詫びと返信を一度に]({{ site.baseurl }}{% post_url 2026-11-09-ai-henshin-okure-mail %})
+- [年末調整の社内案内文をAIで書く｜提出期限と回収の型]({{ site.baseurl }}{% post_url 2026-11-12-ai-nenmatsu-chosei-annai %}) — 社内の書類回収と未提出者へのリマインド
 
 ---
 

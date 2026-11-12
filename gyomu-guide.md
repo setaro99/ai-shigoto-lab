@@ -24,6 +24,7 @@ description: "週報・引き継ぎ書・社内アナウンス・送別会案内
 
 - [社内アナウンス文をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %}) — 「対象者→内容→日時→依頼事項→問い合わせ先」の型
 - [送別会・歓迎会の案内文をAIで書く｜幹事向けプロンプト]({{ site.baseurl }}{% post_url 2026-08-20-ai-soubetsukai-annai %}) — 抜けやすい7項目を型で押さえる案内文
+- [年末調整の社内案内文をAIで書く｜提出期限と回収の型]({{ site.baseurl }}{% post_url 2026-11-12-ai-nenmatsu-chosei-annai %}) — 「期限→提出物→出し方→問い合わせ先」の4ブロックで回収まで
 
 ## 育成・研修
 

@@ -82,6 +82,7 @@ AIが作った文章はそのまま使えることが多いですが、社内に
 - [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
 - [年末年始休業のお知らせをAIで書く｜取引先向け例文と型]({{ site.baseurl }}{% post_url 2026-10-03-ai-nenmatsu-nenshi-kyugyo-annai %})
 - [社内報のインタビュー記事をAIでまとめる｜取材メモから読み物に]({{ site.baseurl }}{% post_url 2026-09-01-ai-shanaiho-interview %})
+- [年末調整の社内案内文をAIで書く｜提出期限と回収の型]({{ site.baseurl }}{% post_url 2026-11-12-ai-nenmatsu-chosei-annai %}) — 期限と提出物を伝える案内の応用
 
 ---
 

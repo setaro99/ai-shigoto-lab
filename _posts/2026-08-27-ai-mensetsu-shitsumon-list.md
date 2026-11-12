@@ -72,6 +72,7 @@ AIが作った質問リストはそのまま使いやすい形になっていま
 - [志望動機をAIで書く｜通過率が上がる例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-27-ai-shibo-doki %})
 - [職務経歴書をAIで書く｜通過率が上がる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
 - [面接日程調整メールをAIで書く｜候補者への連絡]({{ site.baseurl }}{% post_url 2026-10-25-ai-mensetsu-nittei-chosei-mail %})
+- [転職面接の想定問答をAIで練習｜答えが浅くなる原因と回答づくりのプロンプト]({{ site.baseurl }}{% post_url 2026-11-11-ai-tenshoku-mensetsu-taiou %}) — 応募者側の準備
 
 ---
 
