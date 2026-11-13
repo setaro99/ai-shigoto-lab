@@ -69,6 +69,7 @@ Excelの関数は、関数名や書式を覚えていなくても、「何をし
 - [AI×Excel活用 完全まとめ｜関数・VBA・ピボット・エラー値まで]({{ '/excel-guide/' | relative_url }})
 - [CSVの文字化け・先頭の0消えをAIで直す｜Excelの開き方]({{ site.baseurl }}{% post_url 2026-10-14-ai-excel-csv-mojibake %})
 - [Excelの日付・曜日・営業日計算をAIに頼む｜期限管理]({{ site.baseurl }}{% post_url 2026-11-02-ai-excel-hizuke-keisan %})
+- [Excelで氏名を姓と名に分ける｜AIで関数を作る方法]({{ site.baseurl }}{% post_url 2026-11-13-ai-excel-shimei-bunkatsu %})
 - [前任者のExcel関数をAIに解説させる｜読めない数式の読み方]({{ site.baseurl }}{% post_url 2026-11-10-ai-excel-kansu-kaisetsu %})
 
 ---
