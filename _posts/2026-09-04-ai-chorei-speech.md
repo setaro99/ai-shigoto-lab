@@ -60,6 +60,7 @@ AIが作った原稿はそのまま話せる完成度ですが、人前で話す
 - [社内アナウンス文をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %})
 - [プレゼン原稿をAIで作る｜スライドの箇条書きを話し言葉に]({{ site.baseurl }}{% post_url 2026-08-03-ai-presen-genko %})
 - [新人研修のOJTチェックリストをAIで作る｜教える側の時短]({{ site.baseurl }}{% post_url 2026-08-25-ai-ojt-checklist %})
+- [忘年会の挨拶をAIで作る｜乾杯・締めの一言の例文]({{ site.baseurl }}{% post_url 2026-11-14-ai-bonenkai-aisatsu %})
 - [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
 
 ---
