@@ -127,6 +127,7 @@ AIの指摘は便利ですが、そのまま正解とは限りません。次の
 - [催促メールをAIで書く｜角の立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-24-ai-saisoku-mail %})
 - [提出前の資料チェックをAIで｜誤字・数字ミスの見つけ方]({{ site.baseurl }}{% post_url 2026-10-09-ai-shiryo-misu-check %})
 - [値上げ案内メールをAIで書く｜角が立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-28-ai-neage-annai-mail %})
+- [ビジネス年賀状の文面をAIで作る｜添え書きの例文]({{ site.baseurl }}{% post_url 2026-11-15-ai-nengajo-soegaki %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 
 ---

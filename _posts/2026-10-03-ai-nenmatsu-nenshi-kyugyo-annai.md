@@ -119,6 +119,7 @@ AIの下書きを使う前に、次の点を確認してください。
 - [就業規則改定の社内周知文をAIで書く｜総務向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-02-ai-shugyo-kisoku-shuchi %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [年末の挨拶メールをAIで書く｜取引先向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-08-ai-nenmatsu-aisatsu-mail %})
+- [ビジネス年賀状の文面をAIで作る｜添え書きの例文]({{ site.baseurl }}{% post_url 2026-11-15-ai-nengajo-soegaki %})
 
 ---
 

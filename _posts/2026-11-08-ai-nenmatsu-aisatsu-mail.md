@@ -132,6 +132,7 @@ AとBだけでも「今年の一文」を入れるだけで、受け取る側の
 - [お礼メールをAIで書く｜取引先・上司への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-04-ai-orei-mail %})
 - [名刺交換後の挨拶メールをAIで書く｜当日中に送る例文]({{ site.baseurl }}{% post_url 2026-11-06-ai-meishi-koukan-aisatsu-mail %})
 - [忘年会の挨拶をAIで作る｜乾杯・締めの一言の例文]({{ site.baseurl }}{% post_url 2026-11-14-ai-bonenkai-aisatsu %})
+- [ビジネス年賀状の文面をAIで作る｜添え書きの例文]({{ site.baseurl }}{% post_url 2026-11-15-ai-nengajo-soegaki %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 
 ---
