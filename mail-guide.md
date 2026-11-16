@@ -54,6 +54,7 @@ description: "お詫び・断り・催促・クレーム対応・値上げ案内
 - [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %}) — 候補日の提示から確定連絡まで、返信しやすい依頼文の型
 - [請求書送付メールをAIで書く｜添え状の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-29-ai-seikyusho-soufu-mail %}) — 金額・期日を漏れなく伝える請求書の添え状
 - [納期遅延のお知らせメールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-30-ai-nouki-chien-mail %}) — 遅れを伝えつつ信頼を保つ遅延連絡の型
+- [事務所移転のお知らせをAIで書く｜取引先向け例文と型]({{ site.baseurl }}{% post_url 2026-11-16-ai-jimusho-iten-oshirase %}) — 新旧住所・切り替え日・相手にお願いする変更を漏れなく伝える移転案内の型
 - [訂正メールをAIで書く｜誤記・添付ミスの例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-02-ai-teisei-mail %}) — 「誤→正」の対比で、訂正箇所を一目で伝える型
 - [メールの件名をAIで改善｜開封されやすい書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-10-17-ai-mail-kenmei %}) — 開封されやすく、用件が一目で伝わる件名の整え方
 - [見積依頼メールをAIで書く｜相見積もりで失礼にならない例文]({{ site.baseurl }}{% post_url 2026-11-03-ai-mitsumori-irai-mail %}) — 相見積もりでも失礼にならない、材料を揃えた見積依頼の書き方
