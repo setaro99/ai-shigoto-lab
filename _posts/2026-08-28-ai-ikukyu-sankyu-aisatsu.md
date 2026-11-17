@@ -101,6 +101,7 @@ AIが作った文面は自然なことが多いですが、送信前に次の3�
 - [有給休暇の申請理由をAIで書く｜角が立たない一言とプロンプト]({{ site.baseurl }}{% post_url 2026-08-29-ai-yukyu-shinsei-riyuu %})
 - [共働きの献立と買い物リストをAIで作る｜1週間分を10分で]({{ site.baseurl }}{% post_url 2026-10-27-ai-kondate-kaimono-list %})
 - [スマホのAIに最初に聞く質問｜50代からの使い始め方]({{ site.baseurl }}{% post_url 2026-10-30-ai-senior-smartphone-first-question %})
+- [後任の挨拶メールをAIで書く｜担当引き継ぎ時の例文]({{ site.baseurl }}{% post_url 2026-11-17-ai-kounin-aisatsu-mail %})
 
 ---
 

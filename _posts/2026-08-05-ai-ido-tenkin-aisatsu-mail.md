@@ -105,6 +105,7 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 - [送別会・歓迎会の案内文をAIで書く｜幹事向けプロンプト]({{ site.baseurl }}{% post_url 2026-08-20-ai-soubetsukai-annai %})
 - [お祝いメールをAIで書く｜昇進・開業の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-05-ai-oiwai-mail %})
 - [名刺交換後の挨拶メールをAIで書く｜当日中に送る例文]({{ site.baseurl }}{% post_url 2026-11-06-ai-meishi-koukan-aisatsu-mail %})
+- [後任の挨拶メールをAIで書く｜担当引き継ぎ時の例文]({{ site.baseurl }}{% post_url 2026-11-17-ai-kounin-aisatsu-mail %})
 
 ---
 

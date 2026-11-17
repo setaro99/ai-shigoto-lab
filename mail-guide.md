@@ -31,6 +31,7 @@ description: "お詫び・断り・催促・クレーム対応・値上げ案内
 - [退職の挨拶メールをAIで書く｜社内・取引先への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-29-ai-taishoku-aisatsu-mail %}) — 社内向け・取引先向けを書き分ける退職挨拶
 - [異動・転勤の挨拶メールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-05-ai-ido-tenkin-aisatsu-mail %}) — 退職メールと混同されない「感謝・報告・橋渡し」の型
 - [育休・産休前の挨拶文をAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-28-ai-ikukyu-sankyu-aisatsu %}) — 謝りすぎず、引き継ぎの安心感を伝える挨拶文の型
+- [後任の挨拶メールをAIで書く｜担当引き継ぎ時の例文]({{ site.baseurl }}{% post_url 2026-11-17-ai-kounin-aisatsu-mail %}) — 前任の挨拶と重ならない、連絡先・案件の現状確認・面談の打診を伝える着任挨拶の型
 - [お悔やみメールをAIで書く｜訃報を受けた際の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-09-ai-okuyami-mail %}) — 忌み言葉や宗教依存の表現を避けて気持ちを伝える文面
 - [内定通知メールをAIで書く｜条件・期限の伝え方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-28-ai-naitei-tsuchi-mail %}) — 条件・回答期限を誤解なく伝える内定連絡の型
 - [見積書の添え状メールをAIで書く｜フリーランス向け例文]({{ site.baseurl }}{% post_url 2026-08-07-ai-mitsumorisho-soufu-mail %}) — 金額の話をぶっきらぼうにせず送る添え状の型

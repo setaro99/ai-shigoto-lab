@@ -86,6 +86,7 @@ AIが整えた引き継ぎ書は読みやすくても、提出する前に次の
 - [電話の伝言メモをAIで整える｜取り次ぎ漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-13-ai-denwa-dengon-memo %})
 - [共働きの献立と買い物リストをAIで作る｜1週間分を10分で]({{ site.baseurl }}{% post_url 2026-10-27-ai-kondate-kaimono-list %})
 - [前任者のExcel関数をAIに解説させる｜読めない数式の読み方]({{ site.baseurl }}{% post_url 2026-11-10-ai-excel-kansu-kaisetsu %})
+- [後任の挨拶メールをAIで書く｜担当引き継ぎ時の例文]({{ site.baseurl }}{% post_url 2026-11-17-ai-kounin-aisatsu-mail %})
 
 ---
 

@@ -104,6 +104,7 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 - [表彰状・感謝状をAIで書く｜文例とプロンプト]({{ site.baseurl }}{% post_url 2026-08-18-ai-hyoshojo-kanshajo %})
 - [お悔やみメールをAIで書く｜訃報を受けた際の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-09-ai-okuyami-mail %})
 - [お祝いメールをAIで書く｜昇進・開業の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-05-ai-oiwai-mail %})
+- [後任の挨拶メールをAIで書く｜担当引き継ぎ時の例文]({{ site.baseurl }}{% post_url 2026-11-17-ai-kounin-aisatsu-mail %})
 
 ---
 

@@ -124,6 +124,7 @@ AIが得意なのは敬語の整えと構成です。一方で、**会話の事�
 - [お礼メールをAIで書く｜取引先・上司への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-04-ai-orei-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [年末の挨拶メールをAIで書く｜取引先向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-08-ai-nenmatsu-aisatsu-mail %})
+- [後任の挨拶メールをAIで書く｜担当引き継ぎ時の例文]({{ site.baseurl }}{% post_url 2026-11-17-ai-kounin-aisatsu-mail %})
 
 ---
 
