@@ -76,6 +76,7 @@ AIが作る文面は自然なことが多いですが、送信ボタンを押す
 - [送別会・歓迎会の案内文をAIで書く｜幹事向けプロンプト]({{ site.baseurl }}{% post_url 2026-08-20-ai-soubetsukai-annai %})
 - [あいまいな指示をAIで整理｜上司への聞き返し方]({{ site.baseurl }}{% post_url 2026-10-06-ai-aimai-shiji-kikikaeshi %})
 - [スマホのAIに最初に聞く質問｜50代からの使い始め方]({{ site.baseurl }}{% post_url 2026-10-30-ai-senior-smartphone-first-question %})
+- [上司への相談をAIで整理｜伝わる切り出し方と型]({{ site.baseurl }}{% post_url 2026-11-18-ai-joshi-soudan %})
 
 ---
 

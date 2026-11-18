@@ -121,6 +121,7 @@ description: "仕事でミスをしたとき、上司に何をどの順で伝え
 - [障害報告書をAIで書く｜非エンジニアにも伝わる構成]({{ site.baseurl }}{% post_url 2026-10-26-ai-shougai-hokokusho %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [AI×報告書 完全まとめ｜週報・月次・出張・ミスの報告まで]({{ '/houkoku-guide/' | relative_url }})
+- [上司への相談をAIで整理｜伝わる切り出し方と型]({{ site.baseurl }}{% post_url 2026-11-18-ai-joshi-soudan %})
 
 ---
 

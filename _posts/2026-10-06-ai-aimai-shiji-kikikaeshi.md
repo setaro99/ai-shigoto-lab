@@ -137,6 +137,7 @@ AIが整理してくれるのは「何が決まっていないか」まで。**�
 - [訂正メールをAIで書く｜誤記・添付ミスの例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-02-ai-teisei-mail %})
 - [月次報告のコメントをAIで書く｜数字の増減を説明する型]({{ site.baseurl }}{% post_url 2026-10-07-ai-getsuji-hokoku-comment %})
 - [長いメールのやり取りをAIで要約｜経緯を3分で把握]({{ site.baseurl }}{% post_url 2026-10-01-ai-mail-thread-youyaku %})
+- [上司への相談をAIで整理｜伝わる切り出し方と型]({{ site.baseurl }}{% post_url 2026-11-18-ai-joshi-soudan %})
 
 ---
 
