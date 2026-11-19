@@ -103,6 +103,7 @@ AIの原稿はそのまま読むと、きれいすぎて「読み上げている
 - [送別会・歓迎会の案内文をAIで書く｜幹事向けプロンプト]({{ site.baseurl }}{% post_url 2026-08-20-ai-soubetsukai-annai %})
 - [年末の挨拶メールをAIで書く｜取引先向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-08-ai-nenmatsu-aisatsu-mail %})
 - [ビジネス年賀状の文面をAIで作る｜添え書きの例文]({{ site.baseurl }}{% post_url 2026-11-15-ai-nengajo-soegaki %})
+- [プレゼン原稿をAIで作る｜スライドの箇条書きを話し言葉に]({{ site.baseurl }}{% post_url 2026-08-03-ai-presen-genko %})
 
 ---
 

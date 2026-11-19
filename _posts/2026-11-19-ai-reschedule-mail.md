@@ -116,6 +116,7 @@ AIが作った文面を送る前に、次の点を確認してください。
 - [日程調整メールをAIで書く｜候補日提示から返信まで]({{ site.baseurl }}{% post_url 2026-07-30-ai-nittei-chosei-mail %})
 - [会議のリマインドメールをAIで書く｜出欠確認つき例文]({{ site.baseurl }}{% post_url 2026-10-19-ai-kaigi-reminder-mail %})
 - [返信が遅れたメールをAIで書く｜お詫びと返信を一度に]({{ site.baseurl }}{% post_url 2026-11-09-ai-henshin-okure-mail %})
+- [Slack・Teamsの文面をAIで整える｜メールより気軽に]({{ site.baseurl }}{% post_url 2026-08-21-ai-shanai-chat-message %}) — 社内の相手へのリスケをチャットで伝えるとき
 
 ---
 

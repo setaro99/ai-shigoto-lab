@@ -121,6 +121,7 @@ AIの下書きは整って見えますが、提出前に次の点は自分の目
 - [週報・日報をAIで書く｜箇条書きから5分で提出用に]({{ site.baseurl }}{% post_url 2026-07-22-ai-shuuhou-nippou %})
 - [月次報告のコメントをAIで書く｜数字の増減を説明する型]({{ site.baseurl }}{% post_url 2026-10-07-ai-getsuji-hokoku-comment %})
 - [AI×報告書 完全まとめ｜週報・月次・出張・ミスの報告まで]({{ '/houkoku-guide/' | relative_url }})
+- [自己評価シートをAIで書く｜人事考課の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-05-ai-jiko-hyoka-sheet %})
 
 ---
 
