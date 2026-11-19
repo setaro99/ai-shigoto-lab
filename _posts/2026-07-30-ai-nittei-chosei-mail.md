@@ -94,6 +94,7 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 - [会議のリマインドメールをAIで書く｜出欠確認つき例文]({{ site.baseurl }}{% post_url 2026-10-19-ai-kaigi-reminder-mail %})
 - [内見後のお礼・フォローメールをAIで書く｜不動産営業向け]({{ site.baseurl }}{% post_url 2026-10-22-ai-naiken-follow-mail %})
 - [面接日程調整メールをAIで書く｜候補者への連絡]({{ site.baseurl }}{% post_url 2026-10-25-ai-mensetsu-nittei-chosei-mail %})
+- [リスケのお願いメールをAIで書く｜日程変更の例文]({{ site.baseurl }}{% post_url 2026-11-19-ai-reschedule-mail %})
 
 ---
 

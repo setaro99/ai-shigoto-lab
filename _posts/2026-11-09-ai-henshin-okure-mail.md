@@ -121,6 +121,7 @@ description: "返信が遅れたときのビジネスメールをAIで書く方�
 - [訂正メールをAIで書く｜誤記・添付ミスの例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-02-ai-teisei-mail %})
 - [納期遅延のお知らせメールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-30-ai-nouki-chien-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [リスケのお願いメールをAIで書く｜日程変更の例文]({{ site.baseurl }}{% post_url 2026-11-19-ai-reschedule-mail %})
 
 ---
 

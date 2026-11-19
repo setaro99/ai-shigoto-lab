@@ -122,6 +122,7 @@ AIの文章は下書きです。採用の連絡は、一通ごとに会社の印
 - [不採用通知メールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-15-ai-fusaiyou-tsuuchi-mail %})
 - [内定通知メールをAIで書く｜条件・期限の伝え方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-28-ai-naitei-tsuchi-mail %})
 - [面接の質問リストをAIで作る]({{ site.baseurl }}{% post_url 2026-08-27-ai-mensetsu-shitsumon-list %})
+- [リスケのお願いメールをAIで書く｜日程変更の例文]({{ site.baseurl }}{% post_url 2026-11-19-ai-reschedule-mail %})
 
 ---
 

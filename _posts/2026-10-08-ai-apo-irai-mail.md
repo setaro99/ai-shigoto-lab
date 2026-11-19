@@ -121,6 +121,7 @@ AIの下書きは、そのまま送らずに次の点を確認してください
 - [英語メールをAIで読む・返す｜翻訳より速い方法]({{ site.baseurl }}{% post_url 2026-07-18-ai-eigo-mail %})
 - [見積依頼メールをAIで書く｜相見積もりで失礼にならない例文]({{ site.baseurl }}{% post_url 2026-11-03-ai-mitsumori-irai-mail %}) — 相手に回答期限を伝える依頼メールの型
 - [名刺交換後の挨拶メールをAIで書く｜当日中に送る例文]({{ site.baseurl }}{% post_url 2026-11-06-ai-meishi-koukan-aisatsu-mail %})
+- [リスケのお願いメールをAIで書く｜日程変更の例文]({{ site.baseurl }}{% post_url 2026-11-19-ai-reschedule-mail %})
 
 ---
 
