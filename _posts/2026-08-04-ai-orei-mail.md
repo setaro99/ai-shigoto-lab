@@ -89,6 +89,7 @@ AIが作った文面はそのまま使えることが多いですが、送信前
 - [お祝いメールをAIで書く｜昇進・開業の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-05-ai-oiwai-mail %})
 - [名刺交換後の挨拶メールをAIで書く｜当日中に送る例文]({{ site.baseurl }}{% post_url 2026-11-06-ai-meishi-koukan-aisatsu-mail %})
 - [年末の挨拶メールをAIで書く｜取引先向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-08-ai-nenmatsu-aisatsu-mail %})
+- [お歳暮のお礼メールをAIで書く｜取引先向け例文]({{ site.baseurl }}{% post_url 2026-11-20-ai-oseibo-orei-mail %}) — 品物をいただいたときのお礼
 
 ---
 

@@ -82,6 +82,7 @@ AIが作った案内文は読みやすく整っていますが、そのまま貼
 - [年末年始休業のお知らせをAIで書く｜取引先向け例文と型]({{ site.baseurl }}{% post_url 2026-10-03-ai-nenmatsu-nenshi-kyugyo-annai %})
 - [院内研修の案内文をAIで書く｜看護部向け周知のポイント]({{ site.baseurl }}{% post_url 2026-09-21-ai-innai-kenshu-annai %})
 - [薬局だよりをAIで書く｜院内掲示のお知らせ文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-24-ai-yakkyoku-dayori %})
+- [士業事務所の相談予約案内文をAIで書く｜必要書類・当日の流れ]({{ site.baseurl }}{% post_url 2026-09-17-ai-shigyo-soudan-yoyaku-annai %}) — 予約・持ち物を伝える案内の応用
 
 ---
 

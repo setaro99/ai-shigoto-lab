@@ -117,6 +117,7 @@ ChatGPT・Copilot・Gemini・Claudeのどれでも使えます。【 】の部�
 - [ニュースレターの文面をAIで書く｜個人店向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-19-ai-newsletter-sakusei %})
 - [スマホのAIに最初に聞く質問｜50代からの使い始め方]({{ site.baseurl }}{% post_url 2026-10-30-ai-senior-smartphone-first-question %})
 - [塾の保護者連絡・三者面談の準備をAIで｜伝え方の型]({{ site.baseurl }}{% post_url 2026-11-01-ai-juku-hogosha-mendan %})
+- [介護記録・申し送りをAIで整える｜事実と所見を分ける型]({{ site.baseurl }}{% post_url 2026-10-20-ai-kaigo-kiroku-moushiokuri %}) — 事実と見立てを分けて書く考え方の応用
 
 ## まとめ
 
