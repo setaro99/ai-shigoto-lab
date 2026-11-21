@@ -133,6 +133,7 @@ AIには「プロンプト②の文面を、来訪の多い相手向けに書き
 - [年末年始休業のお知らせをAIで書く｜取引先向け例文と型]({{ site.baseurl }}{% post_url 2026-10-03-ai-nenmatsu-nenshi-kyugyo-annai %})
 - [請求書送付メールをAIで書く｜添え状の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-29-ai-seikyusho-soufu-mail %})
 - [ビジネスメールの敬語をAIでチェック｜二重敬語の直し方]({{ site.baseurl }}{% post_url 2026-10-04-ai-keigo-check %})
+- [窓口受付時間の変更案内文をAIで書く｜住民向け周知術]({{ site.baseurl }}{% post_url 2026-09-25-ai-uketsuke-jikan-henkou-annai %}) — 移転に伴い受付時間も変わるときに
 
 ---
 

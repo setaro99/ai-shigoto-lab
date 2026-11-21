@@ -83,6 +83,7 @@ AIが出したグループ分けや統一候補はかなり精度が高いこと
 - [Excelの条件付き書式をAIに頼む｜期限切れの行を自動で色付け]({{ site.baseurl }}{% post_url 2026-10-15-ai-excel-jouken-tsuki-shoshiki %})
 - [副業の収支記録をAIで整える｜レシート・入金メモの仕分け]({{ site.baseurl }}{% post_url 2026-10-28-ai-fukugyou-shuushi-kiroku %})
 - [前任者のExcel関数をAIに解説させる｜読めない数式の読み方]({{ site.baseurl }}{% post_url 2026-11-10-ai-excel-kansu-kaisetsu %})
+- [ファイル名の付け方をAIで決める｜共有フォルダの命名ルール]({{ site.baseurl }}{% post_url 2026-11-21-ai-file-mei-rule %}) — セルの中だけでなくファイル名のばらつきもそろえたいときに
 
 ---
 

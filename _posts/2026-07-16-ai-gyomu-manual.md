@@ -72,6 +72,7 @@ AIがまとめた内容は読みやすくても、そのまま社内公開する
 - [週報・日報をAIで書く｜箇条書きから5分で提出用に]({{ site.baseurl }}{% post_url 2026-07-22-ai-shuuhou-nippou %})
 - [問い合わせ対応のFAQをAIで作る｜よくある質問と回答のまとめ方]({{ site.baseurl }}{% post_url 2026-09-11-ai-faq-sakusei %})
 - [ドライバーへの配送指示をAIで整える｜伝達ミスを防ぐ型]({{ site.baseurl }}{% post_url 2026-11-04-ai-driver-haiso-shiji %})
+- [ファイル名の付け方をAIで決める｜共有フォルダの命名ルール]({{ site.baseurl }}{% post_url 2026-11-21-ai-file-mei-rule %}) — マニュアルの保存・版管理の決まりも作るときに
 
 ---
 

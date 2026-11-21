@@ -124,6 +124,7 @@ AIに数式を頼むときは、次の3点を伝えると、一度で使える�
 - [Excelで2つの表を突合する｜差分・重複をAIで見つける]({{ site.baseurl }}{% post_url 2026-10-12-ai-excel-totsugo %})
 - [CSVの文字化け・先頭の0消えをAIで直す｜Excelの開き方]({{ site.baseurl }}{% post_url 2026-10-14-ai-excel-csv-mojibake %})
 - [前任者のExcel関数をAIに解説させる｜読めない数式の読み方]({{ site.baseurl }}{% post_url 2026-11-10-ai-excel-kansu-kaisetsu %})
+- [Excelピボットテーブルの作り方をAIに聞く｜クロス集計]({{ site.baseurl }}{% post_url 2026-08-08-ai-pivot-table %}) — 分けた姓・名や部署ごとに人数を集計するときに
 
 ---
 

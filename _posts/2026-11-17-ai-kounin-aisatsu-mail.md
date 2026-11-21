@@ -109,6 +109,7 @@ AIの下書きはそのまま送らず、次の点だけは自分の目で確認
 - [引き継ぎ書をAIで10分｜抜け漏れを防ぐコツ]({{ site.baseurl }}{% post_url 2026-07-21-ai-hikitsugisho %})
 - [名刺交換後の挨拶メールをAIで書く｜当日中に送る例文]({{ site.baseurl }}{% post_url 2026-11-06-ai-meishi-koukan-aisatsu-mail %})
 - [メールの件名をAIで改善｜開封されやすい書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-10-17-ai-mail-kenmei %})
+- [育休・産休前の挨拶文をAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-28-ai-ikukyu-sankyu-aisatsu %}) — 前任者が育休・産休に入る場合の挨拶に
 
 ---
 

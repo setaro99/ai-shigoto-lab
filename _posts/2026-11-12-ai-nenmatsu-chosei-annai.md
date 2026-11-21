@@ -115,6 +115,7 @@ AIの出力を社内に配信する前に、次の5点を確認します。
 - [催促メールをAIで書く｜角の立たない例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-24-ai-saisoku-mail %})
 - [社内依頼メールをAIで書く｜催促にならない言い回し]({{ site.baseurl }}{% post_url 2026-08-06-ai-shanai-irai-mail %})
 - [年末年始休業のお知らせをAIで書く｜取引先向け例文と型]({{ site.baseurl }}{% post_url 2026-10-03-ai-nenmatsu-nenshi-kyugyo-annai %})
+- [経費精算の摘要欄をAIで書く｜差し戻されない書き方]({{ site.baseurl }}{% post_url 2026-08-02-ai-keihi-seisan-tekiyou %}) — 年末の経費精算の締めとあわせて案内するときに
 
 ---
 
