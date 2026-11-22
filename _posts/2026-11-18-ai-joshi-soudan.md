@@ -127,6 +127,8 @@ AIが整えた文面は、そのまま使う前に次の点を確認してくだ
 - [あいまいな指示をAIで整理｜上司への聞き返し方]({{ site.baseurl }}{% post_url 2026-10-06-ai-aimai-shiji-kikikaeshi %})
 - [ミスの報告をAIで整える｜上司への第一報の書き方]({{ site.baseurl }}{% post_url 2026-10-10-ai-mistake-houkoku-mail %})
 - [仕事の優先順位をAIで整理｜やることが多すぎる朝の対処法]({{ site.baseurl }}{% post_url 2026-10-05-ai-yusen-junni-todo %})
+- [目標設定シートをAIで書く｜事務職の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-22-ai-mokuhyo-settei-sheet %})
+- [有給休暇の申請理由をAIで書く｜角が立たない一言とプロンプト]({{ site.baseurl }}{% post_url 2026-08-29-ai-yukyu-shinsei-riyuu %})
 
 ---
 

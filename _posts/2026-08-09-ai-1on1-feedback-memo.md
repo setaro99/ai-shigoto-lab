@@ -77,6 +77,7 @@ AIが整理したメモはそのまま保存したくなりますが、記録と
 - [会議のアジェンダをAIで作る｜時間配分つきテンプレ]({{ site.baseurl }}{% post_url 2026-07-19-ai-kaigi-agenda %})
 - [自己評価シートをAIで書く｜人事考課の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-05-ai-jiko-hyoka-sheet %})
 - [表彰状・感謝状をAIで書く｜文例とプロンプト]({{ site.baseurl }}{% post_url 2026-08-18-ai-hyoshojo-kanshajo %})
+- [目標設定シートをAIで書く｜事務職の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-22-ai-mokuhyo-settei-sheet %})
 
 ---
 

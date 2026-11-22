@@ -75,6 +75,7 @@ AIが作った原稿はよく整っていますが、話す前に次の3点は�
 - [AIで作る業務マニュアル｜質問に答えるだけで完成]({{ site.baseurl }}{% post_url 2026-07-16-ai-gyomu-manual %})
 - [朝礼スピーチをAIで作る｜1分・3分で使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-04-ai-chorei-speech %})
 - [提出前の資料チェックをAIで｜誤字・数字ミスの見つけ方]({{ site.baseurl }}{% post_url 2026-10-09-ai-shiryo-misu-check %})
+- [Excelのグラフ作成をAIに相談｜データに合う型の選び方]({{ site.baseurl }}{% post_url 2026-08-26-ai-excel-graph %})
 
 ---
 

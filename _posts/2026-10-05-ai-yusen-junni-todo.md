@@ -126,6 +126,7 @@ AIが出す順番は、あくまで「判断の叩き台」です。上司の指
 - [共働きの献立と買い物リストをAIで作る｜1週間分を10分で]({{ site.baseurl }}{% post_url 2026-10-27-ai-kondate-kaimono-list %})
 - [資格試験の勉強計画をAIで作る｜社会人の学習スケジュール]({{ site.baseurl }}{% post_url 2026-10-31-ai-shikaku-benkyou-keikaku %})
 - [上司への相談をAIで整理｜伝わる切り出し方と型]({{ site.baseurl }}{% post_url 2026-11-18-ai-joshi-soudan %})
+- [目標設定シートをAIで書く｜事務職の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-22-ai-mokuhyo-settei-sheet %})
 
 ---
 
