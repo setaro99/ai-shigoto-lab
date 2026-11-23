@@ -60,6 +60,7 @@ AIが教えてくれた設定通りに作れば失敗は少なくなりますが
 - [Excelのグラフ作成をAIに相談｜データに合う型の選び方]({{ site.baseurl }}{% post_url 2026-08-26-ai-excel-graph %})
 - [Excelで2つの表を突合する｜差分・重複をAIで見つける]({{ site.baseurl }}{% post_url 2026-10-12-ai-excel-totsugo %})
 - [Excelのグラフ作成をAIに相談｜データに合う型の選び方]({{ site.baseurl }}{% post_url 2026-08-26-ai-excel-graph %})
+- [Excelの複数シートを1つにまとめる｜AIに頼む手順]({{ site.baseurl }}{% post_url 2026-11-23-ai-excel-fukusu-sheet-matome %})
 
 ---
 

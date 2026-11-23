@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "志望動機をAIで書く｜通過率が上がる例文とプロンプト"
+title: "志望動機をAIで書く｜「なぜこの会社か」が伝わる例文とプロンプト"
 date: 2026-09-27 06:00:00 +0900
 categories: [志望動機]
 tags: [志望動機, 転職, 自己PR, プロンプト]
@@ -81,7 +81,7 @@ AIが作った文章は整っていますが、提出する前に必ず次の3�
 
 ## あわせて読みたい
 
-- [職務経歴書をAIで書く｜通過率が上がる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
+- [職務経歴書をAIで書く｜実績が伝わる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
 - [求人票をAIで書く｜応募が集まる文章とプロンプト]({{ site.baseurl }}{% post_url 2026-08-13-ai-kyujinhyo %})
 - [面接での質問リストをAIで作る｜人事担当向け構成とプロンプト]({{ site.baseurl }}{% post_url 2026-08-27-ai-mensetsu-shitsumon-list %})
 - [面接評価コメントをAIで書く｜合否判断に使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-11-ai-mensetsu-hyoka-comment %})

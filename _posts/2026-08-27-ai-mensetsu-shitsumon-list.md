@@ -69,8 +69,8 @@ AIが作った質問リストはそのまま使いやすい形になっていま
 - [面接評価コメントをAIで書く｜合否判断に使える例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-11-ai-mensetsu-hyoka-comment %})
 - [求人票をAIで書く｜応募が集まる文章とプロンプト]({{ site.baseurl }}{% post_url 2026-08-13-ai-kyujinhyo %})
 - [人事評価コメントをAIで書く｜項目別の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-23-ai-jinji-hyoka-comment %})
-- [志望動機をAIで書く｜通過率が上がる例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-27-ai-shibo-doki %})
-- [職務経歴書をAIで書く｜通過率が上がる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
+- [志望動機をAIで書く｜「なぜこの会社か」が伝わる例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-27-ai-shibo-doki %})
+- [職務経歴書をAIで書く｜実績が伝わる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
 - [面接日程調整メールをAIで書く｜候補者への連絡]({{ site.baseurl }}{% post_url 2026-10-25-ai-mensetsu-nittei-chosei-mail %})
 - [転職面接の想定問答をAIで練習｜答えが浅くなる原因と回答づくりのプロンプト]({{ site.baseurl }}{% post_url 2026-11-11-ai-tenshoku-mensetsu-taiou %}) — 応募者側の準備
 

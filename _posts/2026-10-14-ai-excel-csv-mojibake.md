@@ -111,6 +111,7 @@ CSVの文字化けや先頭の0消えは、ファイルの不具合ではなく*
 - [Excelのドロップダウンリストの作り方｜AIに頼んで入力ミスを防ぐ]({{ site.baseurl }}{% post_url 2026-10-18-ai-excel-dropdown-list %})
 - [Excelで氏名を姓と名に分ける｜AIで関数を作る方法]({{ site.baseurl }}{% post_url 2026-11-13-ai-excel-shimei-bunkatsu %})
 - [副業の収支記録をAIで整える｜レシート・入金メモの仕分け]({{ site.baseurl }}{% post_url 2026-10-28-ai-fukugyou-shuushi-kiroku %})
+- [Excelの複数シートを1つにまとめる｜AIに頼む手順]({{ site.baseurl }}{% post_url 2026-11-23-ai-excel-fukusu-sheet-matome %})
 
 ---
 

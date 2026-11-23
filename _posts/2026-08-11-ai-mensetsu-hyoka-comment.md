@@ -74,9 +74,9 @@ AIが作ったコメントは読みやすく整っていますが、採用会議
 - [1on1のフィードバックメモをAIで整理｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-09-ai-1on1-feedback-memo %})
 - [週報・日報をAIで書く｜箇条書きから5分で提出用に]({{ site.baseurl }}{% post_url 2026-07-22-ai-shuuhou-nippou %})
 - [不採用通知メールをAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-15-ai-fusaiyou-tsuuchi-mail %})
-- [志望動機をAIで書く｜通過率が上がる例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-27-ai-shibo-doki %})
+- [志望動機をAIで書く｜「なぜこの会社か」が伝わる例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-27-ai-shibo-doki %})
 - [面接での質問リストをAIで作る｜人事担当向け構成とプロンプト]({{ site.baseurl }}{% post_url 2026-08-27-ai-mensetsu-shitsumon-list %})
-- [職務経歴書をAIで書く｜通過率が上がる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
+- [職務経歴書をAIで書く｜実績が伝わる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
 - [面接日程調整メールをAIで書く｜候補者への連絡]({{ site.baseurl }}{% post_url 2026-10-25-ai-mensetsu-nittei-chosei-mail %})
 - [塾の保護者連絡・三者面談の準備をAIで｜伝え方の型]({{ site.baseurl }}{% post_url 2026-11-01-ai-juku-hogosha-mendan %})
 - [転職面接の想定問答をAIで練習｜答えが浅くなる原因と回答づくりのプロンプト]({{ site.baseurl }}{% post_url 2026-11-11-ai-tenshoku-mensetsu-taiou %}) — 応募者の側から見た面接準備

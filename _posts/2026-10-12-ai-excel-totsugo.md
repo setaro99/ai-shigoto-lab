@@ -131,6 +131,7 @@ Excelの一覧の中で、同じ値が重複している行に印を付けたい
 - [Excelの日付・曜日・営業日計算をAIに頼む｜期限管理]({{ site.baseurl }}{% post_url 2026-11-02-ai-excel-hizuke-keisan %})
 - [Excelで氏名を姓と名に分ける｜AIで関数を作る方法]({{ site.baseurl }}{% post_url 2026-11-13-ai-excel-shimei-bunkatsu %})
 - [前任者のExcel関数をAIに解説させる｜読めない数式の読み方]({{ site.baseurl }}{% post_url 2026-11-10-ai-excel-kansu-kaisetsu %})
+- [Excelの複数シートを1つにまとめる｜AIに頼む手順]({{ site.baseurl }}{% post_url 2026-11-23-ai-excel-fukusu-sheet-matome %})
 
 ---
 

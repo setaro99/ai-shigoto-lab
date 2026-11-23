@@ -59,8 +59,8 @@ description: "転職面接で聞かれる質問への答えを、AIで下書き�
 
 ## あわせて読みたい
 
-- [志望動機をAIで書く｜通過率が上がる例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-27-ai-shibo-doki %})
-- [職務経歴書をAIで書く｜通過率が上がる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
+- [志望動機をAIで書く｜「なぜこの会社か」が伝わる例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-27-ai-shibo-doki %})
+- [職務経歴書をAIで書く｜実績が伝わる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
 
 ---
 
