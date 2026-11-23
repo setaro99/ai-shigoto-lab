@@ -31,6 +31,7 @@ description: "関数・VBAマクロ・ピボットテーブル・エラー値・
 - [Excelの日付・曜日・営業日計算をAIに頼む｜期限管理]({{ site.baseurl }}{% post_url 2026-11-02-ai-excel-hizuke-keisan %}) — 起点・数え方・表示の3点を伝えて、営業日や勤続年数、和暦表示の数式を作ってもらう
 - [前任者のExcel関数をAIに解説させる｜読めない数式の読み方]({{ site.baseurl }}{% post_url 2026-11-10-ai-excel-kansu-kaisetsu %}) — 引き継いだ長い数式を貼って、1行ずつ日本語で解説してもらい、検算で確かめる方法
 - [Excelで氏名を姓と名に分ける｜AIで関数を作る方法]({{ site.baseurl }}{% post_url 2026-11-13-ai-excel-shimei-bunkatsu %}) — 全角・半角スペースの混在を吸収して分割し、スペースのない氏名は「要確認」にして人が直す方法
+- [Excelの複数シートを1つにまとめる｜AIに頼む手順]({{ site.baseurl }}{% post_url 2026-11-23-ai-excel-fukusu-sheet-matome %}) — 月別・支店別のシートを、バージョンとくり返しの有無に合う方法で1枚の一覧にまとめ、行数と合計で検算する方法
 
 ## 自動化（VBA）
 
