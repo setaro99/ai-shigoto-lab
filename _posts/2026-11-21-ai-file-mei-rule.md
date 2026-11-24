@@ -138,6 +138,7 @@ AIが出した案は、そのまま採用せず「うちの部署で本当に守
 - [引き継ぎ書をAIで10分｜抜け漏れを防ぐコツ]({{ site.baseurl }}{% post_url 2026-07-21-ai-hikitsugisho %}) — ファイルの保存場所も引き継ぐときに
 - [社内アナウンス文をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %}) — ルール変更の周知に
 - [AIで作る業務マニュアル｜質問に答えるだけで完成]({{ site.baseurl }}{% post_url 2026-07-16-ai-gyomu-manual %})
+- [オフィス大掃除の案内文と分担表をAIで作る手順]({{ site.baseurl }}{% post_url 2026-11-24-ai-osoji-annai-buntanhyo %}) — 共有フォルダとあわせて、オフィスの片づけも進めるときに
 
 ---
 

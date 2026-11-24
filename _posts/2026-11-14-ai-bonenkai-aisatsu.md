@@ -105,6 +105,7 @@ AIの原稿はそのまま読むと、きれいすぎて「読み上げている
 - [ビジネス年賀状の文面をAIで作る｜添え書きの例文]({{ site.baseurl }}{% post_url 2026-11-15-ai-nengajo-soegaki %})
 - [プレゼン原稿をAIで作る｜スライドの箇条書きを話し言葉に]({{ site.baseurl }}{% post_url 2026-08-03-ai-presen-genko %})
 - [表彰状・感謝状をAIで書く｜文例とプロンプト]({{ site.baseurl }}{% post_url 2026-08-18-ai-hyoshojo-kanshajo %})
+- [オフィス大掃除の案内文と分担表をAIで作る手順]({{ site.baseurl }}{% post_url 2026-11-24-ai-osoji-annai-buntanhyo %}) — 年末のもう一つの幹事仕事に
 
 ---
 

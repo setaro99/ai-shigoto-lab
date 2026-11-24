@@ -130,6 +130,7 @@ description: "「数字で書けと言われても、事務の仕事は数字に
 - [自己評価シートをAIで書く｜人事考課の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-05-ai-jiko-hyoka-sheet %}) — 期末に振り返りを書くときに
 - [人事評価コメントをAIで書く｜項目別の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-23-ai-jinji-hyoka-comment %}) — 部下の目標を評価する側の方へ
 - [仕事の優先順位をAIで整理｜やることが多すぎる朝の対処法]({{ site.baseurl }}{% post_url 2026-10-05-ai-yusen-junni-todo %})
+- [AI×人事評価・面接 完全まとめ｜目標設定・自己評価・面接・有給申請まで]({{ '/jinji-guide/' | relative_url }}) — 人事まわりの記事を場面別にまとめたページ
 
 ---
 

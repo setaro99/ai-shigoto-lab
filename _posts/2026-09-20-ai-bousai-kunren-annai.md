@@ -84,6 +84,7 @@ AIが作った案内文は整っていますが、社内に一斉配信する前
 - [現場のヒヤリハット報告書をAIで書く｜再発防止までの書き方]({{ site.baseurl }}{% post_url 2026-09-15-ai-hiyari-hatto-hokokusho %})
 - [院内研修の案内文をAIで書く｜看護部向け周知のポイント]({{ site.baseurl }}{% post_url 2026-09-21-ai-innai-kenshu-annai %})
 - [保育園の連絡帳をAIで書く｜その日の様子を伝える一言の型]({{ site.baseurl }}{% post_url 2026-10-29-ai-hoikuen-renrakucho %})
+- [オフィス大掃除の案内文と分担表をAIで作る手順]({{ site.baseurl }}{% post_url 2026-11-24-ai-osoji-annai-buntanhyo %}) — 全員参加の社内行事を分担表つきで案内する例
 
 ---
 

@@ -78,6 +78,7 @@ AIが作った文章は読みやすく整っていますが、そのまま提出
 - [1on1のフィードバックメモをAIで整理｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-09-ai-1on1-feedback-memo %})
 - [有給休暇の申請理由をAIで書く｜角が立たない一言とプロンプト]({{ site.baseurl }}{% post_url 2026-08-29-ai-yukyu-shinsei-riyuu %})
 - [目標設定シートをAIで書く｜事務職の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-22-ai-mokuhyo-settei-sheet %}) — 期初に目標を立てるときに
+- [AI×人事評価・面接 完全まとめ｜目標設定・自己評価・面接・有給申請まで]({{ '/jinji-guide/' | relative_url }}) — 人事まわりの記事を場面別にまとめたページ
 
 ---
 

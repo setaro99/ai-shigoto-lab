@@ -62,6 +62,7 @@ AIが出した一言はそのまま使えることが多いですが、提出す
 - [人事評価コメントをAIで書く｜項目別の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-23-ai-jinji-hyoka-comment %})
 - [不在時の自動返信メールをAIで作る｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-10-11-ai-fuzai-jido-henshin %})
 - [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %})
+- [AI×人事評価・面接 完全まとめ｜目標設定・自己評価・面接・有給申請まで]({{ '/jinji-guide/' | relative_url }}) — 人事まわりの記事を場面別にまとめたページ
 
 ---
 

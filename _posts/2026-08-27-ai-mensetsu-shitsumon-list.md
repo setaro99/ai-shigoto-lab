@@ -73,6 +73,7 @@ AIが作った質問リストはそのまま使いやすい形になっていま
 - [職務経歴書をAIで書く｜実績が伝わる書き方とプロンプト]({{ site.baseurl }}{% post_url 2026-09-26-ai-shokumu-keirekisho %})
 - [面接日程調整メールをAIで書く｜候補者への連絡]({{ site.baseurl }}{% post_url 2026-10-25-ai-mensetsu-nittei-chosei-mail %})
 - [転職面接の想定問答をAIで練習｜答えが浅くなる原因と回答づくりのプロンプト]({{ site.baseurl }}{% post_url 2026-11-11-ai-tenshoku-mensetsu-taiou %}) — 応募者側の準備
+- [AI×人事評価・面接 完全まとめ｜目標設定・自己評価・面接・有給申請まで]({{ '/jinji-guide/' | relative_url }}) — 人事まわりの記事を場面別にまとめたページ
 
 ---
 

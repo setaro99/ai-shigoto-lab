@@ -80,6 +80,7 @@ AIが作ったコメントは読みやすく整っていますが、採用会議
 - [面接日程調整メールをAIで書く｜候補者への連絡]({{ site.baseurl }}{% post_url 2026-10-25-ai-mensetsu-nittei-chosei-mail %})
 - [塾の保護者連絡・三者面談の準備をAIで｜伝え方の型]({{ site.baseurl }}{% post_url 2026-11-01-ai-juku-hogosha-mendan %})
 - [転職面接の想定問答をAIで練習｜答えが浅くなる原因と回答づくりのプロンプト]({{ site.baseurl }}{% post_url 2026-11-11-ai-tenshoku-mensetsu-taiou %}) — 応募者の側から見た面接準備
+- [AI×人事評価・面接 完全まとめ｜目標設定・自己評価・面接・有給申請まで]({{ '/jinji-guide/' | relative_url }}) — 人事まわりの記事を場面別にまとめたページ
 
 ---
 
