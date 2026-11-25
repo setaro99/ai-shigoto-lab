@@ -66,6 +66,7 @@ AIが作った摘要文は、そのまま貼って終わりにせず、次の3�
 - [提出前の資料チェックをAIで｜誤字・数字ミスの見つけ方]({{ site.baseurl }}{% post_url 2026-10-09-ai-shiryo-misu-check %})
 - [副業の収支記録をAIで整える｜レシート・入金メモの仕分け]({{ site.baseurl }}{% post_url 2026-10-28-ai-fukugyou-shuushi-kiroku %})
 - [年末調整の社内案内文をAIで書く｜提出期限と回収の型]({{ site.baseurl }}{% post_url 2026-11-12-ai-nenmatsu-chosei-annai %})
+- [AI×総務の仕事 完全まとめ｜社内周知・取引先へのお知らせ・年末の仕事まで]({{ '/soumu-guide/' | relative_url }})
 
 ---
 

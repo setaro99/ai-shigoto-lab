@@ -134,6 +134,7 @@ AIには「プロンプト②の文面を、来訪の多い相手向けに書き
 - [請求書送付メールをAIで書く｜添え状の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-29-ai-seikyusho-soufu-mail %})
 - [ビジネスメールの敬語をAIでチェック｜二重敬語の直し方]({{ site.baseurl }}{% post_url 2026-10-04-ai-keigo-check %})
 - [窓口受付時間の変更案内文をAIで書く｜住民向け周知術]({{ site.baseurl }}{% post_url 2026-09-25-ai-uketsuke-jikan-henkou-annai %}) — 移転に伴い受付時間も変わるときに
+- [AI×総務の仕事 完全まとめ｜社内周知・取引先へのお知らせ・年末の仕事まで]({{ '/soumu-guide/' | relative_url }})
 
 ---
 

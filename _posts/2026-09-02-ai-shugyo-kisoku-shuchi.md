@@ -83,6 +83,7 @@ AIが作った周知文は読みやすく整っていますが、社員全体に
 - [稟議書をAIで書く｜承認されやすい構成とプロンプト]({{ site.baseurl }}{% post_url 2026-07-26-ai-ringisho %})
 - [育休・産休前の挨拶文をAIで書く｜例文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-28-ai-ikukyu-sankyu-aisatsu %})
 - [年末調整の社内案内文をAIで書く｜提出期限と回収の型]({{ site.baseurl }}{% post_url 2026-11-12-ai-nenmatsu-chosei-annai %})
+- [AI×総務の仕事 完全まとめ｜社内周知・取引先へのお知らせ・年末の仕事まで]({{ '/soumu-guide/' | relative_url }})
 
 ---
 

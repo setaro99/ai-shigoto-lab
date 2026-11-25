@@ -116,6 +116,7 @@ AIの出力を社内に配信する前に、次の5点を確認します。
 - [社内依頼メールをAIで書く｜催促にならない言い回し]({{ site.baseurl }}{% post_url 2026-08-06-ai-shanai-irai-mail %})
 - [年末年始休業のお知らせをAIで書く｜取引先向け例文と型]({{ site.baseurl }}{% post_url 2026-10-03-ai-nenmatsu-nenshi-kyugyo-annai %})
 - [経費精算の摘要欄をAIで書く｜差し戻されない書き方]({{ site.baseurl }}{% post_url 2026-08-02-ai-keihi-seisan-tekiyou %}) — 年末の経費精算の締めとあわせて案内するときに
+- [AI×総務の仕事 完全まとめ｜社内周知・取引先へのお知らせ・年末の仕事まで]({{ '/soumu-guide/' | relative_url }})
 
 ---
 

@@ -129,6 +129,7 @@ AIが整えた文面は、そのまま使う前に次の点を確認してくだ
 - [仕事の優先順位をAIで整理｜やることが多すぎる朝の対処法]({{ site.baseurl }}{% post_url 2026-10-05-ai-yusen-junni-todo %})
 - [目標設定シートをAIで書く｜事務職の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-22-ai-mokuhyo-settei-sheet %})
 - [有給休暇の申請理由をAIで書く｜角が立たない一言とプロンプト]({{ site.baseurl }}{% post_url 2026-08-29-ai-yukyu-shinsei-riyuu %})
+- [長い資料をAIで要約する｜上司に3行で伝える手順]({{ site.baseurl }}{% post_url 2026-11-25-ai-shiryo-youyaku %}) — 相談の前に、関係する資料の要点を整理しておきたいときに
 
 ---
 

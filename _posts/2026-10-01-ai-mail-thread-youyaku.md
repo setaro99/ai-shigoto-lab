@@ -135,6 +135,7 @@ AIの要約は便利ですが、そのまま信じて動くのは危険です。
 - [Slack・Teamsの文面をAIで整える｜メールより気軽に]({{ site.baseurl }}{% post_url 2026-08-21-ai-shanai-chat-message %})
 - [あいまいな指示をAIで整理｜上司への聞き返し方]({{ site.baseurl }}{% post_url 2026-10-06-ai-aimai-shiji-kikikaeshi %})
 - [AI×事務作業 完全まとめ]({{ '/gyomu-guide/' | relative_url }})
+- [長い資料をAIで要約する｜上司に3行で伝える手順]({{ site.baseurl }}{% post_url 2026-11-25-ai-shiryo-youyaku %}) — メールではなく、数十ページの資料や通知文の要点をつかみたいときに
 
 ---
 

@@ -150,6 +150,7 @@ AIが作るのはあくまで下書きです。「この人は腰を痛めてい
 - [年末年始休業のお知らせをAIで書く｜取引先向け例文と型]({{ site.baseurl }}{% post_url 2026-10-03-ai-nenmatsu-nenshi-kyugyo-annai %}) — 大掃除と同じ時期に必要になる社外向けの案内
 - [ファイル名の付け方をAIで決める｜共有フォルダの命名ルール]({{ site.baseurl }}{% post_url 2026-11-21-ai-file-mei-rule %}) — 机の次は、共有フォルダの整理に
 - [防災訓練・避難訓練の案内文をAIで書く｜社内周知のポイント]({{ site.baseurl }}{% post_url 2026-09-20-ai-bousai-kunren-annai %}) — 全員参加の社内行事を案内する別の例
+- [AI×総務の仕事 完全まとめ｜社内周知・取引先へのお知らせ・年末の仕事まで]({{ '/soumu-guide/' | relative_url }})
 
 ---
 
