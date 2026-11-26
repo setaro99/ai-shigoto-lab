@@ -53,6 +53,7 @@ description: "お詫び・断り・催促・クレーム対応・値上げ案内
 - [年末の挨拶メールをAIで書く｜取引先向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-08-ai-nenmatsu-aisatsu-mail %}) — 1年のお礼に「その相手ならでは」の一文を添える年末挨拶の型
 - [ビジネス年賀状の文面をAIで作る｜添え書きの例文]({{ site.baseurl }}{% post_url 2026-11-15-ai-nengajo-soegaki %}) — 印刷面は作法を点検させ、手書きの添え書きは相手別の出来事から一括で作る方法
 - [お歳暮のお礼メールをAIで書く｜取引先向け例文]({{ site.baseurl }}{% post_url 2026-11-20-ai-oseibo-orei-mail %}) — 受け取りの報告・感謝・気づかいの一言・年末の挨拶をそろえ、辞退する場合も角を立てない型
+- [新年の挨拶メールをAIで書く｜仕事始めの例文と型]({{ site.baseurl }}{% post_url 2026-11-26-ai-nenshi-aisatsu-mail %}) — 賀詞は短く、年末から止まっている用件の「再開の一文」まで1通で伝える
 - [返信が遅れたメールをAIで書く｜お詫びと返信を一度に]({{ site.baseurl }}{% post_url 2026-11-09-ai-henshin-okure-mail %}) — 遅れ具合でお詫びの量を決め、返事を埋もれさせない一通の型
 - [シフト調整依頼メールをAIで書く｜店舗スタッフ向け例文]({{ site.baseurl }}{% post_url 2026-09-19-ai-shift-chosei-mail %}) — 候補日の提示から確定連絡まで、返信しやすい依頼文の型
 - [請求書送付メールをAIで書く｜添え状の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-09-29-ai-seikyusho-soufu-mail %}) — 金額・期日を漏れなく伝える請求書の添え状
