@@ -89,6 +89,7 @@ AIが作った文章はそのまま使えることが多いですが、社内に
 - [ファイル名の付け方をAIで決める｜共有フォルダの命名ルール]({{ site.baseurl }}{% post_url 2026-11-21-ai-file-mei-rule %}) — 命名ルールの周知文を出すときに
 - [オフィス大掃除の案内文と分担表をAIで作る手順]({{ site.baseurl }}{% post_url 2026-11-24-ai-osoji-annai-buntanhyo %}) — 年末の大掃除を社内に案内するときに
 - [AI×総務の仕事 完全まとめ｜社内周知・取引先へのお知らせ・年末の仕事まで]({{ '/soumu-guide/' | relative_url }})
+- [PTA・自治会のお知らせ文と議事録をAIで下書きする手順]({{ site.baseurl }}{% post_url 2026-11-25-ai-pta-jichikai-oshirase-gijiroku %}) — 職場の外で、保護者・住民向けのお知らせ文を任されたとき
 
 ---
 

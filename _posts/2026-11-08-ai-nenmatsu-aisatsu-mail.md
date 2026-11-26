@@ -135,6 +135,7 @@ AとBだけでも「今年の一文」を入れるだけで、受け取る側の
 - [ビジネス年賀状の文面をAIで作る｜添え書きの例文]({{ site.baseurl }}{% post_url 2026-11-15-ai-nengajo-soegaki %})
 - [お歳暮のお礼メールをAIで書く｜取引先向け例文]({{ site.baseurl }}{% post_url 2026-11-20-ai-oseibo-orei-mail %})
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
+- [新年の挨拶メールをAIで書く｜仕事始めの例文と型]({{ site.baseurl }}{% post_url 2026-11-26-ai-nenshi-aisatsu-mail %}) — 年が明けてから送る挨拶と、止まっていた用件の再開に
 
 ---
 

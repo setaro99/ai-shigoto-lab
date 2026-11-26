@@ -23,6 +23,7 @@ description: "プレスリリース、社内報、住民向けの案内文まで
 - [住民向け講座・説明会の案内文をAIで書く｜伝え方のコツ]({{ site.baseurl }}{% post_url 2026-09-23-ai-koza-setsumeikai-annai %}) — 日時・場所・申込方法を迷わず伝える
 - [パブリックコメントの募集案内文をAIで書く｜基本構成のコツ]({{ site.baseurl }}{% post_url 2026-09-24-ai-public-comment-boshu-annai %}) — 募集の目的と期限・提出方法を整理する
 - [窓口受付時間の変更案内文をAIで書く｜住民向け周知術]({{ site.baseurl }}{% post_url 2026-09-25-ai-uketsuke-jikan-henkou-annai %}) — 変更点を最初の一文で伝える
+- [PTA・自治会のお知らせ文と議事録をAIで下書きする手順]({{ site.baseurl }}{% post_url 2026-11-25-ai-pta-jichikai-oshirase-gijiroku %}) — PTA・自治会・管理組合の役員として、保護者・住民向けのお知らせを書く方へ
 
 ---
 

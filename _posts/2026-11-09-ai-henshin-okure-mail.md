@@ -123,6 +123,7 @@ description: "返信が遅れたときのビジネスメールをAIで書く方�
 - [AIメール術 完全まとめ｜お詫び・断り・催促・英語まで]({{ '/mail-guide/' | relative_url }})
 - [リスケのお願いメールをAIで書く｜日程変更の例文]({{ site.baseurl }}{% post_url 2026-11-19-ai-reschedule-mail %})
 - [お歳暮のお礼メールをAIで書く｜取引先向け例文]({{ site.baseurl }}{% post_url 2026-11-20-ai-oseibo-orei-mail %}) — お礼が遅れた場合の書き方も
+- [新年の挨拶メールをAIで書く｜仕事始めの例文と型]({{ site.baseurl }}{% post_url 2026-11-26-ai-nenshi-aisatsu-mail %}) — 休み中に届いていた挨拶メールへ返信するとき
 
 ---
 

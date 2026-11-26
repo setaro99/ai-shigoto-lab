@@ -132,6 +132,7 @@ AIの案を選ぶときや、自分で書き足すときは、次の3つの型�
 - [忘年会の挨拶をAIで作る｜乾杯・締めの一言の例文]({{ site.baseurl }}{% post_url 2026-11-14-ai-bonenkai-aisatsu %})
 - [お歳暮のお礼メールをAIで書く｜取引先向け例文]({{ site.baseurl }}{% post_url 2026-11-20-ai-oseibo-orei-mail %})
 - [AI×総務の仕事 完全まとめ｜社内周知・取引先へのお知らせ・年末の仕事まで]({{ '/soumu-guide/' | relative_url }})
+- [新年の挨拶メールをAIで書く｜仕事始めの例文と型]({{ site.baseurl }}{% post_url 2026-11-26-ai-nenshi-aisatsu-mail %}) — 年賀状をいただいた相手へメールで返すとき
 
 ---
 

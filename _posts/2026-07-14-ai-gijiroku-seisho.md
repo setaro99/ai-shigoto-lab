@@ -86,6 +86,7 @@ AIが整えた議事録は読みやすい形になっていますが、社内外
 - [病棟会議・委員会資料をAIで議事録要約｜記録整理のコツ]({{ site.baseurl }}{% post_url 2026-09-22-ai-byoto-kaigi-giji-yoyaku %})
 - [議事録の送付メールをAIで書く｜決定事項が伝わる例文]({{ site.baseurl }}{% post_url 2026-11-07-ai-gijiroku-soufu-mail %})
 - [長い資料をAIで要約する｜上司に3行で伝える手順]({{ site.baseurl }}{% post_url 2026-11-25-ai-shiryo-youyaku %}) — 会議で配られた長い資料の要点を先につかんでおきたいときに
+- [PTA・自治会のお知らせ文と議事録をAIで下書きする手順]({{ site.baseurl }}{% post_url 2026-11-25-ai-pta-jichikai-oshirase-gijiroku %}) — PTAや自治会の役員会の議事録を任されたとき
 
 ---
 

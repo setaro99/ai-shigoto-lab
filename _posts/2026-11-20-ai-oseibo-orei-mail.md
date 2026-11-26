@@ -114,6 +114,7 @@ AIが作った文面を送る前に、次の点を確認してください。
 - [年末の挨拶メールをAIで書く｜取引先向け例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-08-ai-nenmatsu-aisatsu-mail %})
 - [ビジネス年賀状の文面をAIで作る｜添え書きの例文]({{ site.baseurl }}{% post_url 2026-11-15-ai-nengajo-soegaki %})
 - [返信が遅れたメールをAIで書く｜お詫びと返信を一度に]({{ site.baseurl }}{% post_url 2026-11-09-ai-henshin-okure-mail %}) — お礼が遅れてしまったとき
+- [新年の挨拶メールをAIで書く｜仕事始めの例文と型]({{ site.baseurl }}{% post_url 2026-11-26-ai-nenshi-aisatsu-mail %}) — 年明けに改めて挨拶を送るとき
 
 ---
 

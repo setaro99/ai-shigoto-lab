@@ -90,6 +90,7 @@ AIが作った案内文は整っていますが、広報誌やホームページ
 - [窓口受付時間の変更案内文をAIで書く｜住民向け周知術]({{ site.baseurl }}{% post_url 2026-09-25-ai-uketsuke-jikan-henkou-annai %})
 - [パブリックコメントの募集案内文をAIで書く｜基本構成のコツ]({{ site.baseurl }}{% post_url 2026-09-24-ai-public-comment-boshu-annai %})
 - [AI×広報・周知文 完全まとめ｜プレスリリース・社内報・住民向け案内まで]({{ '/koho-guide/' | relative_url }}) — 広報・周知の記事を読み手別にまとめたページ
+- [PTA・自治会のお知らせ文と議事録をAIで下書きする手順]({{ site.baseurl }}{% post_url 2026-11-25-ai-pta-jichikai-oshirase-gijiroku %}) — 自治会や管理組合の役員として、住民向けのお知らせを書くとき
 
 ---
 

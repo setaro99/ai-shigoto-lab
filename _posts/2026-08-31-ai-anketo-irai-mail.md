@@ -80,6 +80,7 @@ AIの文面はそのまま使えることが多いですが、配信前に次の
 - [美容室のカウンセリングシートをAIで作る｜聞き漏れを防ぐ型]({{ site.baseurl }}{% post_url 2026-10-23-ai-salon-counseling-sheet %})
 - [社内アンケートの質問文をAIで作る｜設問設計のコツ]({{ site.baseurl }}{% post_url 2026-08-24-ai-anketo-shitsumon-sekkei %})
 - [塾の保護者連絡・三者面談の準備をAIで｜伝え方の型]({{ site.baseurl }}{% post_url 2026-11-01-ai-juku-hogosha-mendan %})
+- [PTA・自治会のお知らせ文と議事録をAIで下書きする手順]({{ site.baseurl }}{% post_url 2026-11-25-ai-pta-jichikai-oshirase-gijiroku %}) — 行事の案内やお願いの文面を、保護者・住民向けに書くとき
 
 ---
 
