@@ -95,6 +95,7 @@ AIの案内文はほぼそのまま使える完成度ですが、社内に一斉
 - [忘年会の挨拶をAIで作る｜乾杯・締めの一言の例文]({{ site.baseurl }}{% post_url 2026-11-14-ai-bonenkai-aisatsu %})
 - [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
 - [Slack・Teamsの文面をAIで整える｜メールより気軽に]({{ site.baseurl }}{% post_url 2026-08-21-ai-shanai-chat-message %})
+- [寄せ書きのメッセージをAIで考える｜退職・異動の例文]({{ site.baseurl }}{% post_url 2026-11-27-ai-yosegaki-message %})
 
 ---
 

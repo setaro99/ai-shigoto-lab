@@ -146,6 +146,7 @@ AIが作るのは下書きまでです。最後に自分の言葉で言い直し
 - [退職の挨拶メールをAIで書く｜社内・取引先への例文とプロンプト]({{ site.baseurl }}{% post_url 2026-07-29-ai-taishoku-aisatsu-mail %}) — 自分が去る側になったときに
 - [表彰状・感謝状をAIで書く｜文例とプロンプト]({{ site.baseurl }}{% post_url 2026-08-18-ai-hyoshojo-kanshajo %}) — あらたまった形で感謝を伝えるときに
 - [お祝いメールをAIで書く｜昇進・開業の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-05-ai-oiwai-mail %}) — 栄転や昇進を祝うメールはこちら
+- [Slack・Teamsの文面をAIで整える｜メールより気軽に]({{ site.baseurl }}{% post_url 2026-08-21-ai-shanai-chat-message %}) — 寄せ書きの依頼をチャットで回すときの文面に
 
 ---
 

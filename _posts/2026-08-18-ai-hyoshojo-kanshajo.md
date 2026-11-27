@@ -75,6 +75,7 @@ AIが作った文面は格式が整っていて読みやすいですが、実際
 - [お祝いメールをAIで書く｜昇進・開業の例文とプロンプト]({{ site.baseurl }}{% post_url 2026-11-05-ai-oiwai-mail %})
 - [忘年会の挨拶をAIで作る｜乾杯・締めの一言の例文]({{ site.baseurl }}{% post_url 2026-11-14-ai-bonenkai-aisatsu %})
 - [AI×総務の仕事 完全まとめ｜社内周知・取引先へのお知らせ・年末の仕事まで]({{ '/soumu-guide/' | relative_url }})
+- [寄せ書きのメッセージをAIで考える｜退職・異動の例文]({{ site.baseurl }}{% post_url 2026-11-27-ai-yosegaki-message %})
 
 ---
 
