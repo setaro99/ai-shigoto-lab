@@ -139,6 +139,7 @@ AIが出した案は、そのまま採用せず「うちの部署で本当に守
 - [社内アナウンス文をAIで書く｜迷わない定型文とプロンプト]({{ site.baseurl }}{% post_url 2026-08-10-ai-shanai-announce %}) — ルール変更の周知に
 - [AIで作る業務マニュアル｜質問に答えるだけで完成]({{ site.baseurl }}{% post_url 2026-07-16-ai-gyomu-manual %})
 - [オフィス大掃除の案内文と分担表をAIで作る手順]({{ site.baseurl }}{% post_url 2026-11-24-ai-osoji-annai-buntanhyo %}) — 共有フォルダとあわせて、オフィスの片づけも進めるときに
+- [業務改善提案書をAIで書く｜事務職の例文と型]({{ site.baseurl }}{% post_url 2026-11-28-ai-gyomu-kaizen-teiansho %}) — 命名ルールの見直しを改善提案として出すときに
 
 ---
 

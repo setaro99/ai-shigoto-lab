@@ -115,6 +115,14 @@ Excelの「数式の検証」と、AIの解説の両方を見て一致すれば�
 
 読めない数式は、怖いものではなく、まだ翻訳していないだけの文章です。まずは、いま触るのが怖い数式を1つ選んで、プロンプト①に貼ってみてください。
 
+## あわせて読みたい
+
+- [Excelの関数をAIに作らせる｜「日本語で頼むだけ」入門]({{ site.baseurl }}{% post_url 2026-07-14-ai-excel-kansu %}) — 読めるようになったら、次は自分で数式を作ってもらう
+- [Excelのエラー値をAIに聞く｜原因究明と直し方]({{ site.baseurl }}{% post_url 2026-08-12-ai-excel-error %}) — 引き継いだ表に#N/Aなどのエラーが出ているときに
+- [VBAマクロをAIに書かせる｜未経験でも業務自動化]({{ site.baseurl }}{% post_url 2026-07-20-ai-vba-macro %}) — 前任者の表にマクロが入っていたときの入口に
+- [Excelの複数シートを1つにまとめる｜AIに頼む手順]({{ site.baseurl }}{% post_url 2026-11-23-ai-excel-fukusu-sheet-matome %}) — 月ごとに分かれたシートを1つに整理するときに
+- [AI×Excel活用 完全まとめ｜関数・VBA・ピボット・エラー値まで]({{ '/excel-guide/' | relative_url }})
+
 ---
 
 この記事のような「日本語で頼むだけ」のExcelレシピを、28本まとめた本があります。複数条件の集計、#N/Aの原因特定、VBAマクロ、パワークエリまで——**[『ExcelをAIに書かせる本』](https://www.amazon.co.jp/dp/B0H93XVJP1)**（著: イイヅカ ミナト／¥499・Kindle Unlimited会員は¥0）。

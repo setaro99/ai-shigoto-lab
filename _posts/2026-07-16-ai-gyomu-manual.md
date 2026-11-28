@@ -73,6 +73,7 @@ AIがまとめた内容は読みやすくても、そのまま社内公開する
 - [問い合わせ対応のFAQをAIで作る｜よくある質問と回答のまとめ方]({{ site.baseurl }}{% post_url 2026-09-11-ai-faq-sakusei %})
 - [ドライバーへの配送指示をAIで整える｜伝達ミスを防ぐ型]({{ site.baseurl }}{% post_url 2026-11-04-ai-driver-haiso-shiji %})
 - [ファイル名の付け方をAIで決める｜共有フォルダの命名ルール]({{ site.baseurl }}{% post_url 2026-11-21-ai-file-mei-rule %}) — マニュアルの保存・版管理の決まりも作るときに
+- [業務改善提案書をAIで書く｜事務職の例文と型]({{ site.baseurl }}{% post_url 2026-11-28-ai-gyomu-kaizen-teiansho %}) — マニュアル化の途中で見つけた手順のムダを提案にするときに
 
 ---
 

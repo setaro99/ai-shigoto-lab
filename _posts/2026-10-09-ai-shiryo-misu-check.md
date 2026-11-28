@@ -103,10 +103,13 @@ AIは、文章を一字ずつ機械的に確認するのが得意で、「何度
 
 提出前の見直しは、5分あれば半分はAIに任せられます。浮いた時間で、相手に伝わるかどうかという「中身」の確認に集中できます。
 
+## あわせて読みたい
+
 - [ビジネスメールの敬語をAIでチェック｜二重敬語の直し方]({{ site.baseurl }}{% post_url 2026-10-04-ai-keigo-check %})
 - [月次報告のコメントをAIで書く｜数字の増減を説明する型]({{ site.baseurl }}{% post_url 2026-10-07-ai-getsuji-hokoku-comment %})
 - [Excelの表記ゆれをAIで統一｜全角半角のばらつき解消]({{ site.baseurl }}{% post_url 2026-08-16-ai-excel-hyokiyure %})
 - [長い資料をAIで要約する｜上司に3行で伝える手順]({{ site.baseurl }}{% post_url 2026-11-25-ai-shiryo-youyaku %}) — 自分が作る側ではなく、渡された長い資料を読んで報告するときに
+- [AI×事務作業 完全まとめ｜週報・引き継ぎ・社内文書まで]({{ '/gyomu-guide/' | relative_url }})
 
 ---
 

@@ -73,6 +73,7 @@ AIが作った稟議書はそのまま提出できる完成度になっている
 - [引き継ぎ書をAIで10分｜抜け漏れを防ぐコツ]({{ site.baseurl }}{% post_url 2026-07-21-ai-hikitsugisho %})
 - [AIで作る業務マニュアル｜質問に答えるだけで完成]({{ site.baseurl }}{% post_url 2026-07-16-ai-gyomu-manual %})
 - [AI×総務の仕事 完全まとめ｜社内周知・取引先へのお知らせ・年末の仕事まで]({{ '/soumu-guide/' | relative_url }})
+- [業務改善提案書をAIで書く｜事務職の例文と型]({{ site.baseurl }}{% post_url 2026-11-28-ai-gyomu-kaizen-teiansho %}) — 決裁の前段階として、改善案を提案書にまとめるときに
 
 ---
 
